@@ -1,0 +1,3 @@
+﻿data,data source
+gdp_state_annual.csv,https://apps.bea.gov/itable/iTable.cfm?ReqID=70&step=1&acrdn=1
+pce_state_annual.csv,https://apps.bea.gov/itable/iTable.cfm?ReqID=70&step=1&acrdn=1
