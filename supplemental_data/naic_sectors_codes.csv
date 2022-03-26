@@ -1,0 +1,23 @@
+﻿code,sector
+TOTAL,Total for All NAICS
+NAICS11,Agriculture
+NAICS21,Mining
+NAICS22,Utilities
+NAICS23,Construction
+NAICSMNF,Manufacturing
+NAICS42,Wholesale Trade
+NAICSRET,Retail Trade
+NAICSTW,Transportation and Warehousing
+NAICS51,Information
+NAICS52,Finance and Insurance
+NAICS53,Real Estate
+NAICS54,Professional Services
+NAICS55,Management of Companies
+NAICS56,Administrative and Support
+NAICS61,Educational Services
+NAICS62,Health Care and Social Assistance
+NAICS71,Arts and Entertainment
+NAICS72,Accommodation and Food Services
+NAICS81,Other Services
+NAICS92,Public Administration
+NONAICS,No NAICS Assigned
