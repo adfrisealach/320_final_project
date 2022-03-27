@@ -1,0 +1,1873 @@
+state,year,education_level,median_income
+Alabama,2008,Regular high school diploma,801711
+Alabama,2009,Regular high school diploma,797598
+Alabama,2010,Regular high school diploma,817024
+Alabama,2011,Regular high school diploma,818373
+Alabama,2012,Regular high school diploma,826740
+Alabama,2013,Regular high school diploma,824476
+Alabama,2014,Regular high school diploma,847523
+Alabama,2015,Regular high school diploma,823871
+Alabama,2016,Regular high school diploma,831521
+Alabama,2017,Regular high school diploma,850231
+Alabama,2018,Regular high school diploma,848061
+Alabama,2019,Regular high school diploma,862665
+Alaska,2008,Regular high school diploma,92760
+Alaska,2009,Regular high school diploma,95366
+Alaska,2010,Regular high school diploma,92880
+Alaska,2011,Regular high school diploma,104706
+Alaska,2012,Regular high school diploma,106047
+Alaska,2013,Regular high school diploma,106234
+Alaska,2014,Regular high school diploma,108523
+Alaska,2015,Regular high school diploma,103684
+Alaska,2016,Regular high school diploma,107185
+Alaska,2017,Regular high school diploma,105599
+Alaska,2018,Regular high school diploma,111553
+Alaska,2019,Regular high school diploma,115044
+Arizona,2008,Regular high school diploma,883096
+Arizona,2009,Regular high school diploma,891969
+Arizona,2010,Regular high school diploma,872239
+Arizona,2011,Regular high school diploma,869809
+Arizona,2012,Regular high school diploma,864774
+Arizona,2013,Regular high school diploma,902311
+Arizona,2014,Regular high school diploma,899108
+Arizona,2015,Regular high school diploma,923788
+Arizona,2016,Regular high school diploma,924912
+Arizona,2017,Regular high school diploma,949695
+Arizona,2018,Regular high school diploma,970146
+Arizona,2019,Regular high school diploma,967328
+Arkansas,2008,Regular high school diploma,553980
+Arkansas,2009,Regular high school diploma,544562
+Arkansas,2010,Regular high school diploma,553179
+Arkansas,2011,Regular high school diploma,576505
+Arkansas,2012,Regular high school diploma,566530
+Arkansas,2013,Regular high school diploma,570932
+Arkansas,2014,Regular high school diploma,568437
+Arkansas,2015,Regular high school diploma,550196
+Arkansas,2016,Regular high school diploma,552084
+Arkansas,2017,Regular high school diploma,557166
+Arkansas,2018,Regular high school diploma,570551
+Arkansas,2019,Regular high school diploma,580998
+California,2008,Regular high school diploma,4386305
+California,2009,Regular high school diploma,4457919
+California,2010,Regular high school diploma,4496875
+California,2011,Regular high school diploma,4613751
+California,2012,Regular high school diploma,4558433
+California,2013,Regular high school diploma,4660364
+California,2014,Regular high school diploma,4768478
+California,2015,Regular high school diploma,4835298
+California,2016,Regular high school diploma,4784486
+California,2017,Regular high school diploma,4937316
+California,2018,Regular high school diploma,4932237
+California,2019,Regular high school diploma,4926010
+Colorado,2008,Regular high school diploma,620536
+Colorado,2009,Regular high school diploma,621150
+Colorado,2010,Regular high school diploma,629426
+Colorado,2011,Regular high school diploma,627471
+Colorado,2012,Regular high school diploma,619568
+Colorado,2013,Regular high school diploma,623953
+Colorado,2014,Regular high school diploma,640470
+Colorado,2015,Regular high school diploma,658172
+Colorado,2016,Regular high school diploma,673089
+Colorado,2017,Regular high school diploma,665293
+Colorado,2018,Regular high school diploma,661387
+Colorado,2019,Regular high school diploma,678101
+Connecticut,2008,Regular high school diploma,585548
+Connecticut,2009,Regular high school diploma,589020
+Connecticut,2010,Regular high school diploma,609078
+Connecticut,2011,Regular high school diploma,597976
+Connecticut,2012,Regular high school diploma,607054
+Connecticut,2013,Regular high school diploma,596039
+Connecticut,2014,Regular high school diploma,599611
+Connecticut,2015,Regular high school diploma,597727
+Connecticut,2016,Regular high school diploma,597334
+Connecticut,2017,Regular high school diploma,599504
+Connecticut,2018,Regular high school diploma,594528
+Connecticut,2019,Regular high school diploma,587402
+Delaware,2008,Regular high school diploma,162323
+Delaware,2009,Regular high school diploma,165267
+Delaware,2010,Regular high school diploma,174852
+Delaware,2011,Regular high school diploma,173692
+Delaware,2012,Regular high school diploma,173099
+Delaware,2013,Regular high school diploma,175148
+Delaware,2014,Regular high school diploma,178275
+Delaware,2015,Regular high school diploma,171293
+Delaware,2016,Regular high school diploma,188694
+Delaware,2017,Regular high school diploma,196249
+Delaware,2018,Regular high school diploma,206004
+Delaware,2019,Regular high school diploma,183375
+District of Columbia,2008,Regular high school diploma,68599
+District of Columbia,2009,Regular high school diploma,71520
+District of Columbia,2010,Regular high school diploma,71709
+District of Columbia,2011,Regular high school diploma,64742
+District of Columbia,2012,Regular high school diploma,69175
+District of Columbia,2013,Regular high school diploma,72608
+District of Columbia,2014,Regular high school diploma,71358
+District of Columbia,2015,Regular high school diploma,69891
+District of Columbia,2016,Regular high school diploma,73974
+District of Columbia,2017,Regular high school diploma,72373
+District of Columbia,2018,Regular high school diploma,67855
+District of Columbia,2019,Regular high school diploma,67492
+Florida,2008,Regular high school diploma,3265311
+Florida,2009,Regular high school diploma,3315145
+Florida,2010,Regular high school diploma,3373011
+Florida,2011,Regular high school diploma,3481927
+Florida,2012,Regular high school diploma,3457338
+Florida,2013,Regular high school diploma,3461436
+Florida,2014,Regular high school diploma,3557737
+Florida,2015,Regular high school diploma,3596122
+Florida,2016,Regular high school diploma,3629364
+Florida,2017,Regular high school diploma,3711112
+Florida,2018,Regular high school diploma,3752049
+Florida,2019,Regular high school diploma,3739283
+Georgia,2008,Regular high school diploma,1521176
+Georgia,2009,Regular high school diploma,1514549
+Georgia,2010,Regular high school diploma,1516328
+Georgia,2011,Regular high school diploma,1551404
+Georgia,2012,Regular high school diploma,1492541
+Georgia,2013,Regular high school diploma,1528378
+Georgia,2014,Regular high school diploma,1552824
+Georgia,2015,Regular high school diploma,1560987
+Georgia,2016,Regular high school diploma,1550795
+Georgia,2017,Regular high school diploma,1607824
+Georgia,2018,Regular high school diploma,1612167
+Georgia,2019,Regular high school diploma,1611419
+Hawaii,2008,Regular high school diploma,229702
+Hawaii,2009,Regular high school diploma,233047
+Hawaii,2010,Regular high school diploma,242167
+Hawaii,2011,Regular high school diploma,245566
+Hawaii,2012,Regular high school diploma,244511
+Hawaii,2013,Regular high school diploma,242657
+Hawaii,2014,Regular high school diploma,256074
+Hawaii,2015,Regular high school diploma,245751
+Hawaii,2016,Regular high school diploma,255380
+Hawaii,2017,Regular high school diploma,258133
+Hawaii,2018,Regular high school diploma,244008
+Hawaii,2019,Regular high school diploma,245865
+Idaho,2008,Regular high school diploma,223911
+Idaho,2009,Regular high school diploma,228808
+Idaho,2010,Regular high school diploma,230584
+Idaho,2011,Regular high school diploma,224424
+Idaho,2012,Regular high school diploma,229196
+Idaho,2013,Regular high school diploma,229258
+Idaho,2014,Regular high school diploma,240690
+Idaho,2015,Regular high school diploma,233224
+Idaho,2016,Regular high school diploma,243314
+Idaho,2017,Regular high school diploma,248246
+Idaho,2018,Regular high school diploma,256141
+Idaho,2019,Regular high school diploma,252180
+Illinois,2008,Regular high school diploma,2002286
+Illinois,2009,Regular high school diploma,2007000
+Illinois,2010,Regular high school diploma,2035135
+Illinois,2011,Regular high school diploma,2054602
+Illinois,2012,Regular high school diploma,2006099
+Illinois,2013,Regular high school diploma,2007048
+Illinois,2014,Regular high school diploma,1985764
+Illinois,2015,Regular high school diploma,2004321
+Illinois,2016,Regular high school diploma,1942508
+Illinois,2017,Regular high school diploma,1956954
+Illinois,2018,Regular high school diploma,1954212
+Illinois,2019,Regular high school diploma,1935552
+Indiana,2008,Regular high school diploma,1265984
+Indiana,2009,Regular high school diploma,1277886
+Indiana,2010,Regular high school diploma,1314266
+Indiana,2011,Regular high school diploma,1301470
+Indiana,2012,Regular high school diploma,1288444
+Indiana,2013,Regular high school diploma,1256522
+Indiana,2014,Regular high school diploma,1263948
+Indiana,2015,Regular high school diploma,1274406
+Indiana,2016,Regular high school diploma,1250854
+Indiana,2017,Regular high school diploma,1216294
+Indiana,2018,Regular high school diploma,1255109
+Indiana,2019,Regular high school diploma,1286464
+Iowa,2008,Regular high school diploma,583832
+Iowa,2009,Regular high school diploma,577249
+Iowa,2010,Regular high school diploma,599922
+Iowa,2011,Regular high school diploma,589057
+Iowa,2012,Regular high school diploma,578840
+Iowa,2013,Regular high school diploma,583114
+Iowa,2014,Regular high school diploma,571438
+Iowa,2015,Regular high school diploma,578730
+Iowa,2016,Regular high school diploma,569965
+Iowa,2017,Regular high school diploma,554936
+Iowa,2018,Regular high school diploma,566515
+Iowa,2019,Regular high school diploma,575335
+Kansas,2008,Regular high school diploma,430062
+Kansas,2009,Regular high school diploma,436251
+Kansas,2010,Regular high school diploma,435178
+Kansas,2011,Regular high school diploma,431469
+Kansas,2012,Regular high school diploma,432186
+Kansas,2013,Regular high school diploma,416030
+Kansas,2014,Regular high school diploma,419478
+Kansas,2015,Regular high school diploma,422313
+Kansas,2016,Regular high school diploma,419534
+Kansas,2017,Regular high school diploma,418378
+Kansas,2018,Regular high school diploma,407584
+Kansas,2019,Regular high school diploma,424095
+Kentucky,2008,Regular high school diploma,789599
+Kentucky,2009,Regular high school diploma,777372
+Kentucky,2010,Regular high school diploma,802733
+Kentucky,2011,Regular high school diploma,784978
+Kentucky,2012,Regular high school diploma,800468
+Kentucky,2013,Regular high school diploma,779831
+Kentucky,2014,Regular high school diploma,789610
+Kentucky,2015,Regular high school diploma,799916
+Kentucky,2016,Regular high school diploma,769421
+Kentucky,2017,Regular high school diploma,794365
+Kentucky,2018,Regular high school diploma,788407
+Kentucky,2019,Regular high school diploma,814916
+Louisiana,2008,Regular high school diploma,838376
+Louisiana,2009,Regular high school diploma,847531
+Louisiana,2010,Regular high school diploma,854229
+Louisiana,2011,Regular high school diploma,864302
+Louisiana,2012,Regular high school diploma,869245
+Louisiana,2013,Regular high school diploma,863613
+Louisiana,2014,Regular high school diploma,876986
+Louisiana,2015,Regular high school diploma,884714
+Louisiana,2016,Regular high school diploma,891304
+Louisiana,2017,Regular high school diploma,896962
+Louisiana,2018,Regular high school diploma,903233
+Louisiana,2019,Regular high school diploma,893425
+Maine,2008,Regular high school diploma,280291
+Maine,2009,Regular high school diploma,268297
+Maine,2010,Regular high school diploma,274840
+Maine,2011,Regular high school diploma,267962
+Maine,2012,Regular high school diploma,278442
+Maine,2013,Regular high school diploma,268512
+Maine,2014,Regular high school diploma,263085
+Maine,2015,Regular high school diploma,265076
+Maine,2016,Regular high school diploma,272769
+Maine,2017,Regular high school diploma,252708
+Maine,2018,Regular high school diploma,258061
+Maine,2019,Regular high school diploma,264179
+Maryland,2008,Regular high school diploma,861570
+Maryland,2009,Regular high school diploma,898333
+Maryland,2010,Regular high school diploma,891737
+Maryland,2011,Regular high school diploma,901390
+Maryland,2012,Regular high school diploma,918055
+Maryland,2013,Regular high school diploma,902742
+Maryland,2014,Regular high school diploma,917417
+Maryland,2015,Regular high school diploma,901946
+Maryland,2016,Regular high school diploma,914616
+Maryland,2017,Regular high school diploma,891835
+Maryland,2018,Regular high school diploma,878231
+Maryland,2019,Regular high school diploma,903664
+Massachusetts,2008,Regular high school diploma,1043266
+Massachusetts,2009,Regular high school diploma,1053369
+Massachusetts,2010,Regular high school diploma,1036523
+Massachusetts,2011,Regular high school diploma,1036573
+Massachusetts,2012,Regular high school diploma,1048250
+Massachusetts,2013,Regular high school diploma,1053415
+Massachusetts,2014,Regular high school diploma,1027761
+Massachusetts,2015,Regular high school diploma,1051158
+Massachusetts,2016,Regular high school diploma,1023967
+Massachusetts,2017,Regular high school diploma,1033358
+Massachusetts,2018,Regular high school diploma,995993
+Massachusetts,2019,Regular high school diploma,1015844
+Michigan,2008,Regular high school diploma,1793375
+Michigan,2009,Regular high school diploma,1797817
+Michigan,2010,Regular high school diploma,1770917
+Michigan,2011,Regular high school diploma,1766599
+Michigan,2012,Regular high school diploma,1758949
+Michigan,2013,Regular high school diploma,1705953
+Michigan,2014,Regular high school diploma,1709421
+Michigan,2015,Regular high school diploma,1704085
+Michigan,2016,Regular high school diploma,1702082
+Michigan,2017,Regular high school diploma,1705561
+Michigan,2018,Regular high school diploma,1695003
+Michigan,2019,Regular high school diploma,1732283
+Minnesota,2008,Regular high school diploma,843296
+Minnesota,2009,Regular high school diploma,861902
+Minnesota,2010,Regular high school diploma,852174
+Minnesota,2011,Regular high school diploma,849563
+Minnesota,2012,Regular high school diploma,840396
+Minnesota,2013,Regular high school diploma,841327
+Minnesota,2014,Regular high school diploma,827997
+Minnesota,2015,Regular high school diploma,823342
+Minnesota,2016,Regular high school diploma,821200
+Minnesota,2017,Regular high school diploma,821473
+Minnesota,2018,Regular high school diploma,805258
+Minnesota,2019,Regular high school diploma,824041
+Mississippi,2008,Regular high school diploma,455205
+Mississippi,2009,Regular high school diploma,460788
+Mississippi,2010,Regular high school diploma,474655
+Mississippi,2011,Regular high school diploma,471391
+Mississippi,2012,Regular high school diploma,462900
+Mississippi,2013,Regular high school diploma,478850
+Mississippi,2014,Regular high school diploma,466649
+Mississippi,2015,Regular high school diploma,478161
+Mississippi,2016,Regular high school diploma,477515
+Mississippi,2017,Regular high school diploma,474462
+Mississippi,2018,Regular high school diploma,475011
+Mississippi,2019,Regular high school diploma,470174
+Missouri,2008,Regular high school diploma,1070280
+Missouri,2009,Regular high school diploma,1079458
+Missouri,2010,Regular high school diploma,1086599
+Missouri,2011,Regular high school diploma,1079432
+Missouri,2012,Regular high school diploma,1086729
+Missouri,2013,Regular high school diploma,1081768
+Missouri,2014,Regular high school diploma,1083421
+Missouri,2015,Regular high school diploma,1081298
+Missouri,2016,Regular high school diploma,1083372
+Missouri,2017,Regular high school diploma,1085755
+Missouri,2018,Regular high school diploma,1080418
+Missouri,2019,Regular high school diploma,1108345
+Montana,2008,Regular high school diploma,167663
+Montana,2009,Regular high school diploma,172150
+Montana,2010,Regular high school diploma,172340
+Montana,2011,Regular high school diploma,171737
+Montana,2012,Regular high school diploma,167970
+Montana,2013,Regular high school diploma,171036
+Montana,2014,Regular high school diploma,179135
+Montana,2015,Regular high school diploma,191118
+Montana,2016,Regular high school diploma,172231
+Montana,2017,Regular high school diploma,169931
+Montana,2018,Regular high school diploma,170480
+Montana,2019,Regular high school diploma,175333
+Nebraska,2008,Regular high school diploma,299334
+Nebraska,2009,Regular high school diploma,290089
+Nebraska,2010,Regular high school diploma,294198
+Nebraska,2011,Regular high school diploma,308346
+Nebraska,2012,Regular high school diploma,292831
+Nebraska,2013,Regular high school diploma,288248
+Nebraska,2014,Regular high school diploma,288812
+Nebraska,2015,Regular high school diploma,289281
+Nebraska,2016,Regular high school diploma,286360
+Nebraska,2017,Regular high school diploma,287016
+Nebraska,2018,Regular high school diploma,283093
+Nebraska,2019,Regular high school diploma,282195
+Nevada,2008,Regular high school diploma,426949
+Nevada,2009,Regular high school diploma,436008
+Nevada,2010,Regular high school diploma,465362
+Nevada,2011,Regular high school diploma,456962
+Nevada,2012,Regular high school diploma,457175
+Nevada,2013,Regular high school diploma,455188
+Nevada,2014,Regular high school diploma,462876
+Nevada,2015,Regular high school diploma,473687
+Nevada,2016,Regular high school diploma,498977
+Nevada,2017,Regular high school diploma,511692
+Nevada,2018,Regular high school diploma,496764
+Nevada,2019,Regular high school diploma,501540
+New Hampshire,2008,Regular high school diploma,224980
+New Hampshire,2009,Regular high school diploma,231912
+New Hampshire,2010,Regular high school diploma,236495
+New Hampshire,2011,Regular high school diploma,232985
+New Hampshire,2012,Regular high school diploma,233128
+New Hampshire,2013,Regular high school diploma,232141
+New Hampshire,2014,Regular high school diploma,228002
+New Hampshire,2015,Regular high school diploma,225386
+New Hampshire,2016,Regular high school diploma,217686
+New Hampshire,2017,Regular high school diploma,227076
+New Hampshire,2018,Regular high school diploma,228576
+New Hampshire,2019,Regular high school diploma,232289
+New Jersey,2008,Regular high school diploma,1573798
+New Jersey,2009,Regular high school diploma,1583896
+New Jersey,2010,Regular high school diploma,1614991
+New Jersey,2011,Regular high school diploma,1613814
+New Jersey,2012,Regular high school diploma,1585222
+New Jersey,2013,Regular high school diploma,1588693
+New Jersey,2014,Regular high school diploma,1577888
+New Jersey,2015,Regular high school diploma,1602910
+New Jersey,2016,Regular high school diploma,1541029
+New Jersey,2017,Regular high school diploma,1542650
+New Jersey,2018,Regular high school diploma,1481835
+New Jersey,2019,Regular high school diploma,1518321
+New Mexico,2008,Regular high school diploma,277362
+New Mexico,2009,Regular high school diploma,282463
+New Mexico,2010,Regular high school diploma,296124
+New Mexico,2011,Regular high school diploma,302561
+New Mexico,2012,Regular high school diploma,298375
+New Mexico,2013,Regular high school diploma,300111
+New Mexico,2014,Regular high school diploma,299171
+New Mexico,2015,Regular high school diploma,297144
+New Mexico,2016,Regular high school diploma,310743
+New Mexico,2017,Regular high school diploma,306790
+New Mexico,2018,Regular high school diploma,303375
+New Mexico,2019,Regular high school diploma,309449
+New York,2008,Regular high school diploma,3115089
+New York,2009,Regular high school diploma,3151131
+New York,2010,Regular high school diploma,3150648
+New York,2011,Regular high school diploma,3152002
+New York,2012,Regular high school diploma,3081374
+New York,2013,Regular high school diploma,3086672
+New York,2014,Regular high school diploma,3074611
+New York,2015,Regular high school diploma,3085341
+New York,2016,Regular high school diploma,3036385
+New York,2017,Regular high school diploma,3078045
+New York,2018,Regular high school diploma,3003726
+New York,2019,Regular high school diploma,2981084
+North Carolina,2008,Regular high school diploma,1412377
+North Carolina,2009,Regular high school diploma,1410601
+North Carolina,2010,Regular high school diploma,1473262
+North Carolina,2011,Regular high school diploma,1476234
+North Carolina,2012,Regular high school diploma,1475044
+North Carolina,2013,Regular high school diploma,1447342
+North Carolina,2014,Regular high school diploma,1484395
+North Carolina,2015,Regular high school diploma,1483455
+North Carolina,2016,Regular high school diploma,1472415
+North Carolina,2017,Regular high school diploma,1508979
+North Carolina,2018,Regular high school diploma,1504782
+North Carolina,2019,Regular high school diploma,1537065
+North Dakota,2008,Regular high school diploma,99517
+North Dakota,2009,Regular high school diploma,98900
+North Dakota,2010,Regular high school diploma,103470
+North Dakota,2011,Regular high school diploma,105369
+North Dakota,2012,Regular high school diploma,111239
+North Dakota,2013,Regular high school diploma,111666
+North Dakota,2014,Regular high school diploma,115457
+North Dakota,2015,Regular high school diploma,117123
+North Dakota,2016,Regular high school diploma,115825
+North Dakota,2017,Regular high school diploma,111058
+North Dakota,2018,Regular high school diploma,111463
+North Dakota,2019,Regular high school diploma,112015
+Ohio,2008,Regular high school diploma,2430311
+Ohio,2009,Regular high school diploma,2431678
+Ohio,2010,Regular high school diploma,2425147
+Ohio,2011,Regular high school diploma,2404732
+Ohio,2012,Regular high school diploma,2385539
+Ohio,2013,Regular high school diploma,2362627
+Ohio,2014,Regular high school diploma,2372992
+Ohio,2015,Regular high school diploma,2360280
+Ohio,2016,Regular high school diploma,2333030
+Ohio,2017,Regular high school diploma,2350637
+Ohio,2018,Regular high school diploma,2307090
+Ohio,2019,Regular high school diploma,2314611
+Oklahoma,2008,Regular high school diploma,634144
+Oklahoma,2009,Regular high school diploma,633931
+Oklahoma,2010,Regular high school diploma,660833
+Oklahoma,2011,Regular high school diploma,656408
+Oklahoma,2012,Regular high school diploma,662794
+Oklahoma,2013,Regular high school diploma,684772
+Oklahoma,2014,Regular high school diploma,668381
+Oklahoma,2015,Regular high school diploma,681323
+Oklahoma,2016,Regular high school diploma,674289
+Oklahoma,2017,Regular high school diploma,677688
+Oklahoma,2018,Regular high school diploma,687231
+Oklahoma,2019,Regular high school diploma,685190
+Oregon,2008,Regular high school diploma,547394
+Oregon,2009,Regular high school diploma,523306
+Oregon,2010,Regular high school diploma,534940
+Oregon,2011,Regular high school diploma,545935
+Oregon,2012,Regular high school diploma,545481
+Oregon,2013,Regular high school diploma,529879
+Oregon,2014,Regular high school diploma,541003
+Oregon,2015,Regular high school diploma,525568
+Oregon,2016,Regular high school diploma,526763
+Oregon,2017,Regular high school diploma,547333
+Oregon,2018,Regular high school diploma,534813
+Oregon,2019,Regular high school diploma,561087
+Pennsylvania,2008,Regular high school diploma,2848361
+Pennsylvania,2009,Regular high school diploma,2916440
+Pennsylvania,2010,Regular high school diploma,2906937
+Pennsylvania,2011,Regular high school diploma,2922222
+Pennsylvania,2012,Regular high school diploma,2870894
+Pennsylvania,2013,Regular high school diploma,2852262
+Pennsylvania,2014,Regular high school diploma,2871756
+Pennsylvania,2015,Regular high school diploma,2814891
+Pennsylvania,2016,Regular high school diploma,2787677
+Pennsylvania,2017,Regular high school diploma,2789937
+Pennsylvania,2018,Regular high school diploma,2761942
+Pennsylvania,2019,Regular high school diploma,2758116
+Puerto Rico,2008,Regular high school diploma,516182
+Puerto Rico,2009,Regular high school diploma,567089
+Puerto Rico,2010,Regular high school diploma,541967
+Puerto Rico,2011,Regular high school diploma,573636
+Puerto Rico,2012,Regular high school diploma,583325
+Puerto Rico,2013,Regular high school diploma,590396
+Puerto Rico,2014,Regular high school diploma,608205
+Puerto Rico,2015,Regular high school diploma,582643
+Puerto Rico,2016,Regular high school diploma,591067
+Puerto Rico,2017,Regular high school diploma,593528
+Puerto Rico,2018,Regular high school diploma,593674
+Puerto Rico,2019,Regular high school diploma,595413
+Rhode Island,2008,Regular high school diploma,166836
+Rhode Island,2009,Regular high school diploma,166719
+Rhode Island,2010,Regular high school diploma,160200
+Rhode Island,2011,Regular high school diploma,156391
+Rhode Island,2012,Regular high school diploma,165835
+Rhode Island,2013,Regular high school diploma,162950
+Rhode Island,2014,Regular high school diploma,173794
+Rhode Island,2015,Regular high school diploma,171457
+Rhode Island,2016,Regular high school diploma,167783
+Rhode Island,2017,Regular high school diploma,185518
+Rhode Island,2018,Regular high school diploma,176913
+Rhode Island,2019,Regular high school diploma,178974
+South Carolina,2008,Regular high school diploma,785787
+South Carolina,2009,Regular high school diploma,789199
+South Carolina,2010,Regular high school diploma,802730
+South Carolina,2011,Regular high school diploma,825273
+South Carolina,2012,Regular high school diploma,796955
+South Carolina,2013,Regular high school diploma,795318
+South Carolina,2014,Regular high school diploma,839898
+South Carolina,2015,Regular high school diploma,829223
+South Carolina,2016,Regular high school diploma,834907
+South Carolina,2017,Regular high school diploma,861201
+South Carolina,2018,Regular high school diploma,882586
+South Carolina,2019,Regular high school diploma,859406
+South Dakota,2008,Regular high school diploma,148037
+South Dakota,2009,Regular high school diploma,148505
+South Dakota,2010,Regular high school diploma,146863
+South Dakota,2011,Regular high school diploma,143131
+South Dakota,2012,Regular high school diploma,153301
+South Dakota,2013,Regular high school diploma,147676
+South Dakota,2014,Regular high school diploma,146637
+South Dakota,2015,Regular high school diploma,150248
+South Dakota,2016,Regular high school diploma,139760
+South Dakota,2017,Regular high school diploma,152075
+South Dakota,2018,Regular high school diploma,152145
+South Dakota,2019,Regular high school diploma,152869
+Tennessee,2008,Regular high school diploma,1114556
+Tennessee,2009,Regular high school diploma,1139037
+Tennessee,2010,Regular high school diploma,1166714
+Tennessee,2011,Regular high school diploma,1175995
+Tennessee,2012,Regular high school diploma,1166971
+Tennessee,2013,Regular high school diploma,1159044
+Tennessee,2014,Regular high school diploma,1195880
+Tennessee,2015,Regular high school diploma,1204266
+Tennessee,2016,Regular high school diploma,1199477
+Tennessee,2017,Regular high school diploma,1220422
+Tennessee,2018,Regular high school diploma,1213413
+Tennessee,2019,Regular high school diploma,1214437
+Texas,2008,Regular high school diploma,3146485
+Texas,2009,Regular high school diploma,3194584
+Texas,2010,Regular high school diploma,3302510
+Texas,2011,Regular high school diploma,3372752
+Texas,2012,Regular high school diploma,3385514
+Texas,2013,Regular high school diploma,3422208
+Texas,2014,Regular high school diploma,3526354
+Texas,2015,Regular high school diploma,3639623
+Texas,2016,Regular high school diploma,3701336
+Texas,2017,Regular high school diploma,3765663
+Texas,2018,Regular high school diploma,3801672
+Texas,2019,Regular high school diploma,3924228
+Utah,2008,Regular high school diploma,334414
+Utah,2009,Regular high school diploma,349117
+Utah,2010,Regular high school diploma,343912
+Utah,2011,Regular high school diploma,340013
+Utah,2012,Regular high school diploma,327025
+Utah,2013,Regular high school diploma,333172
+Utah,2014,Regular high school diploma,346201
+Utah,2015,Regular high school diploma,369046
+Utah,2016,Regular high school diploma,354303
+Utah,2017,Regular high school diploma,354114
+Utah,2018,Regular high school diploma,367329
+Utah,2019,Regular high school diploma,384357
+Vermont,2008,Regular high school diploma,124856
+Vermont,2009,Regular high school diploma,120395
+Vermont,2010,Regular high school diploma,118533
+Vermont,2011,Regular high school diploma,116141
+Vermont,2012,Regular high school diploma,117535
+Vermont,2013,Regular high school diploma,115073
+Vermont,2014,Regular high school diploma,120115
+Vermont,2015,Regular high school diploma,111001
+Vermont,2016,Regular high school diploma,112116
+Vermont,2017,Regular high school diploma,113275
+Vermont,2018,Regular high school diploma,111598
+Vermont,2019,Regular high school diploma,115058
+Virginia,2008,Regular high school diploma,1109914
+Virginia,2009,Regular high school diploma,1132350
+Virginia,2010,Regular high school diploma,1174873
+Virginia,2011,Regular high school diploma,1175670
+Virginia,2012,Regular high school diploma,1176004
+Virginia,2013,Regular high school diploma,1161523
+Virginia,2014,Regular high school diploma,1164037
+Virginia,2015,Regular high school diploma,1168567
+Virginia,2016,Regular high school diploma,1147310
+Virginia,2017,Regular high school diploma,1171892
+Virginia,2018,Regular high school diploma,1168982
+Virginia,2019,Regular high school diploma,1156419
+Washington,2008,Regular high school diploma,876760
+Washington,2009,Regular high school diploma,891059
+Washington,2010,Regular high school diploma,901110
+Washington,2011,Regular high school diploma,915967
+Washington,2012,Regular high school diploma,921721
+Washington,2013,Regular high school diploma,903852
+Washington,2014,Regular high school diploma,903776
+Washington,2015,Regular high school diploma,926068
+Washington,2016,Regular high school diploma,917047
+Washington,2017,Regular high school diploma,939483
+Washington,2018,Regular high school diploma,945747
+Washington,2019,Regular high school diploma,955541
+West Virginia,2008,Regular high school diploma,433562
+West Virginia,2009,Regular high school diploma,439478
+West Virginia,2010,Regular high school diploma,450902
+West Virginia,2011,Regular high school diploma,453908
+West Virginia,2012,Regular high school diploma,439338
+West Virginia,2013,Regular high school diploma,438318
+West Virginia,2014,Regular high school diploma,444699
+West Virginia,2015,Regular high school diploma,441013
+West Virginia,2016,Regular high school diploma,422721
+West Virginia,2017,Regular high school diploma,443031
+West Virginia,2018,Regular high school diploma,426284
+West Virginia,2019,Regular high school diploma,431856
+Wisconsin,2008,Regular high school diploma,1130927
+Wisconsin,2009,Regular high school diploma,1148914
+Wisconsin,2010,Regular high school diploma,1128203
+Wisconsin,2011,Regular high school diploma,1132318
+Wisconsin,2012,Regular high school diploma,1112713
+Wisconsin,2013,Regular high school diploma,1104482
+Wisconsin,2014,Regular high school diploma,1100818
+Wisconsin,2015,Regular high school diploma,1080781
+Wisconsin,2016,Regular high school diploma,1083082
+Wisconsin,2017,Regular high school diploma,1077466
+Wisconsin,2018,Regular high school diploma,1087175
+Wisconsin,2019,Regular high school diploma,1081686
+Wyoming,2008,Regular high school diploma,86832
+Wyoming,2009,Regular high school diploma,89825
+Wyoming,2010,Regular high school diploma,92179
+Wyoming,2011,Regular high school diploma,94903
+Wyoming,2012,Regular high school diploma,95341
+Wyoming,2013,Regular high school diploma,90150
+Wyoming,2014,Regular high school diploma,86194
+Wyoming,2015,Regular high school diploma,94610
+Wyoming,2016,Regular high school diploma,93204
+Wyoming,2017,Regular high school diploma,93973
+Wyoming,2018,Regular high school diploma,92312
+Wyoming,2019,Regular high school diploma,95667
+Alabama,2008,Associate's degree,210308
+Alabama,2009,Associate's degree,218551
+Alabama,2010,Associate's degree,225382
+Alabama,2011,Associate's degree,236162
+Alabama,2012,Associate's degree,238555
+Alabama,2013,Associate's degree,258110
+Alabama,2014,Associate's degree,256777
+Alabama,2015,Associate's degree,266452
+Alabama,2016,Associate's degree,271030
+Alabama,2017,Associate's degree,278878
+Alabama,2018,Associate's degree,288285
+Alabama,2019,Associate's degree,301914
+Alaska,2008,Associate's degree,34122
+Alaska,2009,Associate's degree,32532
+Alaska,2010,Associate's degree,37106
+Alaska,2011,Associate's degree,34000
+Alaska,2012,Associate's degree,38287
+Alaska,2013,Associate's degree,38486
+Alaska,2014,Associate's degree,38086
+Alaska,2015,Associate's degree,38113
+Alaska,2016,Associate's degree,40819
+Alaska,2017,Associate's degree,42724
+Alaska,2018,Associate's degree,39938
+Alaska,2019,Associate's degree,43394
+Arizona,2008,Associate's degree,328608
+Arizona,2009,Associate's degree,330543
+Arizona,2010,Associate's degree,336950
+Arizona,2011,Associate's degree,348197
+Arizona,2012,Associate's degree,360519
+Arizona,2013,Associate's degree,374877
+Arizona,2014,Associate's degree,376649
+Arizona,2015,Associate's degree,382106
+Arizona,2016,Associate's degree,390843
+Arizona,2017,Associate's degree,408070
+Arizona,2018,Associate's degree,428422
+Arizona,2019,Associate's degree,431854
+Arkansas,2008,Associate's degree,104524
+Arkansas,2009,Associate's degree,115017
+Arkansas,2010,Associate's degree,121711
+Arkansas,2011,Associate's degree,113074
+Arkansas,2012,Associate's degree,118932
+Arkansas,2013,Associate's degree,119812
+Arkansas,2014,Associate's degree,123871
+Arkansas,2015,Associate's degree,135029
+Arkansas,2016,Associate's degree,133315
+Arkansas,2017,Associate's degree,143522
+Arkansas,2018,Associate's degree,154143
+Arkansas,2019,Associate's degree,151738
+California,2008,Associate's degree,1789376
+California,2009,Associate's degree,1797763
+California,2010,Associate's degree,1831667
+California,2011,Associate's degree,1872437
+California,2012,Associate's degree,1959097
+California,2013,Associate's degree,1980401
+California,2014,Associate's degree,2002684
+California,2015,Associate's degree,1992703
+California,2016,Associate's degree,2031775
+California,2017,Associate's degree,2070661
+California,2018,Associate's degree,2140543
+California,2019,Associate's degree,2118792
+Colorado,2008,Associate's degree,248519
+Colorado,2009,Associate's degree,261847
+Colorado,2010,Associate's degree,260733
+Colorado,2011,Associate's degree,281428
+Colorado,2012,Associate's degree,288253
+Colorado,2013,Associate's degree,291173
+Colorado,2014,Associate's degree,294629
+Colorado,2015,Associate's degree,301203
+Colorado,2016,Associate's degree,322529
+Colorado,2017,Associate's degree,313309
+Colorado,2018,Associate's degree,329255
+Colorado,2019,Associate's degree,334961
+Connecticut,2008,Associate's degree,176357
+Connecticut,2009,Associate's degree,174809
+Connecticut,2010,Associate's degree,173047
+Connecticut,2011,Associate's degree,179119
+Connecticut,2012,Associate's degree,182429
+Connecticut,2013,Associate's degree,184109
+Connecticut,2014,Associate's degree,184589
+Connecticut,2015,Associate's degree,187970
+Connecticut,2016,Associate's degree,186288
+Connecticut,2017,Associate's degree,201193
+Connecticut,2018,Associate's degree,195971
+Connecticut,2019,Associate's degree,190700
+Delaware,2008,Associate's degree,41966
+Delaware,2009,Associate's degree,44146
+Delaware,2010,Associate's degree,43386
+Delaware,2011,Associate's degree,42602
+Delaware,2012,Associate's degree,44331
+Delaware,2013,Associate's degree,48277
+Delaware,2014,Associate's degree,50787
+Delaware,2015,Associate's degree,52556
+Delaware,2016,Associate's degree,52228
+Delaware,2017,Associate's degree,51777
+Delaware,2018,Associate's degree,51648
+Delaware,2019,Associate's degree,56885
+District of Columbia,2008,Associate's degree,11990
+District of Columbia,2009,Associate's degree,10728
+District of Columbia,2010,Associate's degree,13337
+District of Columbia,2011,Associate's degree,11907
+District of Columbia,2012,Associate's degree,14083
+District of Columbia,2013,Associate's degree,13818
+District of Columbia,2014,Associate's degree,15936
+District of Columbia,2015,Associate's degree,14002
+District of Columbia,2016,Associate's degree,14086
+District of Columbia,2017,Associate's degree,15722
+District of Columbia,2018,Associate's degree,13948
+District of Columbia,2019,Associate's degree,16922
+Florida,2008,Associate's degree,1061658
+Florida,2009,Associate's degree,1083545
+Florida,2010,Associate's degree,1121500
+Florida,2011,Associate's degree,1175984
+Florida,2012,Associate's degree,1236800
+Florida,2013,Associate's degree,1300616
+Florida,2014,Associate's degree,1358245
+Florida,2015,Associate's degree,1383565
+Florida,2016,Associate's degree,1429121
+Florida,2017,Associate's degree,1507434
+Florida,2018,Associate's degree,1489510
+Florida,2019,Associate's degree,1538727
+Georgia,2008,Associate's degree,401040
+Georgia,2009,Associate's degree,401660
+Georgia,2010,Associate's degree,422830
+Georgia,2011,Associate's degree,419954
+Georgia,2012,Associate's degree,453039
+Georgia,2013,Associate's degree,477132
+Georgia,2014,Associate's degree,462543
+Georgia,2015,Associate's degree,496008
+Georgia,2016,Associate's degree,518208
+Georgia,2017,Associate's degree,540564
+Georgia,2018,Associate's degree,562774
+Georgia,2019,Associate's degree,568130
+Hawaii,2008,Associate's degree,85014
+Hawaii,2009,Associate's degree,87354
+Hawaii,2010,Associate's degree,85655
+Hawaii,2011,Associate's degree,94200
+Hawaii,2012,Associate's degree,95686
+Hawaii,2013,Associate's degree,100056
+Hawaii,2014,Associate's degree,102149
+Hawaii,2015,Associate's degree,105951
+Hawaii,2016,Associate's degree,104261
+Hawaii,2017,Associate's degree,106987
+Hawaii,2018,Associate's degree,110557
+Hawaii,2019,Associate's degree,106096
+Idaho,2008,Associate's degree,82006
+Idaho,2009,Associate's degree,80424
+Idaho,2010,Associate's degree,81703
+Idaho,2011,Associate's degree,88949
+Idaho,2012,Associate's degree,91295
+Idaho,2013,Associate's degree,93044
+Idaho,2014,Associate's degree,97174
+Idaho,2015,Associate's degree,102284
+Idaho,2016,Associate's degree,104375
+Idaho,2017,Associate's degree,107505
+Idaho,2018,Associate's degree,113323
+Idaho,2019,Associate's degree,124584
+Illinois,2008,Associate's degree,608705
+Illinois,2009,Associate's degree,615678
+Illinois,2010,Associate's degree,609204
+Illinois,2011,Associate's degree,622949
+Illinois,2012,Associate's degree,647039
+Illinois,2013,Associate's degree,654943
+Illinois,2014,Associate's degree,670372
+Illinois,2015,Associate's degree,698002
+Illinois,2016,Associate's degree,682989
+Illinois,2017,Associate's degree,692672
+Illinois,2018,Associate's degree,704851
+Illinois,2019,Associate's degree,710058
+Indiana,2008,Associate's degree,313410
+Indiana,2009,Associate's degree,315650
+Indiana,2010,Associate's degree,315927
+Indiana,2011,Associate's degree,334810
+Indiana,2012,Associate's degree,347606
+Indiana,2013,Associate's degree,352907
+Indiana,2014,Associate's degree,367996
+Indiana,2015,Associate's degree,364142
+Indiana,2016,Associate's degree,374136
+Indiana,2017,Associate's degree,394092
+Indiana,2018,Associate's degree,397824
+Indiana,2019,Associate's degree,397627
+Iowa,2008,Associate's degree,191386
+Iowa,2009,Associate's degree,201612
+Iowa,2010,Associate's degree,202577
+Iowa,2011,Associate's degree,211899
+Iowa,2012,Associate's degree,226481
+Iowa,2013,Associate's degree,226473
+Iowa,2014,Associate's degree,233906
+Iowa,2015,Associate's degree,236728
+Iowa,2016,Associate's degree,234055
+Iowa,2017,Associate's degree,242738
+Iowa,2018,Associate's degree,247997
+Iowa,2019,Associate's degree,251578
+Kansas,2008,Associate's degree,134503
+Kansas,2009,Associate's degree,129360
+Kansas,2010,Associate's degree,135842
+Kansas,2011,Associate's degree,137051
+Kansas,2012,Associate's degree,149866
+Kansas,2013,Associate's degree,146088
+Kansas,2014,Associate's degree,153284
+Kansas,2015,Associate's degree,158308
+Kansas,2016,Associate's degree,157030
+Kansas,2017,Associate's degree,167548
+Kansas,2018,Associate's degree,170965
+Kansas,2019,Associate's degree,173251
+Kentucky,2008,Associate's degree,192580
+Kentucky,2009,Associate's degree,187874
+Kentucky,2010,Associate's degree,198229
+Kentucky,2011,Associate's degree,203585
+Kentucky,2012,Associate's degree,211692
+Kentucky,2013,Associate's degree,224279
+Kentucky,2014,Associate's degree,228473
+Kentucky,2015,Associate's degree,235061
+Kentucky,2016,Associate's degree,256369
+Kentucky,2017,Associate's degree,241585
+Kentucky,2018,Associate's degree,261964
+Kentucky,2019,Associate's degree,260188
+Louisiana,2008,Associate's degree,137845
+Louisiana,2009,Associate's degree,139674
+Louisiana,2010,Associate's degree,151174
+Louisiana,2011,Associate's degree,155360
+Louisiana,2012,Associate's degree,160063
+Louisiana,2013,Associate's degree,164926
+Louisiana,2014,Associate's degree,165066
+Louisiana,2015,Associate's degree,189683
+Louisiana,2016,Associate's degree,187288
+Louisiana,2017,Associate's degree,185409
+Louisiana,2018,Associate's degree,203074
+Louisiana,2019,Associate's degree,202310
+Maine,2008,Associate's degree,83959
+Maine,2009,Associate's degree,81337
+Maine,2010,Associate's degree,84698
+Maine,2011,Associate's degree,83864
+Maine,2012,Associate's degree,85732
+Maine,2013,Associate's degree,91720
+Maine,2014,Associate's degree,93426
+Maine,2015,Associate's degree,93335
+Maine,2016,Associate's degree,94984
+Maine,2017,Associate's degree,100214
+Maine,2018,Associate's degree,95274
+Maine,2019,Associate's degree,99008
+Maryland,2008,Associate's degree,230850
+Maryland,2009,Associate's degree,234060
+Maryland,2010,Associate's degree,244750
+Maryland,2011,Associate's degree,245892
+Maryland,2012,Associate's degree,251712
+Maryland,2013,Associate's degree,252612
+Maryland,2014,Associate's degree,265874
+Maryland,2015,Associate's degree,266499
+Maryland,2016,Associate's degree,268485
+Maryland,2017,Associate's degree,285379
+Maryland,2018,Associate's degree,281787
+Maryland,2019,Associate's degree,287293
+Massachusetts,2008,Associate's degree,331517
+Massachusetts,2009,Associate's degree,347972
+Massachusetts,2010,Associate's degree,337594
+Massachusetts,2011,Associate's degree,349778
+Massachusetts,2012,Associate's degree,347381
+Massachusetts,2013,Associate's degree,355093
+Massachusetts,2014,Associate's degree,365816
+Massachusetts,2015,Associate's degree,362478
+Massachusetts,2016,Associate's degree,363356
+Massachusetts,2017,Associate's degree,360700
+Massachusetts,2018,Associate's degree,366687
+Massachusetts,2019,Associate's degree,360810
+Michigan,2008,Associate's degree,534335
+Michigan,2009,Associate's degree,543759
+Michigan,2010,Associate's degree,549148
+Michigan,2011,Associate's degree,555968
+Michigan,2012,Associate's degree,575915
+Michigan,2013,Associate's degree,594224
+Michigan,2014,Associate's degree,618746
+Michigan,2015,Associate's degree,622089
+Michigan,2016,Associate's degree,626128
+Michigan,2017,Associate's degree,649916
+Michigan,2018,Associate's degree,657727
+Michigan,2019,Associate's degree,648794
+Minnesota,2008,Associate's degree,333882
+Minnesota,2009,Associate's degree,339711
+Minnesota,2010,Associate's degree,353299
+Minnesota,2011,Associate's degree,368032
+Minnesota,2012,Associate's degree,381595
+Minnesota,2013,Associate's degree,386177
+Minnesota,2014,Associate's degree,404201
+Minnesota,2015,Associate's degree,413953
+Minnesota,2016,Associate's degree,429762
+Minnesota,2017,Associate's degree,426760
+Minnesota,2018,Associate's degree,445513
+Minnesota,2019,Associate's degree,442578
+Mississippi,2008,Associate's degree,145996
+Mississippi,2009,Associate's degree,131978
+Mississippi,2010,Associate's degree,159702
+Mississippi,2011,Associate's degree,159186
+Mississippi,2012,Associate's degree,160169
+Mississippi,2013,Associate's degree,162584
+Mississippi,2014,Associate's degree,167835
+Mississippi,2015,Associate's degree,179135
+Mississippi,2016,Associate's degree,177695
+Mississippi,2017,Associate's degree,198080
+Mississippi,2018,Associate's degree,200375
+Mississippi,2019,Associate's degree,207448
+Missouri,2008,Associate's degree,263099
+Missouri,2009,Associate's degree,262736
+Missouri,2010,Associate's degree,271659
+Missouri,2011,Associate's degree,286363
+Missouri,2012,Associate's degree,287670
+Missouri,2013,Associate's degree,305928
+Missouri,2014,Associate's degree,304044
+Missouri,2015,Associate's degree,316815
+Missouri,2016,Associate's degree,325244
+Missouri,2017,Associate's degree,326430
+Missouri,2018,Associate's degree,341000
+Missouri,2019,Associate's degree,333721
+Montana,2008,Associate's degree,49516
+Montana,2009,Associate's degree,51322
+Montana,2010,Associate's degree,53464
+Montana,2011,Associate's degree,56859
+Montana,2012,Associate's degree,57590
+Montana,2013,Associate's degree,58287
+Montana,2014,Associate's degree,57211
+Montana,2015,Associate's degree,60796
+Montana,2016,Associate's degree,66134
+Montana,2017,Associate's degree,65772
+Montana,2018,Associate's degree,71397
+Montana,2019,Associate's degree,69400
+Nebraska,2008,Associate's degree,103164
+Nebraska,2009,Associate's degree,107574
+Nebraska,2010,Associate's degree,106676
+Nebraska,2011,Associate's degree,114551
+Nebraska,2012,Associate's degree,117719
+Nebraska,2013,Associate's degree,119325
+Nebraska,2014,Associate's degree,126818
+Nebraska,2015,Associate's degree,125055
+Nebraska,2016,Associate's degree,129795
+Nebraska,2017,Associate's degree,128547
+Nebraska,2018,Associate's degree,137646
+Nebraska,2019,Associate's degree,141189
+Nevada,2008,Associate's degree,120278
+Nevada,2009,Associate's degree,131339
+Nevada,2010,Associate's degree,126202
+Nevada,2011,Associate's degree,129688
+Nevada,2012,Associate's degree,138034
+Nevada,2013,Associate's degree,152516
+Nevada,2014,Associate's degree,154943
+Nevada,2015,Associate's degree,159610
+Nevada,2016,Associate's degree,156342
+Nevada,2017,Associate's degree,165508
+Nevada,2018,Associate's degree,176618
+Nevada,2019,Associate's degree,187469
+New Hampshire,2008,Associate's degree,83703
+New Hampshire,2009,Associate's degree,86666
+New Hampshire,2010,Associate's degree,90731
+New Hampshire,2011,Associate's degree,86730
+New Hampshire,2012,Associate's degree,87025
+New Hampshire,2013,Associate's degree,87766
+New Hampshire,2014,Associate's degree,91285
+New Hampshire,2015,Associate's degree,91199
+New Hampshire,2016,Associate's degree,97488
+New Hampshire,2017,Associate's degree,97978
+New Hampshire,2018,Associate's degree,99230
+New Hampshire,2019,Associate's degree,96658
+New Jersey,2008,Associate's degree,368268
+New Jersey,2009,Associate's degree,364544
+New Jersey,2010,Associate's degree,367832
+New Jersey,2011,Associate's degree,368288
+New Jersey,2012,Associate's degree,372831
+New Jersey,2013,Associate's degree,390906
+New Jersey,2014,Associate's degree,391582
+New Jersey,2015,Associate's degree,392077
+New Jersey,2016,Associate's degree,400332
+New Jersey,2017,Associate's degree,418148
+New Jersey,2018,Associate's degree,409253
+New Jersey,2019,Associate's degree,398984
+New Mexico,2008,Associate's degree,94904
+New Mexico,2009,Associate's degree,95854
+New Mexico,2010,Associate's degree,94493
+New Mexico,2011,Associate's degree,101180
+New Mexico,2012,Associate's degree,111952
+New Mexico,2013,Associate's degree,105811
+New Mexico,2014,Associate's degree,109771
+New Mexico,2015,Associate's degree,106315
+New Mexico,2016,Associate's degree,116674
+New Mexico,2017,Associate's degree,117531
+New Mexico,2018,Associate's degree,113481
+New Mexico,2019,Associate's degree,129531
+New York,2008,Associate's degree,1054806
+New York,2009,Associate's degree,1100827
+New York,2010,Associate's degree,1072055
+New York,2011,Associate's degree,1091931
+New York,2012,Associate's degree,1128596
+New York,2013,Associate's degree,1157285
+New York,2014,Associate's degree,1163427
+New York,2015,Associate's degree,1155067
+New York,2016,Associate's degree,1191816
+New York,2017,Associate's degree,1218132
+New York,2018,Associate's degree,1193573
+New York,2019,Associate's degree,1204588
+North Carolina,2008,Associate's degree,497276
+North Carolina,2009,Associate's degree,524739
+North Carolina,2010,Associate's degree,545716
+North Carolina,2011,Associate's degree,558745
+North Carolina,2012,Associate's degree,562049
+North Carolina,2013,Associate's degree,574725
+North Carolina,2014,Associate's degree,614392
+North Carolina,2015,Associate's degree,623813
+North Carolina,2016,Associate's degree,654866
+North Carolina,2017,Associate's degree,658224
+North Carolina,2018,Associate's degree,701016
+North Carolina,2019,Associate's degree,727882
+North Dakota,2008,Associate's degree,51090
+North Dakota,2009,Associate's degree,51444
+North Dakota,2010,Associate's degree,51857
+North Dakota,2011,Associate's degree,58753
+North Dakota,2012,Associate's degree,56223
+North Dakota,2013,Associate's degree,64445
+North Dakota,2014,Associate's degree,64475
+North Dakota,2015,Associate's degree,64255
+North Dakota,2016,Associate's degree,67554
+North Dakota,2017,Associate's degree,66236
+North Dakota,2018,Associate's degree,74715
+North Dakota,2019,Associate's degree,70716
+Ohio,2008,Associate's degree,567394
+Ohio,2009,Associate's degree,564275
+Ohio,2010,Associate's degree,602445
+Ohio,2011,Associate's degree,602825
+Ohio,2012,Associate's degree,625983
+Ohio,2013,Associate's degree,639633
+Ohio,2014,Associate's degree,659197
+Ohio,2015,Associate's degree,679330
+Ohio,2016,Associate's degree,682507
+Ohio,2017,Associate's degree,698820
+Ohio,2018,Associate's degree,690735
+Ohio,2019,Associate's degree,702601
+Oklahoma,2008,Associate's degree,161141
+Oklahoma,2009,Associate's degree,158883
+Oklahoma,2010,Associate's degree,166649
+Oklahoma,2011,Associate's degree,172761
+Oklahoma,2012,Associate's degree,180387
+Oklahoma,2013,Associate's degree,179720
+Oklahoma,2014,Associate's degree,185914
+Oklahoma,2015,Associate's degree,188756
+Oklahoma,2016,Associate's degree,203590
+Oklahoma,2017,Associate's degree,208717
+Oklahoma,2018,Associate's degree,207381
+Oklahoma,2019,Associate's degree,207896
+Oregon,2008,Associate's degree,211680
+Oregon,2009,Associate's degree,212845
+Oregon,2010,Associate's degree,203853
+Oregon,2011,Associate's degree,215713
+Oregon,2012,Associate's degree,219073
+Oregon,2013,Associate's degree,228207
+Oregon,2014,Associate's degree,231853
+Oregon,2015,Associate's degree,245431
+Oregon,2016,Associate's degree,244515
+Oregon,2017,Associate's degree,255783
+Oregon,2018,Associate's degree,269508
+Oregon,2019,Associate's degree,269102
+Pennsylvania,2008,Associate's degree,625930
+Pennsylvania,2009,Associate's degree,624436
+Pennsylvania,2010,Associate's degree,638002
+Pennsylvania,2011,Associate's degree,658863
+Pennsylvania,2012,Associate's degree,688751
+Pennsylvania,2013,Associate's degree,692226
+Pennsylvania,2014,Associate's degree,700919
+Pennsylvania,2015,Associate's degree,739478
+Pennsylvania,2016,Associate's degree,730217
+Pennsylvania,2017,Associate's degree,747997
+Pennsylvania,2018,Associate's degree,773645
+Pennsylvania,2019,Associate's degree,775694
+Puerto Rico,2008,Associate's degree,217084
+Puerto Rico,2009,Associate's degree,222600
+Puerto Rico,2010,Associate's degree,212186
+Puerto Rico,2011,Associate's degree,215478
+Puerto Rico,2012,Associate's degree,219146
+Puerto Rico,2013,Associate's degree,233730
+Puerto Rico,2014,Associate's degree,223726
+Puerto Rico,2015,Associate's degree,228508
+Puerto Rico,2016,Associate's degree,237746
+Puerto Rico,2017,Associate's degree,242776
+Puerto Rico,2018,Associate's degree,241678
+Puerto Rico,2019,Associate's degree,258905
+Rhode Island,2008,Associate's degree,53648
+Rhode Island,2009,Associate's degree,58849
+Rhode Island,2010,Associate's degree,52759
+Rhode Island,2011,Associate's degree,59485
+Rhode Island,2012,Associate's degree,62628
+Rhode Island,2013,Associate's degree,59867
+Rhode Island,2014,Associate's degree,59701
+Rhode Island,2015,Associate's degree,62153
+Rhode Island,2016,Associate's degree,60183
+Rhode Island,2017,Associate's degree,58876
+Rhode Island,2018,Associate's degree,61601
+Rhode Island,2019,Associate's degree,64204
+South Carolina,2008,Associate's degree,251946
+South Carolina,2009,Associate's degree,253400
+South Carolina,2010,Associate's degree,259417
+South Carolina,2011,Associate's degree,266173
+South Carolina,2012,Associate's degree,281401
+South Carolina,2013,Associate's degree,284604
+South Carolina,2014,Associate's degree,288524
+South Carolina,2015,Associate's degree,312720
+South Carolina,2016,Associate's degree,317549
+South Carolina,2017,Associate's degree,330153
+South Carolina,2018,Associate's degree,354718
+South Carolina,2019,Associate's degree,352549
+South Dakota,2008,Associate's degree,50505
+South Dakota,2009,Associate's degree,50545
+South Dakota,2010,Associate's degree,53362
+South Dakota,2011,Associate's degree,52340
+South Dakota,2012,Associate's degree,53971
+South Dakota,2013,Associate's degree,62856
+South Dakota,2014,Associate's degree,62802
+South Dakota,2015,Associate's degree,62294
+South Dakota,2016,Associate's degree,65093
+South Dakota,2017,Associate's degree,62204
+South Dakota,2018,Associate's degree,70838
+South Dakota,2019,Associate's degree,69831
+Tennessee,2008,Associate's degree,251702
+Tennessee,2009,Associate's degree,257969
+Tennessee,2010,Associate's degree,263107
+Tennessee,2011,Associate's degree,259365
+Tennessee,2012,Associate's degree,283901
+Tennessee,2013,Associate's degree,291304
+Tennessee,2014,Associate's degree,296099
+Tennessee,2015,Associate's degree,300500
+Tennessee,2016,Associate's degree,328595
+Tennessee,2017,Associate's degree,332593
+Tennessee,2018,Associate's degree,348066
+Tennessee,2019,Associate's degree,348886
+Texas,2008,Associate's degree,951090
+Texas,2009,Associate's degree,944093
+Texas,2010,Associate's degree,1000561
+Texas,2011,Associate's degree,1052281
+Texas,2012,Associate's degree,1079819
+Texas,2013,Associate's degree,1090662
+Texas,2014,Associate's degree,1147113
+Texas,2015,Associate's degree,1204220
+Texas,2016,Associate's degree,1259574
+Texas,2017,Associate's degree,1323957
+Texas,2018,Associate's degree,1334999
+Texas,2019,Associate's degree,1402600
+Utah,2008,Associate's degree,147843
+Utah,2009,Associate's degree,143646
+Utah,2010,Associate's degree,143171
+Utah,2011,Associate's degree,148367
+Utah,2012,Associate's degree,159358
+Utah,2013,Associate's degree,159320
+Utah,2014,Associate's degree,168810
+Utah,2015,Associate's degree,159609
+Utah,2016,Associate's degree,178193
+Utah,2017,Associate's degree,172999
+Utah,2018,Associate's degree,191808
+Utah,2019,Associate's degree,184777
+Vermont,2008,Associate's degree,37553
+Vermont,2009,Associate's degree,35647
+Vermont,2010,Associate's degree,35790
+Vermont,2011,Associate's degree,36468
+Vermont,2012,Associate's degree,39279
+Vermont,2013,Associate's degree,35878
+Vermont,2014,Associate's degree,34024
+Vermont,2015,Associate's degree,37916
+Vermont,2016,Associate's degree,40499
+Vermont,2017,Associate's degree,37360
+Vermont,2018,Associate's degree,38133
+Vermont,2019,Associate's degree,38706
+Virginia,2008,Associate's degree,346881
+Virginia,2009,Associate's degree,344109
+Virginia,2010,Associate's degree,361635
+Virginia,2011,Associate's degree,380585
+Virginia,2012,Associate's degree,395520
+Virginia,2013,Associate's degree,405760
+Virginia,2014,Associate's degree,408872
+Virginia,2015,Associate's degree,426955
+Virginia,2016,Associate's degree,438669
+Virginia,2017,Associate's degree,456210
+Virginia,2018,Associate's degree,453566
+Virginia,2019,Associate's degree,468107
+Washington,2008,Associate's degree,408831
+Washington,2009,Associate's degree,411431
+Washington,2010,Associate's degree,425322
+Washington,2011,Associate's degree,445281
+Washington,2012,Associate's degree,448208
+Washington,2013,Associate's degree,449430
+Washington,2014,Associate's degree,479799
+Washington,2015,Associate's degree,471400
+Washington,2016,Associate's degree,491450
+Washington,2017,Associate's degree,514987
+Washington,2018,Associate's degree,533450
+Washington,2019,Associate's degree,527524
+West Virginia,2008,Associate's degree,73953
+West Virginia,2009,Associate's degree,76063
+West Virginia,2010,Associate's degree,75046
+West Virginia,2011,Associate's degree,82692
+West Virginia,2012,Associate's degree,81746
+West Virginia,2013,Associate's degree,87697
+West Virginia,2014,Associate's degree,84402
+West Virginia,2015,Associate's degree,90019
+West Virginia,2016,Associate's degree,95794
+West Virginia,2017,Associate's degree,90494
+West Virginia,2018,Associate's degree,96253
+West Virginia,2019,Associate's degree,101267
+Wisconsin,2008,Associate's degree,330632
+Wisconsin,2009,Associate's degree,338575
+Wisconsin,2010,Associate's degree,354494
+Wisconsin,2011,Associate's degree,366423
+Wisconsin,2012,Associate's degree,386784
+Wisconsin,2013,Associate's degree,389016
+Wisconsin,2014,Associate's degree,402829
+Wisconsin,2015,Associate's degree,411400
+Wisconsin,2016,Associate's degree,420412
+Wisconsin,2017,Associate's degree,433324
+Wisconsin,2018,Associate's degree,438602
+Wisconsin,2019,Associate's degree,438381
+Wyoming,2008,Associate's degree,35190
+Wyoming,2009,Associate's degree,32931
+Wyoming,2010,Associate's degree,39657
+Wyoming,2011,Associate's degree,37078
+Wyoming,2012,Associate's degree,38055
+Wyoming,2013,Associate's degree,41261
+Wyoming,2014,Associate's degree,41611
+Wyoming,2015,Associate's degree,42212
+Wyoming,2016,Associate's degree,45601
+Wyoming,2017,Associate's degree,40340
+Wyoming,2018,Associate's degree,44089
+Wyoming,2019,Associate's degree,44034
+Alabama,2008,Bachelor's degree,439587
+Alabama,2009,Bachelor's degree,447402
+Alabama,2010,Bachelor's degree,439863
+Alabama,2011,Bachelor's degree,443488
+Alabama,2012,Bachelor's degree,472037
+Alabama,2013,Bachelor's degree,476016
+Alabama,2014,Bachelor's degree,478058
+Alabama,2015,Bachelor's degree,504626
+Alabama,2016,Bachelor's degree,506680
+Alabama,2017,Bachelor's degree,528019
+Alabama,2018,Bachelor's degree,536086
+Alabama,2019,Bachelor's degree,547975
+Alaska,2008,Bachelor's degree,74728
+Alaska,2009,Bachelor's degree,75816
+Alaska,2010,Bachelor's degree,83346
+Alaska,2011,Bachelor's degree,77153
+Alaska,2012,Bachelor's degree,79559
+Alaska,2013,Bachelor's degree,84038
+Alaska,2014,Bachelor's degree,85634
+Alaska,2015,Bachelor's degree,87869
+Alaska,2016,Bachelor's degree,90861
+Alaska,2017,Bachelor's degree,86444
+Alaska,2018,Bachelor's degree,89635
+Alaska,2019,Bachelor's degree,89583
+Arizona,2008,Bachelor's degree,667004
+Arizona,2009,Bachelor's degree,691996
+Arizona,2010,Bachelor's degree,691889
+Arizona,2011,Bachelor's degree,719546
+Arizona,2012,Bachelor's degree,735758
+Arizona,2013,Bachelor's degree,741982
+Arizona,2014,Bachelor's degree,765784
+Arizona,2015,Bachelor's degree,788933
+Arizona,2016,Bachelor's degree,835779
+Arizona,2017,Bachelor's degree,863062
+Arizona,2018,Bachelor's degree,898032
+Arizona,2019,Bachelor's degree,931038
+Arkansas,2008,Bachelor's degree,234355
+Arkansas,2009,Bachelor's degree,242389
+Arkansas,2010,Bachelor's degree,252888
+Arkansas,2011,Bachelor's degree,254903
+Arkansas,2012,Bachelor's degree,269141
+Arkansas,2013,Bachelor's degree,262755
+Arkansas,2014,Bachelor's degree,272411
+Arkansas,2015,Bachelor's degree,278975
+Arkansas,2016,Bachelor's degree,282608
+Arkansas,2017,Bachelor's degree,301294
+Arkansas,2018,Bachelor's degree,296422
+Arkansas,2019,Bachelor's degree,307185
+California,2008,Bachelor's degree,4432116
+California,2009,Bachelor's degree,4553969
+California,2010,Bachelor's degree,4610875
+California,2011,Bachelor's degree,4697422
+California,2012,Bachelor's degree,4865203
+California,2013,Bachelor's degree,4905468
+California,2014,Bachelor's degree,5120162
+California,2015,Bachelor's degree,5285754
+California,2016,Bachelor's degree,5426164
+California,2017,Bachelor's degree,5616449
+California,2018,Bachelor's degree,5704852
+California,2019,Bachelor's degree,5889724
+Colorado,2008,Bachelor's degree,748494
+Colorado,2009,Bachelor's degree,762038
+Colorado,2010,Bachelor's degree,779055
+Colorado,2011,Bachelor's degree,789859
+Colorado,2012,Bachelor's degree,818469
+Colorado,2013,Bachelor's degree,837913
+Colorado,2014,Bachelor's degree,862158
+Colorado,2015,Bachelor's degree,909032
+Colorado,2016,Bachelor's degree,934273
+Colorado,2017,Bachelor's degree,994894
+Colorado,2018,Bachelor's degree,1013989
+Colorado,2019,Bachelor's degree,1057825
+Connecticut,2008,Bachelor's degree,481976
+Connecticut,2009,Bachelor's degree,475179
+Connecticut,2010,Bachelor's degree,491990
+Connecticut,2011,Bachelor's degree,500103
+Connecticut,2012,Bachelor's degree,503440
+Connecticut,2013,Bachelor's degree,508487
+Connecticut,2014,Bachelor's degree,527472
+Connecticut,2015,Bachelor's degree,535933
+Connecticut,2016,Bachelor's degree,541369
+Connecticut,2017,Bachelor's degree,533791
+Connecticut,2018,Bachelor's degree,544028
+Connecticut,2019,Bachelor's degree,549166
+Delaware,2008,Bachelor's degree,96864
+Delaware,2009,Bachelor's degree,103335
+Delaware,2010,Bachelor's degree,99400
+Delaware,2011,Bachelor's degree,104599
+Delaware,2012,Bachelor's degree,111921
+Delaware,2013,Bachelor's degree,108075
+Delaware,2014,Bachelor's degree,116931
+Delaware,2015,Bachelor's degree,117581
+Delaware,2016,Bachelor's degree,121717
+Delaware,2017,Bachelor's degree,121442
+Delaware,2018,Bachelor's degree,124178
+Delaware,2019,Bachelor's degree,134287
+District of Columbia,2008,Bachelor's degree,87093
+District of Columbia,2009,Bachelor's degree,84646
+District of Columbia,2010,Bachelor's degree,96573
+District of Columbia,2011,Bachelor's degree,99622
+District of Columbia,2012,Bachelor's degree,100904
+District of Columbia,2013,Bachelor's degree,102958
+District of Columbia,2014,Bachelor's degree,112706
+District of Columbia,2015,Bachelor's degree,112629
+District of Columbia,2016,Bachelor's degree,115097
+District of Columbia,2017,Bachelor's degree,118172
+District of Columbia,2018,Bachelor's degree,129782
+District of Columbia,2019,Bachelor's degree,129825
+Florida,2008,Bachelor's degree,2134466
+Florida,2009,Bachelor's degree,2081848
+Florida,2010,Bachelor's degree,2171876
+Florida,2011,Bachelor's degree,2190780
+Florida,2012,Bachelor's degree,2329936
+Florida,2013,Bachelor's degree,2409162
+Florida,2014,Bachelor's degree,2448663
+Florida,2015,Bachelor's degree,2620339
+Florida,2016,Bachelor's degree,2675907
+Florida,2017,Bachelor's degree,2839500
+Florida,2018,Bachelor's degree,2920459
+Florida,2019,Bachelor's degree,2982643
+Georgia,2008,Bachelor's degree,1100034
+Georgia,2009,Bachelor's degree,1096655
+Georgia,2010,Bachelor's degree,1093642
+Georgia,2011,Bachelor's degree,1119648
+Georgia,2012,Bachelor's degree,1140757
+Georgia,2013,Bachelor's degree,1149847
+Georgia,2014,Bachelor's degree,1199733
+Georgia,2015,Bachelor's degree,1244449
+Georgia,2016,Bachelor's degree,1270275
+Georgia,2017,Bachelor's degree,1311611
+Georgia,2018,Bachelor's degree,1362317
+Georgia,2019,Bachelor's degree,1410395
+Hawaii,2008,Bachelor's degree,167681
+Hawaii,2009,Bachelor's degree,173274
+Hawaii,2010,Bachelor's degree,184364
+Hawaii,2011,Bachelor's degree,180231
+Hawaii,2012,Bachelor's degree,186586
+Hawaii,2013,Bachelor's degree,199229
+Hawaii,2014,Bachelor's degree,200315
+Hawaii,2015,Bachelor's degree,205033
+Hawaii,2016,Bachelor's degree,211850
+Hawaii,2017,Bachelor's degree,216993
+Hawaii,2018,Bachelor's degree,218828
+Hawaii,2019,Bachelor's degree,219979
+Idaho,2008,Bachelor's degree,159133
+Idaho,2009,Bachelor's degree,157721
+Idaho,2010,Bachelor's degree,165218
+Idaho,2011,Bachelor's degree,174646
+Idaho,2012,Bachelor's degree,175020
+Idaho,2013,Bachelor's degree,185216
+Idaho,2014,Bachelor's degree,175108
+Idaho,2015,Bachelor's degree,189566
+Idaho,2016,Bachelor's degree,203363
+Idaho,2017,Bachelor's degree,202800
+Idaho,2018,Bachelor's degree,213462
+Idaho,2019,Bachelor's degree,220189
+Illinois,2008,Bachelor's degree,1565010
+Illinois,2009,Bachelor's degree,1593889
+Illinois,2010,Bachelor's degree,1629625
+Illinois,2011,Bachelor's degree,1645334
+Illinois,2012,Bachelor's degree,1684348
+Illinois,2013,Bachelor's degree,1698605
+Illinois,2014,Bachelor's degree,1737022
+Illinois,2015,Bachelor's degree,1757697
+Illinois,2016,Bachelor's degree,1813840
+Illinois,2017,Bachelor's degree,1829903
+Illinois,2018,Bachelor's degree,1833666
+Illinois,2019,Bachelor's degree,1886240
+Indiana,2008,Bachelor's degree,617092
+Indiana,2009,Bachelor's degree,606497
+Indiana,2010,Bachelor's degree,617193
+Indiana,2011,Bachelor's degree,628173
+Indiana,2012,Bachelor's degree,643210
+Indiana,2013,Bachelor's degree,655276
+Indiana,2014,Bachelor's degree,682893
+Indiana,2015,Bachelor's degree,697223
+Indiana,2016,Bachelor's degree,716293
+Indiana,2017,Bachelor's degree,753268
+Indiana,2018,Bachelor's degree,771811
+Indiana,2019,Bachelor's degree,777771
+Iowa,2008,Bachelor's degree,335245
+Iowa,2009,Bachelor's degree,350245
+Iowa,2010,Bachelor's degree,344952
+Iowa,2011,Bachelor's degree,358051
+Iowa,2012,Bachelor's degree,368331
+Iowa,2013,Bachelor's degree,370188
+Iowa,2014,Bachelor's degree,383943
+Iowa,2015,Bachelor's degree,377035
+Iowa,2016,Bachelor's degree,398242
+Iowa,2017,Bachelor's degree,406630
+Iowa,2018,Bachelor's degree,413442
+Iowa,2019,Bachelor's degree,420199
+Kansas,2008,Bachelor's degree,353290
+Kansas,2009,Bachelor's degree,348274
+Kansas,2010,Bachelor's degree,354379
+Kansas,2011,Bachelor's degree,365541
+Kansas,2012,Bachelor's degree,362899
+Kansas,2013,Bachelor's degree,374418
+Kansas,2014,Bachelor's degree,381292
+Kansas,2015,Bachelor's degree,384495
+Kansas,2016,Bachelor's degree,390861
+Kansas,2017,Bachelor's degree,403542
+Kansas,2018,Bachelor's degree,402368
+Kansas,2019,Bachelor's degree,414851
+Kentucky,2008,Bachelor's degree,337111
+Kentucky,2009,Bachelor's degree,358687
+Kentucky,2010,Bachelor's degree,359930
+Kentucky,2011,Bachelor's degree,359975
+Kentucky,2012,Bachelor's degree,378979
+Kentucky,2013,Bachelor's degree,392610
+Kentucky,2014,Bachelor's degree,386963
+Kentucky,2015,Bachelor's degree,406865
+Kentucky,2016,Bachelor's degree,419081
+Kentucky,2017,Bachelor's degree,423916
+Kentucky,2018,Bachelor's degree,442090
+Kentucky,2019,Bachelor's degree,453040
+Louisiana,2008,Bachelor's degree,389972
+Louisiana,2009,Bachelor's degree,419316
+Louisiana,2010,Bachelor's degree,424074
+Louisiana,2011,Bachelor's degree,415415
+Louisiana,2012,Bachelor's degree,433223
+Louisiana,2013,Bachelor's degree,453347
+Louisiana,2014,Bachelor's degree,463860
+Louisiana,2015,Bachelor's degree,470739
+Louisiana,2016,Bachelor's degree,473299
+Louisiana,2017,Bachelor's degree,482439
+Louisiana,2018,Bachelor's degree,496634
+Louisiana,2019,Bachelor's degree,503947
+Maine,2008,Bachelor's degree,153102
+Maine,2009,Bachelor's degree,160080
+Maine,2010,Bachelor's degree,162350
+Maine,2011,Bachelor's degree,168605
+Maine,2012,Bachelor's degree,171449
+Maine,2013,Bachelor's degree,172498
+Maine,2014,Bachelor's degree,185890
+Maine,2015,Bachelor's degree,187513
+Maine,2016,Bachelor's degree,181434
+Maine,2017,Bachelor's degree,193860
+Maine,2018,Bachelor's degree,197489
+Maine,2019,Bachelor's degree,205722
+Maryland,2008,Bachelor's degree,739285
+Maryland,2009,Bachelor's degree,748377
+Maryland,2010,Bachelor's degree,762917
+Maryland,2011,Bachelor's degree,800177
+Maryland,2012,Bachelor's degree,795930
+Maryland,2013,Bachelor's degree,814992
+Maryland,2014,Bachelor's degree,841315
+Maryland,2015,Bachelor's degree,866352
+Maryland,2016,Bachelor's degree,860491
+Maryland,2017,Bachelor's degree,889090
+Maryland,2018,Bachelor's degree,911761
+Maryland,2019,Bachelor's degree,911781
+Massachusetts,2008,Bachelor's degree,956049
+Massachusetts,2009,Bachelor's degree,980758
+Massachusetts,2010,Bachelor's degree,992307
+Massachusetts,2011,Bachelor's degree,1004133
+Massachusetts,2012,Bachelor's degree,1011713
+Massachusetts,2013,Bachelor's degree,1037415
+Massachusetts,2014,Bachelor's degree,1077993
+Massachusetts,2015,Bachelor's degree,1086715
+Massachusetts,2016,Bachelor's degree,1124295
+Massachusetts,2017,Bachelor's degree,1146586
+Massachusetts,2018,Bachelor's degree,1178868
+Massachusetts,2019,Bachelor's degree,1197208
+Michigan,2008,Bachelor's degree,1015678
+Michigan,2009,Bachelor's degree,1005499
+Michigan,2010,Bachelor's degree,1023760
+Michigan,2011,Bachelor's degree,1037602
+Michigan,2012,Bachelor's degree,1062110
+Michigan,2013,Bachelor's degree,1089029
+Michigan,2014,Bachelor's degree,1105362
+Michigan,2015,Bachelor's degree,1145546
+Michigan,2016,Bachelor's degree,1162737
+Michigan,2017,Bachelor's degree,1201375
+Michigan,2018,Bachelor's degree,1239251
+Michigan,2019,Bachelor's degree,1252685
+Minnesota,2008,Bachelor's degree,744626
+Minnesota,2009,Bachelor's degree,738972
+Minnesota,2010,Bachelor's degree,760013
+Minnesota,2011,Bachelor's degree,777339
+Minnesota,2012,Bachelor's degree,807626
+Minnesota,2013,Bachelor's degree,813237
+Minnesota,2014,Bachelor's degree,834094
+Minnesota,2015,Bachelor's degree,847584
+Minnesota,2016,Bachelor's degree,860125
+Minnesota,2017,Bachelor's degree,888880
+Minnesota,2018,Bachelor's degree,920850
+Minnesota,2019,Bachelor's degree,942830
+Mississippi,2008,Bachelor's degree,234364
+Mississippi,2009,Bachelor's degree,234032
+Mississippi,2010,Bachelor's degree,236965
+Mississippi,2011,Bachelor's degree,240726
+Mississippi,2012,Bachelor's degree,249319
+Mississippi,2013,Bachelor's degree,248488
+Mississippi,2014,Bachelor's degree,254250
+Mississippi,2015,Bachelor's degree,253036
+Mississippi,2016,Bachelor's degree,264865
+Mississippi,2017,Bachelor's degree,265220
+Mississippi,2018,Bachelor's degree,284701
+Mississippi,2019,Bachelor's degree,270712
+Missouri,2008,Bachelor's degree,621851
+Missouri,2009,Bachelor's degree,623479
+Missouri,2010,Bachelor's degree,639352
+Missouri,2011,Bachelor's degree,656222
+Missouri,2012,Bachelor's degree,670388
+Missouri,2013,Bachelor's degree,685991
+Missouri,2014,Bachelor's degree,696669
+Missouri,2015,Bachelor's degree,706922
+Missouri,2016,Bachelor's degree,729511
+Missouri,2017,Bachelor's degree,743797
+Missouri,2018,Bachelor's degree,754906
+Missouri,2019,Bachelor's degree,775808
+Montana,2008,Bachelor's degree,121576
+Montana,2009,Bachelor's degree,123649
+Montana,2010,Bachelor's degree,133356
+Montana,2011,Bachelor's degree,132946
+Montana,2012,Bachelor's degree,138862
+Montana,2013,Bachelor's degree,135518
+Montana,2014,Bachelor's degree,135401
+Montana,2015,Bachelor's degree,144135
+Montana,2016,Bachelor's degree,148944
+Montana,2017,Bachelor's degree,157326
+Montana,2018,Bachelor's degree,152448
+Montana,2019,Bachelor's degree,171309
+Nebraska,2008,Bachelor's degree,213091
+Nebraska,2009,Bachelor's degree,214419
+Nebraska,2010,Bachelor's degree,232326
+Nebraska,2011,Bachelor's degree,225822
+Nebraska,2012,Bachelor's degree,233054
+Nebraska,2013,Bachelor's degree,238160
+Nebraska,2014,Bachelor's degree,247729
+Nebraska,2015,Bachelor's degree,244556
+Nebraska,2016,Bachelor's degree,261931
+Nebraska,2017,Bachelor's degree,263330
+Nebraska,2018,Bachelor's degree,269675
+Nebraska,2019,Bachelor's degree,277159
+Nevada,2008,Bachelor's degree,254739
+Nevada,2009,Bachelor's degree,245697
+Nevada,2010,Bachelor's degree,256589
+Nevada,2011,Bachelor's degree,269461
+Nevada,2012,Bachelor's degree,272846
+Nevada,2013,Bachelor's degree,282283
+Nevada,2014,Bachelor's degree,291473
+Nevada,2015,Bachelor's degree,304948
+Nevada,2016,Bachelor's degree,308547
+Nevada,2017,Bachelor's degree,340110
+Nevada,2018,Bachelor's degree,339675
+Nevada,2019,Bachelor's degree,355837
+New Hampshire,2008,Bachelor's degree,192469
+New Hampshire,2009,Bachelor's degree,187812
+New Hampshire,2010,Bachelor's degree,185129
+New Hampshire,2011,Bachelor's degree,191748
+New Hampshire,2012,Bachelor's degree,201804
+New Hampshire,2013,Bachelor's degree,202495
+New Hampshire,2014,Bachelor's degree,201723
+New Hampshire,2015,Bachelor's degree,205513
+New Hampshire,2016,Bachelor's degree,213461
+New Hampshire,2017,Bachelor's degree,216750
+New Hampshire,2018,Bachelor's degree,217282
+New Hampshire,2019,Bachelor's degree,224636
+New Jersey,2008,Bachelor's degree,1266033
+New Jersey,2009,Bachelor's degree,1273186
+New Jersey,2010,Bachelor's degree,1321937
+New Jersey,2011,Bachelor's degree,1322225
+New Jersey,2012,Bachelor's degree,1359609
+New Jersey,2013,Bachelor's degree,1374616
+New Jersey,2014,Bachelor's degree,1415973
+New Jersey,2015,Bachelor's degree,1437307
+New Jersey,2016,Bachelor's degree,1460518
+New Jersey,2017,Bachelor's degree,1506899
+New Jersey,2018,Bachelor's degree,1535321
+New Jersey,2019,Bachelor's degree,1555781
+New Mexico,2008,Bachelor's degree,178600
+New Mexico,2009,Bachelor's degree,192548
+New Mexico,2010,Bachelor's degree,189989
+New Mexico,2011,Bachelor's degree,195527
+New Mexico,2012,Bachelor's degree,202552
+New Mexico,2013,Bachelor's degree,204226
+New Mexico,2014,Bachelor's degree,206947
+New Mexico,2015,Bachelor's degree,198116
+New Mexico,2016,Bachelor's degree,215691
+New Mexico,2017,Bachelor's degree,211995
+New Mexico,2018,Bachelor's degree,221735
+New Mexico,2019,Bachelor's degree,221281
+New York,2008,Bachelor's degree,2368483
+New York,2009,Bachelor's degree,2434198
+New York,2010,Bachelor's degree,2433331
+New York,2011,Bachelor's degree,2467536
+New York,2012,Bachelor's degree,2531374
+New York,2013,Bachelor's degree,2589891
+New York,2014,Bachelor's degree,2651150
+New York,2015,Bachelor's degree,2727078
+New York,2016,Bachelor's degree,2749619
+New York,2017,Bachelor's degree,2794920
+New York,2018,Bachelor's degree,2846770
+New York,2019,Bachelor's degree,2898440
+North Carolina,2008,Bachelor's degree,1060313
+North Carolina,2009,Bachelor's degree,1091506
+North Carolina,2010,Bachelor's degree,1123118
+North Carolina,2011,Bachelor's degree,1136478
+North Carolina,2012,Bachelor's degree,1170056
+North Carolina,2013,Bachelor's degree,1211484
+North Carolina,2014,Bachelor's degree,1239857
+North Carolina,2015,Bachelor's degree,1277412
+North Carolina,2016,Bachelor's degree,1345615
+North Carolina,2017,Bachelor's degree,1406739
+North Carolina,2018,Bachelor's degree,1454678
+North Carolina,2019,Bachelor's degree,1471420
+North Dakota,2008,Bachelor's degree,85130
+North Dakota,2009,Bachelor's degree,80126
+North Dakota,2010,Bachelor's degree,87414
+North Dakota,2011,Bachelor's degree,86615
+North Dakota,2012,Bachelor's degree,89629
+North Dakota,2013,Bachelor's degree,93470
+North Dakota,2014,Bachelor's degree,94873
+North Dakota,2015,Bachelor's degree,105625
+North Dakota,2016,Bachelor's degree,107578
+North Dakota,2017,Bachelor's degree,108045
+North Dakota,2018,Bachelor's degree,110664
+North Dakota,2019,Bachelor's degree,108527
+Ohio,2008,Bachelor's degree,1179230
+Ohio,2009,Bachelor's degree,1183146
+Ohio,2010,Bachelor's degree,1210527
+Ohio,2011,Bachelor's degree,1196897
+Ohio,2012,Bachelor's degree,1240747
+Ohio,2013,Bachelor's degree,1279678
+Ohio,2014,Bachelor's degree,1301747
+Ohio,2015,Bachelor's degree,1329009
+Ohio,2016,Bachelor's degree,1362205
+Ohio,2017,Bachelor's degree,1381934
+Ohio,2018,Bachelor's degree,1431014
+Ohio,2019,Bachelor's degree,1464945
+Oklahoma,2008,Bachelor's degree,353517
+Oklahoma,2009,Bachelor's degree,364742
+Oklahoma,2010,Bachelor's degree,376600
+Oklahoma,2011,Bachelor's degree,396219
+Oklahoma,2012,Bachelor's degree,393930
+Oklahoma,2013,Bachelor's degree,402956
+Oklahoma,2014,Bachelor's degree,405799
+Oklahoma,2015,Bachelor's degree,421765
+Oklahoma,2016,Bachelor's degree,432922
+Oklahoma,2017,Bachelor's degree,437243
+Oklahoma,2018,Bachelor's degree,434570
+Oklahoma,2019,Bachelor's degree,447888
+Oregon,2008,Bachelor's degree,465367
+Oregon,2009,Bachelor's degree,484488
+Oregon,2010,Bachelor's degree,478133
+Oregon,2011,Bachelor's degree,486317
+Oregon,2012,Bachelor's degree,497130
+Oregon,2013,Bachelor's degree,521031
+Oregon,2014,Bachelor's degree,528064
+Oregon,2015,Bachelor's degree,566244
+Oregon,2016,Bachelor's degree,572508
+Oregon,2017,Bachelor's degree,609160
+Oregon,2018,Bachelor's degree,621190
+Oregon,2019,Bachelor's degree,627911
+Pennsylvania,2008,Bachelor's degree,1382175
+Pennsylvania,2009,Bachelor's degree,1394249
+Pennsylvania,2010,Bachelor's degree,1445223
+Pennsylvania,2011,Bachelor's degree,1443083
+Pennsylvania,2012,Bachelor's degree,1484305
+Pennsylvania,2013,Bachelor's degree,1540228
+Pennsylvania,2014,Bachelor's degree,1554120
+Pennsylvania,2015,Bachelor's degree,1611499
+Pennsylvania,2016,Bachelor's degree,1676971
+Pennsylvania,2017,Bachelor's degree,1697397
+Pennsylvania,2018,Bachelor's degree,1723226
+Pennsylvania,2019,Bachelor's degree,1761627
+Puerto Rico,2008,Bachelor's degree,398934
+Puerto Rico,2009,Bachelor's degree,419040
+Puerto Rico,2010,Bachelor's degree,389954
+Puerto Rico,2011,Bachelor's degree,416008
+Puerto Rico,2012,Bachelor's degree,428778
+Puerto Rico,2013,Bachelor's degree,416877
+Puerto Rico,2014,Bachelor's degree,417133
+Puerto Rico,2015,Bachelor's degree,424255
+Puerto Rico,2016,Bachelor's degree,433120
+Puerto Rico,2017,Bachelor's degree,428558
+Puerto Rico,2018,Bachelor's degree,430692
+Puerto Rico,2019,Bachelor's degree,443589
+Rhode Island,2008,Bachelor's degree,132534
+Rhode Island,2009,Bachelor's degree,134035
+Rhode Island,2010,Bachelor's degree,128188
+Rhode Island,2011,Bachelor's degree,134049
+Rhode Island,2012,Bachelor's degree,132903
+Rhode Island,2013,Bachelor's degree,142598
+Rhode Island,2014,Bachelor's degree,131408
+Rhode Island,2015,Bachelor's degree,141131
+Rhode Island,2016,Bachelor's degree,151195
+Rhode Island,2017,Bachelor's degree,149699
+Rhode Island,2018,Bachelor's degree,147507
+Rhode Island,2019,Bachelor's degree,156087
+South Carolina,2008,Bachelor's degree,449200
+South Carolina,2009,Bachelor's degree,480232
+South Carolina,2010,Bachelor's degree,484341
+South Carolina,2011,Bachelor's degree,486569
+South Carolina,2012,Bachelor's degree,504036
+South Carolina,2013,Bachelor's degree,529944
+South Carolina,2014,Bachelor's degree,543917
+South Carolina,2015,Bachelor's degree,575843
+South Carolina,2016,Bachelor's degree,591086
+South Carolina,2017,Bachelor's degree,607024
+South Carolina,2018,Bachelor's degree,627144
+South Carolina,2019,Bachelor's degree,656496
+South Dakota,2008,Bachelor's degree,92952
+South Dakota,2009,Bachelor's degree,93321
+South Dakota,2010,Bachelor's degree,98760
+South Dakota,2011,Bachelor's degree,97956
+South Dakota,2012,Bachelor's degree,98719
+South Dakota,2013,Bachelor's degree,104240
+South Dakota,2014,Bachelor's degree,111108
+South Dakota,2015,Bachelor's degree,110562
+South Dakota,2016,Bachelor's degree,111002
+South Dakota,2017,Bachelor's degree,109803
+South Dakota,2018,Bachelor's degree,117943
+South Dakota,2019,Bachelor's degree,121231
+Tennessee,2008,Bachelor's degree,620919
+Tennessee,2009,Bachelor's degree,636544
+Tennessee,2010,Bachelor's degree,621127
+Tennessee,2011,Bachelor's degree,655551
+Tennessee,2012,Bachelor's degree,680286
+Tennessee,2013,Bachelor's degree,681475
+Tennessee,2014,Bachelor's degree,717801
+Tennessee,2015,Bachelor's degree,719980
+Tennessee,2016,Bachelor's degree,756055
+Tennessee,2017,Bachelor's degree,790840
+Tennessee,2018,Bachelor's degree,801616
+Tennessee,2019,Bachelor's degree,845100
+Texas,2008,Bachelor's degree,2582943
+Texas,2009,Bachelor's degree,2618635
+Texas,2010,Bachelor's degree,2733721
+Texas,2011,Bachelor's degree,2847501
+Texas,2012,Bachelor's degree,2903294
+Texas,2013,Bachelor's degree,3044921
+Texas,2014,Bachelor's degree,3104847
+Texas,2015,Bachelor's degree,3266266
+Texas,2016,Bachelor's degree,3362678
+Texas,2017,Bachelor's degree,3510311
+Texas,2018,Bachelor's degree,3627047
+Texas,2019,Bachelor's degree,3750797
+Utah,2008,Bachelor's degree,306131
+Utah,2009,Bachelor's degree,304181
+Utah,2010,Bachelor's degree,315627
+Utah,2011,Bachelor's degree,322983
+Utah,2012,Bachelor's degree,333947
+Utah,2013,Bachelor's degree,348502
+Utah,2014,Bachelor's degree,353832
+Utah,2015,Bachelor's degree,368302
+Utah,2016,Bachelor's degree,381130
+Utah,2017,Bachelor's degree,416804
+Utah,2018,Bachelor's degree,427561
+Utah,2019,Bachelor's degree,448109
+Vermont,2008,Bachelor's degree,85431
+Vermont,2009,Bachelor's degree,83936
+Vermont,2010,Bachelor's degree,87638
+Vermont,2011,Bachelor's degree,93188
+Vermont,2012,Bachelor's degree,95120
+Vermont,2013,Bachelor's degree,93427
+Vermont,2014,Bachelor's degree,91472
+Vermont,2015,Bachelor's degree,97824
+Vermont,2016,Bachelor's degree,92871
+Vermont,2017,Bachelor's degree,98774
+Vermont,2018,Bachelor's degree,103068
+Vermont,2019,Bachelor's degree,101015
+Virginia,2008,Bachelor's degree,1027033
+Virginia,2009,Bachelor's degree,1035382
+Virginia,2010,Bachelor's degree,1075786
+Virginia,2011,Bachelor's degree,1111225
+Virginia,2012,Bachelor's degree,1132326
+Virginia,2013,Bachelor's degree,1172309
+Virginia,2014,Bachelor's degree,1173872
+Virginia,2015,Bachelor's degree,1209217
+Virginia,2016,Bachelor's degree,1241751
+Virginia,2017,Bachelor's degree,1270190
+Virginia,2018,Bachelor's degree,1296041
+Virginia,2019,Bachelor's degree,1312800
+Washington,2008,Bachelor's degree,870887
+Washington,2009,Bachelor's degree,885861
+Washington,2010,Bachelor's degree,897884
+Washington,2011,Bachelor's degree,925095
+Washington,2012,Bachelor's degree,944631
+Washington,2013,Bachelor's degree,984473
+Washington,2014,Bachelor's degree,1005685
+Washington,2015,Bachelor's degree,1059707
+Washington,2016,Bachelor's degree,1098509
+Washington,2017,Bachelor's degree,1130392
+Washington,2018,Bachelor's degree,1187508
+Washington,2019,Bachelor's degree,1204728
+West Virginia,2008,Bachelor's degree,130855
+West Virginia,2009,Bachelor's degree,133022
+West Virginia,2010,Bachelor's degree,140850
+West Virginia,2011,Bachelor's degree,150916
+West Virginia,2012,Bachelor's degree,147257
+West Virginia,2013,Bachelor's degree,146732
+West Virginia,2014,Bachelor's degree,152434
+West Virginia,2015,Bachelor's degree,152256
+West Virginia,2016,Bachelor's degree,162243
+West Virginia,2017,Bachelor's degree,156378
+West Virginia,2018,Bachelor's degree,163614
+West Virginia,2019,Bachelor's degree,161686
+Wisconsin,2008,Bachelor's degree,642270
+Wisconsin,2009,Bachelor's degree,648584
+Wisconsin,2010,Bachelor's degree,659852
+Wisconsin,2011,Bachelor's degree,668444
+Wisconsin,2012,Bachelor's degree,688002
+Wisconsin,2013,Bachelor's degree,711851
+Wisconsin,2014,Bachelor's degree,736544
+Wisconsin,2015,Bachelor's degree,742544
+Wisconsin,2016,Bachelor's degree,758503
+Wisconsin,2017,Bachelor's degree,782676
+Wisconsin,2018,Bachelor's degree,775533
+Wisconsin,2019,Bachelor's degree,829878
+Wyoming,2008,Bachelor's degree,54987
+Wyoming,2009,Bachelor's degree,56495
+Wyoming,2010,Bachelor's degree,58232
+Wyoming,2011,Bachelor's degree,61815
+Wyoming,2012,Bachelor's degree,64409
+Wyoming,2013,Bachelor's degree,68225
+Wyoming,2014,Bachelor's degree,69557
+Wyoming,2015,Bachelor's degree,67108
+Wyoming,2016,Bachelor's degree,67845
+Wyoming,2017,Bachelor's degree,67312
+Wyoming,2018,Bachelor's degree,66449
+Wyoming,2019,Bachelor's degree,73183

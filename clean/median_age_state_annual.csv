@@ -1,0 +1,781 @@
+state,year,median_age
+Alabama,2005,37.4
+Alabama,2006,37.2
+Alabama,2007,37.3
+Alabama,2008,37.4
+Alabama,2009,37.4
+Alabama,2010,37.8
+Alabama,2011,38.1
+Alabama,2012,38.2
+Alabama,2013,38.3
+Alabama,2014,38.6
+Alabama,2015,38.7
+Alabama,2016,39.0
+Alabama,2017,38.9
+Alabama,2018,39.3
+Alabama,2019,39.4
+Alaska,2005,33.9
+Alaska,2006,33.5
+Alaska,2007,33.3
+Alaska,2008,33.0
+Alaska,2009,32.6
+Alaska,2010,33.8
+Alaska,2011,33.9
+Alaska,2012,33.8
+Alaska,2013,33.1
+Alaska,2014,33.3
+Alaska,2015,33.3
+Alaska,2016,33.5
+Alaska,2017,34.5
+Alaska,2018,34.9
+Alaska,2019,35.0
+Arizona,2005,34.5
+Arizona,2006,34.6
+Arizona,2007,34.9
+Arizona,2008,35.1
+Arizona,2009,34.9
+Arizona,2010,35.9
+Arizona,2011,36.2
+Arizona,2012,36.6
+Arizona,2013,36.8
+Arizona,2014,36.9
+Arizona,2015,37.4
+Arizona,2016,37.5
+Arizona,2017,37.7
+Arizona,2018,38.0
+Arizona,2019,38.3
+Arkansas,2005,37.0
+Arkansas,2006,37.1
+Arkansas,2007,37.0
+Arkansas,2008,37.3
+Arkansas,2009,37.1
+Arkansas,2010,37.3
+Arkansas,2011,37.5
+Arkansas,2012,37.6
+Arkansas,2013,37.8
+Arkansas,2014,37.8
+Arkansas,2015,37.9
+Arkansas,2016,38.0
+Arkansas,2017,38.1
+Arkansas,2018,38.1
+Arkansas,2019,38.8
+California,2005,34.4
+California,2006,34.4
+California,2007,34.7
+California,2008,34.9
+California,2009,34.9
+California,2010,35.2
+California,2011,35.4
+California,2012,35.5
+California,2013,35.7
+California,2014,36.0
+California,2015,36.2
+California,2016,36.4
+California,2017,36.5
+California,2018,36.7
+California,2019,37.0
+Colorado,2005,34.7
+Colorado,2006,35.4
+Colorado,2007,35.7
+Colorado,2008,35.8
+Colorado,2009,35.7
+Colorado,2010,36.0
+Colorado,2011,36.2
+Colorado,2012,36.2
+Colorado,2013,36.4
+Colorado,2014,36.3
+Colorado,2015,36.4
+Colorado,2016,36.7
+Colorado,2017,36.8
+Colorado,2018,36.9
+Colorado,2019,37.1
+Connecticut,2005,39.3
+Connecticut,2006,39.1
+Connecticut,2007,39.1
+Connecticut,2008,39.3
+Connecticut,2009,39.5
+Connecticut,2010,40.0
+Connecticut,2011,40.3
+Connecticut,2012,40.4
+Connecticut,2013,40.5
+Connecticut,2014,40.5
+Connecticut,2015,40.6
+Connecticut,2016,40.9
+Connecticut,2017,40.9
+Connecticut,2018,41.1
+Connecticut,2019,41.2
+Delaware,2005,37.9
+Delaware,2006,37.5
+Delaware,2007,37.8
+Delaware,2008,38.3
+Delaware,2009,38.2
+Delaware,2010,38.8
+Delaware,2011,39.1
+Delaware,2012,39.2
+Delaware,2013,39.1
+Delaware,2014,39.6
+Delaware,2015,39.7
+Delaware,2016,40.6
+Delaware,2017,40.1
+Delaware,2018,41.1
+Delaware,2019,41.4
+District of Columbia,2005,35.9
+District of Columbia,2006,35.0
+District of Columbia,2007,34.9
+District of Columbia,2008,34.9
+District of Columbia,2009,35.1
+District of Columbia,2010,33.9
+District of Columbia,2011,33.4
+District of Columbia,2012,33.7
+District of Columbia,2013,33.8
+District of Columbia,2014,33.8
+District of Columbia,2015,33.8
+District of Columbia,2016,33.9
+District of Columbia,2017,34.0
+District of Columbia,2018,33.9
+District of Columbia,2019,34.3
+Florida,2005,39.5
+Florida,2006,39.8
+Florida,2007,40.0
+Florida,2008,40.3
+Florida,2009,40.1
+Florida,2010,40.7
+Florida,2011,41.1
+Florida,2012,41.1
+Florida,2013,41.5
+Florida,2014,41.6
+Florida,2015,41.8
+Florida,2016,42.1
+Florida,2017,42.0
+Florida,2018,42.2
+Florida,2019,42.4
+Georgia,2005,34.3
+Georgia,2006,34.6
+Georgia,2007,34.8
+Georgia,2008,35.0
+Georgia,2009,34.6
+Georgia,2010,35.4
+Georgia,2011,35.5
+Georgia,2012,35.7
+Georgia,2013,35.9
+Georgia,2014,36.1
+Georgia,2015,36.4
+Georgia,2016,36.5
+Georgia,2017,36.8
+Georgia,2018,36.8
+Georgia,2019,37.2
+Hawaii,2005,38.5
+Hawaii,2006,37.2
+Hawaii,2007,38.1
+Hawaii,2008,38.3
+Hawaii,2009,37.9
+Hawaii,2010,38.7
+Hawaii,2011,38.5
+Hawaii,2012,38.3
+Hawaii,2013,38.1
+Hawaii,2014,38.1
+Hawaii,2015,37.7
+Hawaii,2016,38.9
+Hawaii,2017,39.2
+Hawaii,2018,39.3
+Hawaii,2019,39.6
+Idaho,2005,34.6
+Idaho,2006,34.3
+Idaho,2007,34.3
+Idaho,2008,34.4
+Idaho,2009,34.2
+Idaho,2010,34.7
+Idaho,2011,35.0
+Idaho,2012,35.2
+Idaho,2013,35.7
+Idaho,2014,35.9
+Idaho,2015,35.8
+Idaho,2016,36.1
+Idaho,2017,36.3
+Idaho,2018,36.8
+Idaho,2019,36.9
+Illinois,2005,35.6
+Illinois,2006,35.7
+Illinois,2007,35.9
+Illinois,2008,36.0
+Illinois,2009,36.2
+Illinois,2010,36.6
+Illinois,2011,36.8
+Illinois,2012,37.0
+Illinois,2013,37.2
+Illinois,2014,37.5
+Illinois,2015,37.7
+Illinois,2016,37.9
+Illinois,2017,38.0
+Illinois,2018,38.3
+Illinois,2019,38.6
+Indiana,2005,36.1
+Indiana,2006,36.3
+Indiana,2007,36.5
+Indiana,2008,36.8
+Indiana,2009,36.8
+Indiana,2010,36.9
+Indiana,2011,37.1
+Indiana,2012,37.3
+Indiana,2013,37.3
+Indiana,2014,37.4
+Indiana,2015,37.5
+Indiana,2016,37.6
+Indiana,2017,37.7
+Indiana,2018,37.8
+Indiana,2019,38.0
+Iowa,2005,38.6
+Iowa,2006,37.8
+Iowa,2007,38.0
+Iowa,2008,38.2
+Iowa,2009,38.0
+Iowa,2010,38.2
+Iowa,2011,38.1
+Iowa,2012,38.0
+Iowa,2013,38.0
+Iowa,2014,38.2
+Iowa,2015,38.1
+Iowa,2016,38.0
+Iowa,2017,38.3
+Iowa,2018,38.1
+Iowa,2019,38.5
+Kansas,2005,36.1
+Kansas,2006,36.3
+Kansas,2007,36.3
+Kansas,2008,36.2
+Kansas,2009,35.9
+Kansas,2010,36.2
+Kansas,2011,36.3
+Kansas,2012,36.0
+Kansas,2013,36.0
+Kansas,2014,36.2
+Kansas,2015,36.2
+Kansas,2016,36.5
+Kansas,2017,36.7
+Kansas,2018,37.1
+Kansas,2019,37.2
+Kentucky,2005,37.5
+Kentucky,2006,37.3
+Kentucky,2007,37.4
+Kentucky,2008,37.8
+Kentucky,2009,37.7
+Kentucky,2010,38.0
+Kentucky,2011,38.2
+Kentucky,2012,38.4
+Kentucky,2013,38.5
+Kentucky,2014,38.5
+Kentucky,2015,38.8
+Kentucky,2016,38.7
+Kentucky,2017,38.9
+Kentucky,2018,39.1
+Kentucky,2019,39.2
+Louisiana,2005,35.4
+Louisiana,2006,35.6
+Louisiana,2007,35.7
+Louisiana,2008,35.9
+Louisiana,2009,35.6
+Louisiana,2010,35.9
+Louisiana,2011,35.9
+Louisiana,2012,36.0
+Louisiana,2013,36.0
+Louisiana,2014,36.1
+Louisiana,2015,36.4
+Louisiana,2016,36.5
+Louisiana,2017,36.8
+Louisiana,2018,37.3
+Louisiana,2019,37.7
+Maine,2005,41.2
+Maine,2006,41.0
+Maine,2007,41.7
+Maine,2008,41.9
+Maine,2009,42.2
+Maine,2010,42.7
+Maine,2011,43.2
+Maine,2012,43.5
+Maine,2013,44.0
+Maine,2014,44.1
+Maine,2015,44.6
+Maine,2016,44.5
+Maine,2017,44.6
+Maine,2018,45.1
+Maine,2019,45.1
+Maryland,2005,37.1
+Maryland,2006,37.3
+Maryland,2007,37.4
+Maryland,2008,37.6
+Maryland,2009,37.7
+Maryland,2010,38.0
+Maryland,2011,38.0
+Maryland,2012,38.1
+Maryland,2013,38.2
+Maryland,2014,38.3
+Maryland,2015,38.3
+Maryland,2016,38.5
+Maryland,2017,38.7
+Maryland,2018,38.8
+Maryland,2019,39.0
+Massachusetts,2005,38.2
+Massachusetts,2006,38.3
+Massachusetts,2007,38.5
+Massachusetts,2008,38.7
+Massachusetts,2009,39.0
+Massachusetts,2010,39.1
+Massachusetts,2011,39.3
+Massachusetts,2012,39.5
+Massachusetts,2013,39.4
+Massachusetts,2014,39.4
+Massachusetts,2015,39.4
+Massachusetts,2016,39.5
+Massachusetts,2017,39.5
+Massachusetts,2018,39.5
+Massachusetts,2019,39.7
+Michigan,2005,36.9
+Michigan,2006,37.3
+Michigan,2007,37.6
+Michigan,2008,38.0
+Michigan,2009,38.5
+Michigan,2010,39.0
+Michigan,2011,39.2
+Michigan,2012,39.5
+Michigan,2013,39.6
+Michigan,2014,39.6
+Michigan,2015,39.7
+Michigan,2016,39.7
+Michigan,2017,39.8
+Michigan,2018,39.8
+Michigan,2019,39.8
+Minnesota,2005,36.7
+Minnesota,2006,36.8
+Minnesota,2007,37.1
+Minnesota,2008,37.4
+Minnesota,2009,37.5
+Minnesota,2010,37.5
+Minnesota,2011,37.6
+Minnesota,2012,37.6
+Minnesota,2013,37.7
+Minnesota,2014,37.8
+Minnesota,2015,37.9
+Minnesota,2016,37.9
+Minnesota,2017,37.9
+Minnesota,2018,38.2
+Minnesota,2019,38.4
+Mississippi,2005,35.5
+Mississippi,2006,35.4
+Mississippi,2007,35.4
+Mississippi,2008,35.5
+Mississippi,2009,35.1
+Mississippi,2010,36.1
+Mississippi,2011,36.1
+Mississippi,2012,36.2
+Mississippi,2013,36.6
+Mississippi,2014,36.7
+Mississippi,2015,37.0
+Mississippi,2016,37.2
+Mississippi,2017,37.5
+Mississippi,2018,37.7
+Mississippi,2019,38.3
+Missouri,2005,37.4
+Missouri,2006,37.2
+Missouri,2007,37.5
+Missouri,2008,37.6
+Missouri,2009,37.6
+Missouri,2010,38.0
+Missouri,2011,38.0
+Missouri,2012,38.2
+Missouri,2013,38.1
+Missouri,2014,38.5
+Missouri,2015,38.4
+Missouri,2016,38.4
+Missouri,2017,38.5
+Missouri,2018,38.8
+Missouri,2019,38.9
+Montana,2005,40.2
+Montana,2006,39.5
+Montana,2007,39.1
+Montana,2008,39.1
+Montana,2009,39.3
+Montana,2010,40.1
+Montana,2011,39.7
+Montana,2012,40.2
+Montana,2013,39.6
+Montana,2014,39.6
+Montana,2015,39.9
+Montana,2016,40.1
+Montana,2017,40.0
+Montana,2018,40.1
+Montana,2019,40.5
+Nebraska,2005,36.2
+Nebraska,2006,36.0
+Nebraska,2007,36.1
+Nebraska,2008,36.3
+Nebraska,2009,35.8
+Nebraska,2010,36.3
+Nebraska,2011,36.3
+Nebraska,2012,36.3
+Nebraska,2013,36.3
+Nebraska,2014,36.2
+Nebraska,2015,36.1
+Nebraska,2016,36.3
+Nebraska,2017,36.5
+Nebraska,2018,36.7
+Nebraska,2019,36.8
+Nevada,2005,35.2
+Nevada,2006,35.6
+Nevada,2007,35.7
+Nevada,2008,35.9
+Nevada,2009,35.5
+Nevada,2010,36.3
+Nevada,2011,36.7
+Nevada,2012,36.8
+Nevada,2013,37.1
+Nevada,2014,37.4
+Nevada,2015,37.8
+Nevada,2016,37.9
+Nevada,2017,38.0
+Nevada,2018,38.2
+Nevada,2019,38.4
+New Hampshire,2005,39.5
+New Hampshire,2006,39.3
+New Hampshire,2007,39.8
+New Hampshire,2008,40.3
+New Hampshire,2009,40.4
+New Hampshire,2010,41.3
+New Hampshire,2011,41.5
+New Hampshire,2012,41.9
+New Hampshire,2013,42.3
+New Hampshire,2014,42.5
+New Hampshire,2015,42.8
+New Hampshire,2016,42.7
+New Hampshire,2017,43.2
+New Hampshire,2018,43.1
+New Hampshire,2019,43.0
+New Jersey,2005,38.0
+New Jersey,2006,38.2
+New Jersey,2007,38.4
+New Jersey,2008,38.7
+New Jersey,2009,38.7
+New Jersey,2010,39.0
+New Jersey,2011,39.2
+New Jersey,2012,39.4
+New Jersey,2013,39.4
+New Jersey,2014,39.4
+New Jersey,2015,39.6
+New Jersey,2016,39.5
+New Jersey,2017,39.8
+New Jersey,2018,40.0
+New Jersey,2019,40.2
+New Mexico,2005,36.2
+New Mexico,2006,35.2
+New Mexico,2007,36.0
+New Mexico,2008,36.0
+New Mexico,2009,35.5
+New Mexico,2010,36.7
+New Mexico,2011,36.6
+New Mexico,2012,36.8
+New Mexico,2013,36.9
+New Mexico,2014,37.2
+New Mexico,2015,37.4
+New Mexico,2016,37.7
+New Mexico,2017,37.7
+New Mexico,2018,38.1
+New Mexico,2019,38.6
+New York,2005,37.5
+New York,2006,37.4
+New York,2007,37.7
+New York,2008,38.0
+New York,2009,38.1
+New York,2010,38.0
+New York,2011,38.1
+New York,2012,38.1
+New York,2013,38.2
+New York,2014,38.2
+New York,2015,38.3
+New York,2016,38.4
+New York,2017,38.7
+New York,2018,39.0
+New York,2019,39.2
+North Carolina,2005,36.2
+North Carolina,2006,36.6
+North Carolina,2007,36.8
+North Carolina,2008,37.0
+North Carolina,2009,36.9
+North Carolina,2010,37.3
+North Carolina,2011,37.7
+North Carolina,2012,37.8
+North Carolina,2013,37.9
+North Carolina,2014,38.3
+North Carolina,2015,38.4
+North Carolina,2016,38.7
+North Carolina,2017,38.8
+North Carolina,2018,38.9
+North Carolina,2019,39.1
+North Dakota,2005,39.1
+North Dakota,2006,37.1
+North Dakota,2007,37.1
+North Dakota,2008,37.0
+North Dakota,2009,37.0
+North Dakota,2010,37.4
+North Dakota,2011,36.6
+North Dakota,2012,36.2
+North Dakota,2013,35.5
+North Dakota,2014,35.1
+North Dakota,2015,34.9
+North Dakota,2016,35.0
+North Dakota,2017,35.4
+North Dakota,2018,35.4
+North Dakota,2019,35.5
+Ohio,2005,37.6
+Ohio,2006,37.6
+Ohio,2007,37.8
+Ohio,2008,38.2
+Ohio,2009,38.5
+Ohio,2010,38.9
+Ohio,2011,39.1
+Ohio,2012,39.3
+Ohio,2013,39.3
+Ohio,2014,39.4
+Ohio,2015,39.3
+Ohio,2016,39.3
+Ohio,2017,39.3
+Ohio,2018,39.5
+Ohio,2019,39.6
+Oklahoma,2005,36.5
+Oklahoma,2006,36.2
+Oklahoma,2007,36.1
+Oklahoma,2008,36.3
+Oklahoma,2009,35.7
+Oklahoma,2010,36.3
+Oklahoma,2011,36.3
+Oklahoma,2012,36.3
+Oklahoma,2013,36.2
+Oklahoma,2014,36.2
+Oklahoma,2015,36.3
+Oklahoma,2016,36.4
+Oklahoma,2017,36.6
+Oklahoma,2018,36.7
+Oklahoma,2019,37.0
+Oregon,2005,37.0
+Oregon,2006,37.6
+Oregon,2007,37.9
+Oregon,2008,38.0
+Oregon,2009,38.0
+Oregon,2010,38.5
+Oregon,2011,38.7
+Oregon,2012,38.9
+Oregon,2013,39.1
+Oregon,2014,39.3
+Oregon,2015,39.1
+Oregon,2016,39.2
+Oregon,2017,39.3
+Oregon,2018,39.6
+Oregon,2019,39.7
+Pennsylvania,2005,39.7
+Pennsylvania,2006,39.6
+Pennsylvania,2007,39.7
+Pennsylvania,2008,40.0
+Pennsylvania,2009,39.9
+Pennsylvania,2010,40.2
+Pennsylvania,2011,40.3
+Pennsylvania,2012,40.5
+Pennsylvania,2013,40.6
+Pennsylvania,2014,40.7
+Pennsylvania,2015,40.7
+Pennsylvania,2016,40.6
+Pennsylvania,2017,40.8
+Pennsylvania,2018,40.8
+Pennsylvania,2019,40.8
+Puerto Rico,2005,34.4
+Puerto Rico,2006,34.7
+Puerto Rico,2007,35.4
+Puerto Rico,2008,35.9
+Puerto Rico,2009,36.3
+Puerto Rico,2010,37.2
+Puerto Rico,2011,37.5
+Puerto Rico,2012,37.8
+Puerto Rico,2013,38.6
+Puerto Rico,2014,39.3
+Puerto Rico,2015,40.0
+Puerto Rico,2016,40.7
+Puerto Rico,2017,41.4
+Puerto Rico,2018,42.9
+Puerto Rico,2019,43.1
+Rhode Island,2005,38.4
+Rhode Island,2006,38.4
+Rhode Island,2007,38.3
+Rhode Island,2008,38.8
+Rhode Island,2009,39.4
+Rhode Island,2010,39.6
+Rhode Island,2011,39.5
+Rhode Island,2012,39.8
+Rhode Island,2013,39.9
+Rhode Island,2014,39.8
+Rhode Island,2015,39.7
+Rhode Island,2016,40.2
+Rhode Island,2017,39.5
+Rhode Island,2018,40.0
+Rhode Island,2019,40.1
+South Carolina,2005,37.1
+South Carolina,2006,37.1
+South Carolina,2007,37.4
+South Carolina,2008,37.6
+South Carolina,2009,37.5
+South Carolina,2010,37.8
+South Carolina,2011,38.0
+South Carolina,2012,38.3
+South Carolina,2013,38.6
+South Carolina,2014,38.8
+South Carolina,2015,39.0
+South Carolina,2016,39.1
+South Carolina,2017,39.4
+South Carolina,2018,39.7
+South Carolina,2019,39.9
+South Dakota,2005,37.0
+South Dakota,2006,37.3
+South Dakota,2007,37.1
+South Dakota,2008,37.6
+South Dakota,2009,36.8
+South Dakota,2010,37.3
+South Dakota,2011,37.1
+South Dakota,2012,36.7
+South Dakota,2013,36.6
+South Dakota,2014,36.6
+South Dakota,2015,36.9
+South Dakota,2016,36.8
+South Dakota,2017,36.9
+South Dakota,2018,37.2
+South Dakota,2019,37.7
+Tennessee,2005,37.3
+Tennessee,2006,37.2
+Tennessee,2007,37.5
+Tennessee,2008,37.7
+Tennessee,2009,37.7
+Tennessee,2010,38.0
+Tennessee,2011,38.3
+Tennessee,2012,38.2
+Tennessee,2013,38.5
+Tennessee,2014,38.6
+Tennessee,2015,38.7
+Tennessee,2016,38.6
+Tennessee,2017,38.6
+Tennessee,2018,38.9
+Tennessee,2019,39.0
+Texas,2005,33.2
+Texas,2006,33.1
+Texas,2007,33.2
+Texas,2008,33.2
+Texas,2009,33.1
+Texas,2010,33.6
+Texas,2011,33.7
+Texas,2012,33.9
+Texas,2013,34.0
+Texas,2014,34.3
+Texas,2015,34.4
+Texas,2016,34.5
+Texas,2017,34.7
+Texas,2018,34.9
+Texas,2019,35.1
+Utah,2005,28.5
+Utah,2006,28.4
+Utah,2007,28.4
+Utah,2008,28.7
+Utah,2009,28.9
+Utah,2010,29.2
+Utah,2011,29.6
+Utah,2012,29.9
+Utah,2013,30.2
+Utah,2014,30.5
+Utah,2015,30.6
+Utah,2016,30.7
+Utah,2017,31.0
+Utah,2018,31.0
+Utah,2019,31.2
+Vermont,2005,40.7
+Vermont,2006,40.6
+Vermont,2007,40.6
+Vermont,2008,41.5
+Vermont,2009,41.5
+Vermont,2010,41.5
+Vermont,2011,42.0
+Vermont,2012,42.4
+Vermont,2013,42.5
+Vermont,2014,42.8
+Vermont,2015,43.1
+Vermont,2016,43.1
+Vermont,2017,42.6
+Vermont,2018,43.1
+Vermont,2019,42.8
+Virginia,2005,37.2
+Virginia,2006,36.9
+Virginia,2007,37.0
+Virginia,2008,37.5
+Virginia,2009,37.0
+Virginia,2010,37.5
+Virginia,2011,37.6
+Virginia,2012,37.5
+Virginia,2013,37.6
+Virginia,2014,37.7
+Virginia,2015,37.8
+Virginia,2016,38.2
+Virginia,2017,38.2
+Virginia,2018,38.3
+Virginia,2019,38.5
+Washington,2005,36.7
+Washington,2006,36.7
+Washington,2007,37.1
+Washington,2008,37.3
+Washington,2009,36.9
+Washington,2010,37.2
+Washington,2011,37.3
+Washington,2012,37.5
+Washington,2013,37.4
+Washington,2014,37.5
+Washington,2015,37.5
+Washington,2016,37.7
+Washington,2017,37.7
+Washington,2018,37.7
+Washington,2019,37.9
+West Virginia,2005,40.7
+West Virginia,2006,40.7
+West Virginia,2007,40.4
+West Virginia,2008,40.6
+West Virginia,2009,40.8
+West Virginia,2010,41.2
+West Virginia,2011,41.4
+West Virginia,2012,41.5
+West Virginia,2013,41.7
+West Virginia,2014,41.9
+West Virginia,2015,42.2
+West Virginia,2016,42.3
+West Virginia,2017,42.4
+West Virginia,2018,42.8
+West Virginia,2019,42.9
+Wisconsin,2005,37.9
+Wisconsin,2006,37.6
+Wisconsin,2007,38.0
+Wisconsin,2008,38.2
+Wisconsin,2009,38.4
+Wisconsin,2010,38.5
+Wisconsin,2011,38.7
+Wisconsin,2012,38.8
+Wisconsin,2013,39.0
+Wisconsin,2014,39.2
+Wisconsin,2015,39.4
+Wisconsin,2016,39.4
+Wisconsin,2017,39.5
+Wisconsin,2018,39.6
+Wisconsin,2019,39.9
+Wyoming,2005,39.1
+Wyoming,2006,37.5
+Wyoming,2007,36.9
+Wyoming,2008,36.6
+Wyoming,2009,36.7
+Wyoming,2010,36.7
+Wyoming,2011,36.8
+Wyoming,2012,36.9
+Wyoming,2013,36.6
+Wyoming,2014,36.6
+Wyoming,2015,36.5
+Wyoming,2016,37.2
+Wyoming,2017,37.5
+Wyoming,2018,38.5
+Wyoming,2019,38.1

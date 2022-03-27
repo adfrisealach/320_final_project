@@ -1,0 +1,715 @@
+year,state,uninsured_perc,insured_perc
+2019,Alabama,11.6,88.4
+2018,Alabama,11.9,88.1
+2017,Alabama,11,89
+2016,Alabama,10.8,89.2
+2015,Alabama,11.9,88.1
+2014,Alabama,14.2,85.8
+2013,Alabama,15.9,84.1
+2012,Alabama,15.8,84.2
+2011,Alabama,16.6,83.4
+2010,Alabama,16.9,83.1
+2009,Alabama,15.8,84.2
+2008,Alabama,15.3,84.7
+2007,Alabama,14.6,85.4
+2006,Alabama,15.7,84.3
+2019,Alaska,12.7,87.3
+2018,Alaska,13.9,86.1
+2017,Alaska,14.8,85.2
+2016,Alaska,15.5,84.5
+2015,Alaska,16.3,83.7
+2014,Alaska,19,81
+2013,Alaska,20.8,79.2
+2012,Alaska,22.3,77.7
+2011,Alaska,21.7,78.3
+2010,Alaska,21.4,78.6
+2009,Alaska,22.7,77.3
+2008,Alaska,20.5,79.5
+2007,Alaska,19.4,80.6
+2006,Alaska,19.4,80.6
+2019,Arizona,13.6,86.4
+2018,Arizona,12.8,87.2
+2017,Arizona,12.1,87.9
+2016,Arizona,11.9,88.1
+2015,Arizona,12.8,87.2
+2014,Arizona,16.1,83.9
+2013,Arizona,20,80
+2012,Arizona,20.4,79.6
+2011,Arizona,19.6,80.4
+2010,Arizona,19.3,80.7
+2009,Arizona,19.9,80.1
+2008,Arizona,20.5,79.5
+2007,Arizona,21.1,78.9
+2006,Arizona,21.8,78.2
+2019,Arkansas,10.8,89.2
+2018,Arkansas,9.6,90.4
+2017,Arkansas,9.3,90.7
+2016,Arkansas,9.4,90.6
+2015,Arkansas,11.1,88.9
+2014,Arkansas,13.8,86.2
+2013,Arkansas,18.8,81.2
+2012,Arkansas,19.4,80.6
+2011,Arkansas,20.1,79.9
+2010,Arkansas,20.6,79.4
+2009,Arkansas,19.6,80.4
+2008,Arkansas,19.8,80.2
+2007,Arkansas,19.9,80.1
+2006,Arkansas,20.2,79.8
+2019,California,8.9,91.1
+2018,California,8.3,91.7
+2017,California,8.2,91.8
+2016,California,8.4,91.6
+2015,California,9.7,90.3
+2014,California,14.1,85.9
+2013,California,19.4,80.6
+2012,California,20,80
+2011,California,20.2,79.8
+2010,California,20.7,79.3
+2009,California,20.1,79.9
+2008,California,19.2,80.8
+2007,California,20.2,79.8
+2006,California,21.3,78.7
+2019,Colorado,9.4,90.6
+2018,Colorado,8.8,91.2
+2017,Colorado,8.7,91.3
+2016,Colorado,8.6,91.4
+2015,Colorado,9.2,90.8
+2014,Colorado,11.7,88.3
+2013,Colorado,16,84
+2012,Colorado,16.7,83.3
+2011,Colorado,17,83
+2010,Colorado,17.7,82.3
+2009,Colorado,17.2,82.8
+2008,Colorado,18.1,81.9
+2007,Colorado,18,82
+2006,Colorado,18.7,81.3
+2019,Connecticut,7,93
+2018,Connecticut,6.2,93.8
+2017,Connecticut,6.3,93.7
+2016,Connecticut,5.8,94.2
+2015,Connecticut,6.9,93.1
+2014,Connecticut,8,92
+2013,Connecticut,10.9,89.1
+2012,Connecticut,10.5,89.5
+2011,Connecticut,10.1,89.9
+2010,Connecticut,10.4,89.6
+2009,Connecticut,10.2,89.8
+2008,Connecticut,10.1,89.9
+2007,Connecticut,10.8,89.2
+2006,Connecticut,11.7,88.3
+2019,Delaware,8,92
+2018,Delaware,6.8,93.2
+2017,Delaware,6.1,93.9
+2016,Delaware,6.7,93.3
+2015,Delaware,6.9,93.1
+2014,Delaware,9.3,90.7
+2013,Delaware,10.9,89.1
+2012,Delaware,10.3,89.7
+2011,Delaware,11.2,88.8
+2010,Delaware,11.6,88.4
+2009,Delaware,12,88
+2008,Delaware,11.7,88.3
+2007,Delaware,12.4,87.6
+2006,Delaware,13.2,86.8
+2019,District of Columbia,4,96
+2018,District of Columbia,3.6,96.4
+2017,District of Columbia,4.3,95.7
+2016,District of Columbia,4.1,95.9
+2015,District of Columbia,4.3,95.7
+2014,District of Columbia,5.9,94.1
+2013,District of Columbia,7.5,92.5
+2012,District of Columbia,7,93
+2011,District of Columbia,8.3,91.7
+2010,District of Columbia,9,91
+2009,District of Columbia,8.2,91.8
+2008,District of Columbia,8.6,91.4
+2007,District of Columbia,11.9,88.1
+2006,District of Columbia,13.6,86.4
+2019,Florida,16.4,83.6
+2018,Florida,16.1,83.9
+2017,Florida,16,84
+2016,Florida,15.4,84.6
+2015,Florida,16.3,83.7
+2014,Florida,20.2,79.8
+2013,Florida,24.3,75.7
+2012,Florida,24.1,75.9
+2011,Florida,24.8,75.2
+2010,Florida,25.3,74.7
+2009,Florida,24.9,75.1
+2008,Florida,24.2,75.8
+2007,Florida,24.2,75.8
+2006,Florida,24.9,75.1
+2019,Georgia,15.7,84.3
+2018,Georgia,15.9,84.1
+2017,Georgia,15.5,84.5
+2016,Georgia,14.9,85.1
+2015,Georgia,15.8,84.2
+2014,Georgia,18,82
+2013,Georgia,21.2,78.8
+2012,Georgia,20.7,79.3
+2011,Georgia,21.7,78.3
+2010,Georgia,21.9,78.1
+2009,Georgia,21.2,78.8
+2008,Georgia,20.1,79.9
+2007,Georgia,19,81
+2006,Georgia,19.7,80.3
+2019,Hawaii,4.8,95.2
+2018,Hawaii,4.7,95.3
+2017,Hawaii,4.6,95.4
+2016,Hawaii,4.2,95.8
+2015,Hawaii,4.8,95.2
+2014,Hawaii,6,94
+2013,Hawaii,7.6,92.4
+2012,Hawaii,7.8,92.2
+2011,Hawaii,8.1,91.9
+2010,Hawaii,8.9,91.1
+2009,Hawaii,8.2,91.8
+2008,Hawaii,7.7,92.3
+2007,Hawaii,9,91
+2006,Hawaii,9.8,90.2
+2019,Idaho,12.7,87.3
+2018,Idaho,13.1,86.9
+2017,Idaho,11.8,88.2
+2016,Idaho,11.8,88.2
+2015,Idaho,12.8,87.2
+2014,Idaho,15.7,84.3
+2013,Idaho,18.8,81.2
+2012,Idaho,18.5,81.5
+2011,Idaho,18.9,81.1
+2010,Idaho,20.3,79.7
+2009,Idaho,19.3,80.7
+2008,Idaho,19.1,80.9
+2007,Idaho,17.1,82.9
+2006,Idaho,17.3,82.7
+2019,Illinois,8.7,91.3
+2018,Illinois,8.1,91.9
+2017,Illinois,7.9,92.1
+2016,Illinois,7.5,92.5
+2015,Illinois,8.2,91.8
+2014,Illinois,11.2,88.8
+2013,Illinois,14.6,85.4
+2012,Illinois,14.6,85.4
+2011,Illinois,14.8,85.2
+2010,Illinois,15.6,84.4
+2009,Illinois,15,85
+2008,Illinois,13.9,86.1
+2007,Illinois,14.9,85.1
+2006,Illinois,16,84
+2019,Indiana,10.3,89.7
+2018,Indiana,9.7,90.3
+2017,Indiana,9.6,90.4
+2016,Indiana,9.5,90.5
+2015,Indiana,11.3,88.7
+2014,Indiana,14,86
+2013,Indiana,16.1,83.9
+2012,Indiana,16.6,83.4
+2011,Indiana,16.6,83.4
+2010,Indiana,17,83
+2009,Indiana,16.2,83.8
+2008,Indiana,15.1,84.9
+2007,Indiana,13,87
+2006,Indiana,14.3,85.7
+2019,Iowa,5.7,94.3
+2018,Iowa,5.6,94.4
+2017,Iowa,5.5,94.5
+2016,Iowa,5,95
+2015,Iowa,5.9,94.1
+2014,Iowa,7.3,92.7
+2013,Iowa,9.6,90.4
+2012,Iowa,9.9,90.1
+2011,Iowa,10.4,89.6
+2010,Iowa,10.7,89.3
+2009,Iowa,10,90
+2008,Iowa,10,90
+2007,Iowa,10.8,89.2
+2006,Iowa,10.8,89.2
+2019,Kansas,10.7,89.3
+2018,Kansas,10.1,89.9
+2017,Kansas,10.1,89.9
+2016,Kansas,9.9,90.1
+2015,Kansas,10.5,89.5
+2014,Kansas,11.7,88.3
+2013,Kansas,14.1,85.9
+2012,Kansas,14.4,85.6
+2011,Kansas,14.4,85.6
+2010,Kansas,15.8,84.2
+2009,Kansas,14.6,85.4
+2008,Kansas,12.8,87.2
+2007,Kansas,13.7,86.3
+2006,Kansas,13.5,86.5
+2019,Kentucky,7.6,92.4
+2018,Kentucky,6.7,93.3
+2017,Kentucky,6.4,93.6
+2016,Kentucky,6,94
+2015,Kentucky,7.1,92.9
+2014,Kentucky,9.9,90.1
+2013,Kentucky,16.8,83.2
+2012,Kentucky,16.2,83.8
+2011,Kentucky,16.9,83.1
+2010,Kentucky,17.5,82.5
+2009,Kentucky,16.5,83.5
+2008,Kentucky,15,85
+2007,Kentucky,16.5,83.5
+2006,Kentucky,15.6,84.4
+2019,Louisiana,10.3,89.7
+2018,Louisiana,9.3,90.7
+2017,Louisiana,9.6,90.4
+2016,Louisiana,11.8,88.2
+2015,Louisiana,13.8,86.2
+2014,Louisiana,16.9,83.1
+2013,Louisiana,19.1,80.9
+2012,Louisiana,19.4,80.6
+2011,Louisiana,20.1,79.9
+2010,Louisiana,20.5,79.5
+2009,Louisiana,20,80
+2008,Louisiana,19.5,80.5
+2007,Louisiana,22.8,77.2
+2006,Louisiana,23.2,76.8
+2019,Maine,10.2,89.8
+2018,Maine,10.2,89.8
+2017,Maine,10.2,89.8
+2016,Maine,10.1,89.9
+2015,Maine,10.3,89.7
+2014,Maine,12.4,87.6
+2013,Maine,13.5,86.5
+2012,Maine,12.4,87.6
+2011,Maine,12.9,87.1
+2010,Maine,12.2,87.8
+2009,Maine,12.5,87.5
+2008,Maine,12.1,87.9
+2007,Maine,10.8,89.2
+2006,Maine,11.1,88.9
+2019,Maryland,7,93
+2018,Maryland,6.9,93.1
+2017,Maryland,7,93
+2016,Maryland,7,93
+2015,Maryland,7.4,92.6
+2014,Maryland,8.9,91.1
+2013,Maryland,11.7,88.3
+2012,Maryland,11.8,88.2
+2011,Maryland,12,88
+2010,Maryland,12.7,87.3
+2009,Maryland,12.9,87.1
+2008,Maryland,12.3,87.7
+2007,Maryland,14.5,85.5
+2006,Maryland,15.6,84.4
+2019,Massachusetts,3.5,96.5
+2018,Massachusetts,3.3,96.7
+2017,Massachusetts,3.3,96.7
+2016,Massachusetts,3,97
+2015,Massachusetts,3.2,96.8
+2014,Massachusetts,3.8,96.2
+2013,Massachusetts,4.3,95.7
+2012,Massachusetts,4.5,95.5
+2011,Massachusetts,4.9,95.1
+2010,Massachusetts,5.2,94.8
+2009,Massachusetts,4.9,95.1
+2008,Massachusetts,4.4,95.6
+2007,Massachusetts,7.8,92.2
+2006,Massachusetts,9.6,90.4
+2019,Michigan,7,93
+2018,Michigan,6.5,93.5
+2017,Michigan,6.1,93.9
+2016,Michigan,6.4,93.6
+2015,Michigan,7.2,92.8
+2014,Michigan,10.1,89.9
+2013,Michigan,12.9,87.1
+2012,Michigan,13.4,86.6
+2011,Michigan,13.6,86.4
+2010,Michigan,14.3,85.7
+2009,Michigan,13.9,86.1
+2008,Michigan,12.4,87.6
+2007,Michigan,12.1,87.9
+2006,Michigan,12.3,87.7
+2019,Minnesota,5.8,94.2
+2018,Minnesota,5.1,94.9
+2017,Minnesota,5.1,94.9
+2016,Minnesota,4.8,95.2
+2015,Minnesota,5.2,94.8
+2014,Minnesota,6.7,93.3
+2013,Minnesota,9.5,90.5
+2012,Minnesota,9.2,90.8
+2011,Minnesota,10.2,89.8
+2010,Minnesota,10.3,89.7
+2009,Minnesota,10.2,89.8
+2008,Minnesota,9.5,90.5
+2007,Minnesota,9.6,90.4
+2006,Minnesota,9.4,90.6
+2019,Mississippi,15.4,84.6
+2018,Mississippi,14.4,85.6
+2017,Mississippi,14.5,85.5
+2016,Mississippi,14,86
+2015,Mississippi,14.8,85.2
+2014,Mississippi,17.1,82.9
+2013,Mississippi,20,80
+2012,Mississippi,19.7,80.3
+2011,Mississippi,20.6,79.4
+2010,Mississippi,21,79
+2009,Mississippi,20.5,79.5
+2008,Mississippi,19.3,80.7
+2007,Mississippi,20.5,79.5
+2006,Mississippi,20.8,79.2
+2019,Missouri,11.9,88.1
+2018,Missouri,11.4,88.6
+2017,Missouri,10.9,89.1
+2016,Missouri,10.6,89.4
+2015,Missouri,11.5,88.5
+2014,Missouri,13.7,86.3
+2013,Missouri,15.3,84.7
+2012,Missouri,15.8,84.2
+2011,Missouri,16,84
+2010,Missouri,15.3,84.7
+2009,Missouri,15.2,84.8
+2008,Missouri,14.3,85.7
+2007,Missouri,14.2,85.8
+2006,Missouri,14.5,85.5
+2019,Montana,10.2,89.8
+2018,Montana,10.2,89.8
+2017,Montana,10.4,89.6
+2016,Montana,10,90
+2015,Montana,14.2,85.8
+2014,Montana,16.8,83.2
+2013,Montana,20,80
+2012,Montana,21.6,78.4
+2011,Montana,21.6,78.4
+2010,Montana,20.7,79.3
+2009,Montana,21.7,78.3
+2008,Montana,20.4,79.6
+2007,Montana,18.9,81.1
+2006,Montana,18.9,81.1
+2019,Nebraska,9.5,90.5
+2018,Nebraska,9.4,90.6
+2017,Nebraska,9.6,90.4
+2016,Nebraska,9.7,90.3
+2015,Nebraska,9.4,90.6
+2014,Nebraska,11,89
+2013,Nebraska,12.9,87.1
+2012,Nebraska,12.9,87.1
+2011,Nebraska,13.3,86.7
+2010,Nebraska,13.4,86.6
+2009,Nebraska,13.3,86.7
+2008,Nebraska,12.2,87.8
+2007,Nebraska,13.7,86.3
+2006,Nebraska,13.5,86.5
+2019,Nevada,13.5,86.5
+2018,Nevada,12.9,87.1
+2017,Nevada,13.1,86.9
+2016,Nevada,13.1,86.9
+2015,Nevada,14.1,85.9
+2014,Nevada,17.3,82.7
+2013,Nevada,23.3,76.7
+2012,Nevada,24.5,75.5
+2011,Nevada,23.8,76.2
+2010,Nevada,25.1,74.9
+2009,Nevada,24.5,75.5
+2008,Nevada,23.2,76.8
+2007,Nevada,20.7,79.3
+2006,Nevada,20.9,79.1
+2019,New Hampshire,7.7,92.3
+2018,New Hampshire,7.1,92.9
+2017,New Hampshire,7,93
+2016,New Hampshire,7.2,92.8
+2015,New Hampshire,7.8,92.2
+2014,New Hampshire,11,89
+2013,New Hampshire,12.8,87.2
+2012,New Hampshire,12.6,87.4
+2011,New Hampshire,12.5,87.5
+2010,New Hampshire,13,87
+2009,New Hampshire,12,88
+2008,New Hampshire,12.1,87.9
+2007,New Hampshire,11.9,88.1
+2006,New Hampshire,12.3,87.7
+2019,New Jersey,9.3,90.7
+2018,New Jersey,8.7,91.3
+2017,New Jersey,9,91
+2016,New Jersey,9.2,90.8
+2015,New Jersey,10,90
+2014,New Jersey,12.6,87.4
+2013,New Jersey,15,85
+2012,New Jersey,14.6,85.4
+2011,New Jersey,14.9,85.1
+2010,New Jersey,15,85
+2009,New Jersey,14.4,85.6
+2008,New Jersey,13.7,86.3
+2007,New Jersey,16.4,83.6
+2006,New Jersey,17.5,82.5
+2019,New Mexico,12.1,87.9
+2018,New Mexico,11.5,88.5
+2017,New Mexico,11,89
+2016,New Mexico,11.2,88.8
+2015,New Mexico,13.1,86.9
+2014,New Mexico,17.1,82.9
+2013,New Mexico,21.9,78.1
+2012,New Mexico,21.5,78.5
+2011,New Mexico,23,77
+2010,New Mexico,22.6,77.4
+2009,New Mexico,22.9,77.1
+2008,New Mexico,23.9,76.1
+2007,New Mexico,26.7,73.3
+2006,New Mexico,25.8,74.2
+2019,New York,6.2,93.8
+2018,New York,6.3,93.7
+2017,New York,6.6,93.4
+2016,New York,7.1,92.9
+2015,New York,8.2,91.8
+2014,New York,10.1,89.9
+2013,New York,12.4,87.6
+2012,New York,12.6,87.4
+2011,New York,13.2,86.8
+2010,New York,13.7,86.3
+2009,New York,13.2,86.8
+2008,New York,13.1,86.9
+2007,New York,15.2,84.8
+2006,New York,15.7,84.3
+2019,North Carolina,13.4,86.6
+2018,North Carolina,12.7,87.3
+2017,North Carolina,12.6,87.4
+2016,North Carolina,12.2,87.8
+2015,North Carolina,13,87
+2014,North Carolina,15.2,84.8
+2013,North Carolina,18.1,81.9
+2012,North Carolina,19,81
+2011,North Carolina,18.7,81.3
+2010,North Carolina,19.1,80.9
+2009,North Carolina,18,82
+2008,North Carolina,17.4,82.6
+2007,North Carolina,18.2,81.8
+2006,North Carolina,18.6,81.4
+2019,North Dakota,7.2,92.8
+2018,North Dakota,8.1,91.9
+2017,North Dakota,8.6,91.4
+2016,North Dakota,7.6,92.4
+2015,North Dakota,8.7,91.3
+2014,North Dakota,9.3,90.7
+2013,North Dakota,12.3,87.7
+2012,North Dakota,12,88
+2011,North Dakota,11.6,88.4
+2010,North Dakota,11.4,88.6
+2009,North Dakota,11.5,88.5
+2008,North Dakota,11.6,88.4
+2007,North Dakota,13.3,86.7
+2006,North Dakota,12.5,87.5
+2019,Ohio,7.9,92.1
+2018,Ohio,7.7,92.3
+2017,Ohio,7.1,92.9
+2016,Ohio,6.7,93.3
+2015,Ohio,7.7,92.3
+2014,Ohio,9.9,90.1
+2013,Ohio,13,87
+2012,Ohio,13.5,86.5
+2011,Ohio,13.9,86.1
+2010,Ohio,14.3,85.7
+2009,Ohio,14,86
+2008,Ohio,13.1,86.9
+2007,Ohio,12,88
+2006,Ohio,12.3,87.7
+2019,Oklahoma,16.8,83.2
+2018,Oklahoma,16.6,83.4
+2017,Oklahoma,16.5,83.5
+2016,Oklahoma,16,84
+2015,Oklahoma,16.1,83.9
+2014,Oklahoma,17.9,82.1
+2013,Oklahoma,20.6,79.4
+2012,Oklahoma,21.4,78.6
+2011,Oklahoma,21.8,78.2
+2010,Oklahoma,21.9,78.1
+2009,Oklahoma,21.4,78.6
+2008,Oklahoma,21.5,78.5
+2007,Oklahoma,19.4,80.6
+2006,Oklahoma,21,79
+2019,Oregon,8.6,91.4
+2018,Oregon,8.4,91.6
+2017,Oregon,8.2,91.8
+2016,Oregon,7.4,92.6
+2015,Oregon,8.4,91.6
+2014,Oregon,11.6,88.4
+2013,Oregon,17.2,82.8
+2012,Oregon,17.4,82.6
+2011,Oregon,18.1,81.9
+2010,Oregon,19.7,80.3
+2009,Oregon,19.4,80.6
+2008,Oregon,18,82
+2007,Oregon,18.8,81.2
+2006,Oregon,19.1,80.9
+2019,Pennsylvania,7,93
+2018,Pennsylvania,6.7,93.3
+2017,Pennsylvania,6.6,93.4
+2016,Pennsylvania,6.8,93.2
+2015,Pennsylvania,7.6,92.4
+2014,Pennsylvania,10.2,89.8
+2013,Pennsylvania,11.6,88.4
+2012,Pennsylvania,11.7,88.3
+2011,Pennsylvania,12,88
+2010,Pennsylvania,12.1,87.9
+2009,Pennsylvania,11.7,88.3
+2008,Pennsylvania,10.6,89.4
+2007,Pennsylvania,11.2,88.8
+2006,Pennsylvania,11.5,88.5
+2019,Rhode Island,5,95
+2018,Rhode Island,4.8,95.2
+2017,Rhode Island,5.4,94.6
+2016,Rhode Island,5.1,94.9
+2015,Rhode Island,6.7,93.3
+2014,Rhode Island,8.6,91.4
+2013,Rhode Island,13.9,86.1
+2012,Rhode Island,12.8,87.2
+2011,Rhode Island,12.8,87.2
+2010,Rhode Island,13.8,86.2
+2009,Rhode Island,13.3,86.7
+2008,Rhode Island,11.8,88.2
+2007,Rhode Island,11.8,88.2
+2006,Rhode Island,12.2,87.8
+2019,South Carolina,13.2,86.8
+2018,South Carolina,12.7,87.3
+2017,South Carolina,13.1,86.9
+2016,South Carolina,12.1,87.9
+2015,South Carolina,13,87
+2014,South Carolina,16.1,83.9
+2013,South Carolina,18.6,81.4
+2012,South Carolina,19.8,80.2
+2011,South Carolina,19.4,80.6
+2010,South Carolina,20.3,79.7
+2009,South Carolina,19.4,80.6
+2008,South Carolina,19.2,80.8
+2007,South Carolina,18.2,81.8
+2006,South Carolina,19.2,80.8
+2019,South Dakota,12,88
+2018,South Dakota,11.2,88.8
+2017,South Dakota,10.8,89.2
+2016,South Dakota,10.4,89.6
+2015,South Dakota,11.8,88.2
+2014,South Dakota,11.6,88.4
+2013,South Dakota,12.8,87.2
+2012,South Dakota,13.6,86.4
+2011,South Dakota,13.9,86.1
+2010,South Dakota,13.9,86.1
+2009,South Dakota,14.8,85.2
+2008,South Dakota,12.7,87.3
+2007,South Dakota,13.6,86.4
+2006,South Dakota,13.3,86.7
+2019,Tennessee,12.1,87.9
+2018,Tennessee,12,88
+2017,Tennessee,11.3,88.7
+2016,Tennessee,10.6,89.4
+2015,Tennessee,12,88
+2014,Tennessee,14.1,85.9
+2013,Tennessee,16.2,83.8
+2012,Tennessee,16.2,83.8
+2011,Tennessee,17,83
+2010,Tennessee,16.6,83.4
+2009,Tennessee,16.3,83.7
+2008,Tennessee,14.8,85.2
+2007,Tennessee,16.1,83.9
+2006,Tennessee,15.9,84.1
+2019,Texas,20.7,79.3
+2018,Texas,19.9,80.1
+2017,Texas,19.4,80.6
+2016,Texas,18.6,81.4
+2015,Texas,19.2,80.8
+2014,Texas,21.4,78.6
+2013,Texas,24.8,75.2
+2012,Texas,25.2,74.8
+2011,Texas,25.7,74.3
+2010,Texas,26.3,73.7
+2009,Texas,26.3,73.7
+2008,Texas,25.7,74.3
+2007,Texas,26.8,73.2
+2006,Texas,27.6,72.4
+2019,Utah,10.7,89.3
+2018,Utah,10.4,89.6
+2017,Utah,10,90
+2016,Utah,9.7,90.3
+2015,Utah,11.6,88.4
+2014,Utah,13.8,86.2
+2013,Utah,15.3,84.7
+2012,Utah,15.7,84.3
+2011,Utah,16.6,83.4
+2010,Utah,16.7,83.3
+2009,Utah,15.9,84.1
+2008,Utah,16.3,83.7
+2007,Utah,15.7,84.3
+2006,Utah,16.7,83.3
+2019,Vermont,5.7,94.3
+2018,Vermont,4.9,95.1
+2017,Vermont,5.5,94.5
+2016,Vermont,4.7,95.3
+2015,Vermont,4.7,95.3
+2014,Vermont,6.1,93.9
+2013,Vermont,8.7,91.3
+2012,Vermont,7.9,92.1
+2011,Vermont,8,92
+2010,Vermont,9.7,90.3
+2009,Vermont,10.4,89.6
+2008,Vermont,10.3,89.7
+2007,Vermont,11.3,88.7
+2006,Vermont,12.9,87.1
+2019,Virginia,9.2,90.8
+2018,Virginia,10.1,89.9
+2017,Virginia,10.2,89.8
+2016,Virginia,9.9,90.1
+2015,Virginia,10.4,89.6
+2014,Virginia,12.4,87.6
+2013,Virginia,14,86
+2012,Virginia,14.2,85.8
+2011,Virginia,14.3,85.7
+2010,Virginia,14.8,85.2
+2009,Virginia,13.6,86.4
+2008,Virginia,13.2,86.8
+2007,Virginia,15.1,84.9
+2006,Virginia,15.5,84.5
+2019,Washington,7.7,92.3
+2018,Washington,7.5,92.5
+2017,Washington,7.1,92.9
+2016,Washington,6.9,93.1
+2015,Washington,7.6,92.4
+2014,Washington,10.6,89.4
+2013,Washington,15.9,84.1
+2012,Washington,15.8,84.2
+2011,Washington,16,84
+2010,Washington,16.1,83.9
+2009,Washington,15,85
+2008,Washington,14,86
+2007,Washington,13.2,86.8
+2006,Washington,14.2,85.8
+2019,West Virginia,8.1,91.9
+2018,West Virginia,7.8,92.2
+2017,West Virginia,7.5,92.5
+2016,West Virginia,6.5,93.5
+2015,West Virginia,7.3,92.7
+2014,West Virginia,10.6,89.4
+2013,West Virginia,17.1,82.9
+2012,West Virginia,17.6,82.4
+2011,West Virginia,18.1,81.9
+2010,West Virginia,17.4,82.6
+2009,West Virginia,16.8,83.2
+2008,West Virginia,17.4,82.6
+2007,West Virginia,16.7,83.3
+2006,West Virginia,18.1,81.9
+2019,Wisconsin,6.8,93.2
+2018,Wisconsin,6.5,93.5
+2017,Wisconsin,6.4,93.6
+2016,Wisconsin,6.3,93.7
+2015,Wisconsin,6.6,93.4
+2014,Wisconsin,8.6,91.4
+2013,Wisconsin,10.6,89.4
+2012,Wisconsin,10.4,89.6
+2011,Wisconsin,10.3,89.7
+2010,Wisconsin,10.8,89.2
+2009,Wisconsin,10.6,89.4
+2008,Wisconsin,10,90
+2007,Wisconsin,9.7,90.3
+2006,Wisconsin,9.9,90.1
+2019,Wyoming,14.7,85.3
+2018,Wyoming,12.4,87.6
+2017,Wyoming,14.2,85.8
+2016,Wyoming,13.4,86.6
+2015,Wyoming,13.4,86.6
+2014,Wyoming,14.2,85.8
+2013,Wyoming,15.8,84.2
+2012,Wyoming,17.3,82.7
+2011,Wyoming,17.3,82.7
+2010,Wyoming,17.3,82.7
+2009,Wyoming,17.3,82.7
+2008,Wyoming,15.8,84.2
+2007,Wyoming,15.7,84.3
+2006,Wyoming,16.5,83.5
