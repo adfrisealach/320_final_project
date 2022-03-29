@@ -1,3 +1,4 @@
-﻿data,data source
-gdp_state_annual.csv,https://apps.bea.gov/itable/iTable.cfm?ReqID=70&step=1&acrdn=1
-pce_state_annual.csv,https://apps.bea.gov/itable/iTable.cfm?ReqID=70&step=1&acrdn=1
+﻿https://apps.bea.gov/itable/index.cfm
+https://www.census.gov/econ/currentdata/dbsearch?program=BFS&startYear=2004&endYear=2022&categories=TOTAL&dataType=BA_BA&geoLevel=US&adjusted=1&notAdjusted=1&submit=GET+DATA&releaseScheduleId=
+https://nces.ed.gov/ccd/elsi/tableGenerator.aspx
+https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-poverty-people.html
