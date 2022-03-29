@@ -1,0 +1,781 @@
+state,year,median_income
+Alabama,2005,36879.0
+Alabama,2006,38783.0
+Alabama,2007,40554.0
+Alabama,2008,42666.0
+Alabama,2009,40489.0
+Alabama,2010,40474.0
+Alabama,2011,41415.0
+Alabama,2012,41574.0
+Alabama,2013,42849.0
+Alabama,2014,42830.0
+Alabama,2015,44765.0
+Alabama,2016,46257.0
+Alabama,2017,48123.0
+Alabama,2018,49861.0
+Alabama,2019,51734.0
+Alaska,2005,56234.0
+Alaska,2006,59393.0
+Alaska,2007,64333.0
+Alaska,2008,68460.0
+Alaska,2009,66953.0
+Alaska,2010,64576.0
+Alaska,2011,67825.0
+Alaska,2012,67712.0
+Alaska,2013,72237.0
+Alaska,2014,71583.0
+Alaska,2015,73355.0
+Alaska,2016,76440.0
+Alaska,2017,73181.0
+Alaska,2018,74346.0
+Alaska,2019,75463.0
+Arizona,2005,44282.0
+Arizona,2006,47265.0
+Arizona,2007,49889.0
+Arizona,2008,50958.0
+Arizona,2009,48745.0
+Arizona,2010,46789.0
+Arizona,2011,46709.0
+Arizona,2012,47826.0
+Arizona,2013,48510.0
+Arizona,2014,50068.0
+Arizona,2015,51492.0
+Arizona,2016,53558.0
+Arizona,2017,56581.0
+Arizona,2018,59246.0
+Arizona,2019,62055.0
+Arkansas,2005,34999.0
+Arkansas,2006,36599.0
+Arkansas,2007,38134.0
+Arkansas,2008,38815.0
+Arkansas,2009,37823.0
+Arkansas,2010,38307.0
+Arkansas,2011,38758.0
+Arkansas,2012,40112.0
+Arkansas,2013,40511.0
+Arkansas,2014,41262.0
+Arkansas,2015,41995.0
+Arkansas,2016,44334.0
+Arkansas,2017,45869.0
+Arkansas,2018,47062.0
+Arkansas,2019,48952.0
+California,2005,53629.0
+California,2006,56645.0
+California,2007,59948.0
+California,2008,61021.0
+California,2009,58931.0
+California,2010,57708.0
+California,2011,57287.0
+California,2012,58328.0
+California,2013,60190.0
+California,2014,61933.0
+California,2015,64500.0
+California,2016,67739.0
+California,2017,71805.0
+California,2018,75277.0
+California,2019,80440.0
+Colorado,2005,50652.0
+Colorado,2006,52015.0
+Colorado,2007,55212.0
+Colorado,2008,56993.0
+Colorado,2009,55430.0
+Colorado,2010,54046.0
+Colorado,2011,55387.0
+Colorado,2012,56765.0
+Colorado,2013,58823.0
+Colorado,2014,61303.0
+Colorado,2015,63909.0
+Colorado,2016,65685.0
+Colorado,2017,69117.0
+Colorado,2018,71953.0
+Colorado,2019,77127.0
+Connecticut,2005,60941.0
+Connecticut,2006,63422.0
+Connecticut,2007,65967.0
+Connecticut,2008,68595.0
+Connecticut,2009,67034.0
+Connecticut,2010,64032.0
+Connecticut,2011,65753.0
+Connecticut,2012,67276.0
+Connecticut,2013,67098.0
+Connecticut,2014,70048.0
+Connecticut,2015,71346.0
+Connecticut,2016,73433.0
+Connecticut,2017,74168.0
+Connecticut,2018,76348.0
+Connecticut,2019,78833.0
+Delaware,2005,52499.0
+Delaware,2006,52833.0
+Delaware,2007,54610.0
+Delaware,2008,57989.0
+Delaware,2009,56860.0
+Delaware,2010,55847.0
+Delaware,2011,58814.0
+Delaware,2012,58415.0
+Delaware,2013,57846.0
+Delaware,2014,59716.0
+Delaware,2015,61255.0
+Delaware,2016,61757.0
+Delaware,2017,62852.0
+Delaware,2018,64805.0
+Delaware,2019,70176.0
+District of Columbia,2005,47221.0
+District of Columbia,2006,51847.0
+District of Columbia,2007,54317.0
+District of Columbia,2008,57936.0
+District of Columbia,2009,59290.0
+District of Columbia,2010,60903.0
+District of Columbia,2011,63124.0
+District of Columbia,2012,66583.0
+District of Columbia,2013,67572.0
+District of Columbia,2014,71648.0
+District of Columbia,2015,75628.0
+District of Columbia,2016,75506.0
+District of Columbia,2017,82372.0
+District of Columbia,2018,85203.0
+District of Columbia,2019,92266.0
+Florida,2005,42433.0
+Florida,2006,45495.0
+Florida,2007,47804.0
+Florida,2008,47778.0
+Florida,2009,44736.0
+Florida,2010,44409.0
+Florida,2011,44299.0
+Florida,2012,45040.0
+Florida,2013,46036.0
+Florida,2014,47463.0
+Florida,2015,49426.0
+Florida,2016,50860.0
+Florida,2017,52594.0
+Florida,2018,55462.0
+Florida,2019,59227.0
+Georgia,2005,45604.0
+Georgia,2006,46832.0
+Georgia,2007,49136.0
+Georgia,2008,50861.0
+Georgia,2009,47590.0
+Georgia,2010,46430.0
+Georgia,2011,46007.0
+Georgia,2012,47209.0
+Georgia,2013,47829.0
+Georgia,2014,49321.0
+Georgia,2015,51244.0
+Georgia,2016,53559.0
+Georgia,2017,56183.0
+Georgia,2018,58756.0
+Georgia,2019,61980.0
+Hawaii,2005,58112.0
+Hawaii,2006,61160.0
+Hawaii,2007,63746.0
+Hawaii,2008,67214.0
+Hawaii,2009,64098.0
+Hawaii,2010,63030.0
+Hawaii,2011,61821.0
+Hawaii,2012,66259.0
+Hawaii,2013,68020.0
+Hawaii,2014,69592.0
+Hawaii,2015,73486.0
+Hawaii,2016,74511.0
+Hawaii,2017,77765.0
+Hawaii,2018,80212.0
+Hawaii,2019,83102.0
+Idaho,2005,41443.0
+Idaho,2006,42865.0
+Idaho,2007,46253.0
+Idaho,2008,47576.0
+Idaho,2009,44926.0
+Idaho,2010,43490.0
+Idaho,2011,43341.0
+Idaho,2012,45489.0
+Idaho,2013,46783.0
+Idaho,2014,47861.0
+Idaho,2015,48275.0
+Idaho,2016,51807.0
+Idaho,2017,52225.0
+Idaho,2018,55583.0
+Idaho,2019,60999.0
+Illinois,2005,50260.0
+Illinois,2006,52006.0
+Illinois,2007,54124.0
+Illinois,2008,56235.0
+Illinois,2009,53966.0
+Illinois,2010,52972.0
+Illinois,2011,53234.0
+Illinois,2012,55137.0
+Illinois,2013,56210.0
+Illinois,2014,57444.0
+Illinois,2015,59588.0
+Illinois,2016,60960.0
+Illinois,2017,62992.0
+Illinois,2018,65030.0
+Illinois,2019,69187.0
+Indiana,2005,43993.0
+Indiana,2006,45394.0
+Indiana,2007,47448.0
+Indiana,2008,47966.0
+Indiana,2009,45424.0
+Indiana,2010,44613.0
+Indiana,2011,46438.0
+Indiana,2012,46974.0
+Indiana,2013,47529.0
+Indiana,2014,49446.0
+Indiana,2015,50532.0
+Indiana,2016,52314.0
+Indiana,2017,54181.0
+Indiana,2018,55746.0
+Indiana,2019,57603.0
+Iowa,2005,43609.0
+Iowa,2006,44491.0
+Iowa,2007,47292.0
+Iowa,2008,48980.0
+Iowa,2009,48044.0
+Iowa,2010,47961.0
+Iowa,2011,49427.0
+Iowa,2012,50957.0
+Iowa,2013,52229.0
+Iowa,2014,53712.0
+Iowa,2015,54736.0
+Iowa,2016,56247.0
+Iowa,2017,58570.0
+Iowa,2018,59955.0
+Iowa,2019,61691.0
+Kansas,2005,42920.0
+Kansas,2006,45478.0
+Kansas,2007,47451.0
+Kansas,2008,50177.0
+Kansas,2009,47817.0
+Kansas,2010,48257.0
+Kansas,2011,48964.0
+Kansas,2012,50241.0
+Kansas,2013,50972.0
+Kansas,2014,52504.0
+Kansas,2015,53906.0
+Kansas,2016,54935.0
+Kansas,2017,56422.0
+Kansas,2018,58218.0
+Kansas,2019,62087.0
+Kentucky,2005,37369.0
+Kentucky,2006,39372.0
+Kentucky,2007,40267.0
+Kentucky,2008,41538.0
+Kentucky,2009,40072.0
+Kentucky,2010,40062.0
+Kentucky,2011,41141.0
+Kentucky,2012,41724.0
+Kentucky,2013,43399.0
+Kentucky,2014,42958.0
+Kentucky,2015,45215.0
+Kentucky,2016,46659.0
+Kentucky,2017,48375.0
+Kentucky,2018,50247.0
+Kentucky,2019,52295.0
+Louisiana,2005,36729.0
+Louisiana,2006,39337.0
+Louisiana,2007,40926.0
+Louisiana,2008,43733.0
+Louisiana,2009,42492.0
+Louisiana,2010,42505.0
+Louisiana,2011,41734.0
+Louisiana,2012,42944.0
+Louisiana,2013,44164.0
+Louisiana,2014,44555.0
+Louisiana,2015,45727.0
+Louisiana,2016,45146.0
+Louisiana,2017,46145.0
+Louisiana,2018,47905.0
+Louisiana,2019,51073.0
+Maine,2005,42801.0
+Maine,2006,43439.0
+Maine,2007,45888.0
+Maine,2008,46581.0
+Maine,2009,45734.0
+Maine,2010,45815.0
+Maine,2011,46033.0
+Maine,2012,46709.0
+Maine,2013,46974.0
+Maine,2014,49462.0
+Maine,2015,51494.0
+Maine,2016,53079.0
+Maine,2017,56277.0
+Maine,2018,55602.0
+Maine,2019,58924.0
+Maryland,2005,61592.0
+Maryland,2006,65144.0
+Maryland,2007,68080.0
+Maryland,2008,70545.0
+Maryland,2009,69272.0
+Maryland,2010,68854.0
+Maryland,2011,70004.0
+Maryland,2012,71122.0
+Maryland,2013,72483.0
+Maryland,2014,73971.0
+Maryland,2015,75847.0
+Maryland,2016,78945.0
+Maryland,2017,80776.0
+Maryland,2018,83242.0
+Maryland,2019,86738.0
+Massachusetts,2005,57184.0
+Massachusetts,2006,59963.0
+Massachusetts,2007,62365.0
+Massachusetts,2008,65401.0
+Massachusetts,2009,64081.0
+Massachusetts,2010,62072.0
+Massachusetts,2011,62859.0
+Massachusetts,2012,65339.0
+Massachusetts,2013,66768.0
+Massachusetts,2014,69160.0
+Massachusetts,2015,70628.0
+Massachusetts,2016,75297.0
+Massachusetts,2017,77385.0
+Massachusetts,2018,79835.0
+Massachusetts,2019,85843.0
+Michigan,2005,46039.0
+Michigan,2006,47182.0
+Michigan,2007,47950.0
+Michigan,2008,48591.0
+Michigan,2009,45255.0
+Michigan,2010,45413.0
+Michigan,2011,45981.0
+Michigan,2012,46859.0
+Michigan,2013,48273.0
+Michigan,2014,49847.0
+Michigan,2015,51084.0
+Michigan,2016,52492.0
+Michigan,2017,54909.0
+Michigan,2018,56697.0
+Michigan,2019,59584.0
+Minnesota,2005,52024.0
+Minnesota,2006,54023.0
+Minnesota,2007,55802.0
+Minnesota,2008,57288.0
+Minnesota,2009,55616.0
+Minnesota,2010,55459.0
+Minnesota,2011,56954.0
+Minnesota,2012,58906.0
+Minnesota,2013,60702.0
+Minnesota,2014,61481.0
+Minnesota,2015,63488.0
+Minnesota,2016,65599.0
+Minnesota,2017,68388.0
+Minnesota,2018,70315.0
+Minnesota,2019,74593.0
+Mississippi,2005,32938.0
+Mississippi,2006,34473.0
+Mississippi,2007,36338.0
+Mississippi,2008,37790.0
+Mississippi,2009,36646.0
+Mississippi,2010,36851.0
+Mississippi,2011,36919.0
+Mississippi,2012,37095.0
+Mississippi,2013,37963.0
+Mississippi,2014,39680.0
+Mississippi,2015,40593.0
+Mississippi,2016,41754.0
+Mississippi,2017,43529.0
+Mississippi,2018,44717.0
+Mississippi,2019,45792.0
+Missouri,2005,41974.0
+Missouri,2006,42841.0
+Missouri,2007,45114.0
+Missouri,2008,46867.0
+Missouri,2009,45229.0
+Missouri,2010,44301.0
+Missouri,2011,45247.0
+Missouri,2012,45321.0
+Missouri,2013,46931.0
+Missouri,2014,48363.0
+Missouri,2015,50238.0
+Missouri,2016,51746.0
+Missouri,2017,53578.0
+Missouri,2018,54478.0
+Missouri,2019,57409.0
+Montana,2005,39301.0
+Montana,2006,40627.0
+Montana,2007,43531.0
+Montana,2008,43654.0
+Montana,2009,42322.0
+Montana,2010,42666.0
+Montana,2011,44222.0
+Montana,2012,45076.0
+Montana,2013,46972.0
+Montana,2014,46328.0
+Montana,2015,49509.0
+Montana,2016,50027.0
+Montana,2017,53386.0
+Montana,2018,55328.0
+Montana,2019,57153.0
+Nebraska,2005,43849.0
+Nebraska,2006,45474.0
+Nebraska,2007,47085.0
+Nebraska,2008,49693.0
+Nebraska,2009,47357.0
+Nebraska,2010,48408.0
+Nebraska,2011,50296.0
+Nebraska,2012,50723.0
+Nebraska,2013,51440.0
+Nebraska,2014,52686.0
+Nebraska,2015,54996.0
+Nebraska,2016,56927.0
+Nebraska,2017,59970.0
+Nebraska,2018,59566.0
+Nebraska,2019,63229.0
+Nevada,2005,49169.0
+Nevada,2006,52998.0
+Nevada,2007,55062.0
+Nevada,2008,56361.0
+Nevada,2009,53341.0
+Nevada,2010,51001.0
+Nevada,2011,48927.0
+Nevada,2012,49760.0
+Nevada,2013,51230.0
+Nevada,2014,51450.0
+Nevada,2015,52431.0
+Nevada,2016,55180.0
+Nevada,2017,58003.0
+Nevada,2018,58646.0
+Nevada,2019,63276.0
+New Hampshire,2005,56768.0
+New Hampshire,2006,59683.0
+New Hampshire,2007,62369.0
+New Hampshire,2008,63731.0
+New Hampshire,2009,60567.0
+New Hampshire,2010,61042.0
+New Hampshire,2011,62647.0
+New Hampshire,2012,63280.0
+New Hampshire,2013,64230.0
+New Hampshire,2014,66532.0
+New Hampshire,2015,70303.0
+New Hampshire,2016,70936.0
+New Hampshire,2017,73381.0
+New Hampshire,2018,74991.0
+New Hampshire,2019,77933.0
+New Jersey,2005,61672.0
+New Jersey,2006,64470.0
+New Jersey,2007,67035.0
+New Jersey,2008,70378.0
+New Jersey,2009,68342.0
+New Jersey,2010,67681.0
+New Jersey,2011,67458.0
+New Jersey,2012,69667.0
+New Jersey,2013,70165.0
+New Jersey,2014,71919.0
+New Jersey,2015,72222.0
+New Jersey,2016,76126.0
+New Jersey,2017,80088.0
+New Jersey,2018,81740.0
+New Jersey,2019,85751.0
+New Mexico,2005,37492.0
+New Mexico,2006,40629.0
+New Mexico,2007,41452.0
+New Mexico,2008,43508.0
+New Mexico,2009,43028.0
+New Mexico,2010,42090.0
+New Mexico,2011,41963.0
+New Mexico,2012,42558.0
+New Mexico,2013,43872.0
+New Mexico,2014,44803.0
+New Mexico,2015,45382.0
+New Mexico,2016,46748.0
+New Mexico,2017,46744.0
+New Mexico,2018,47169.0
+New Mexico,2019,51945.0
+New York,2005,49480.0
+New York,2006,51384.0
+New York,2007,53514.0
+New York,2008,56033.0
+New York,2009,54659.0
+New York,2010,54148.0
+New York,2011,55246.0
+New York,2012,56448.0
+New York,2013,57369.0
+New York,2014,58878.0
+New York,2015,60850.0
+New York,2016,62909.0
+New York,2017,64894.0
+New York,2018,67844.0
+New York,2019,72108.0
+North Carolina,2005,40729.0
+North Carolina,2006,42625.0
+North Carolina,2007,44670.0
+North Carolina,2008,46549.0
+North Carolina,2009,43674.0
+North Carolina,2010,43326.0
+North Carolina,2011,43916.0
+North Carolina,2012,45150.0
+North Carolina,2013,45906.0
+North Carolina,2014,46556.0
+North Carolina,2015,47830.0
+North Carolina,2016,50584.0
+North Carolina,2017,52752.0
+North Carolina,2018,53855.0
+North Carolina,2019,57341.0
+North Dakota,2005,41030.0
+North Dakota,2006,41919.0
+North Dakota,2007,43753.0
+North Dakota,2008,45685.0
+North Dakota,2009,47827.0
+North Dakota,2010,48670.0
+North Dakota,2011,51704.0
+North Dakota,2012,53585.0
+North Dakota,2013,55759.0
+North Dakota,2014,59029.0
+North Dakota,2015,60557.0
+North Dakota,2016,60656.0
+North Dakota,2017,61843.0
+North Dakota,2018,63837.0
+North Dakota,2019,64577.0
+Ohio,2005,43493.0
+Ohio,2006,44532.0
+Ohio,2007,46597.0
+Ohio,2008,47988.0
+Ohio,2009,45395.0
+Ohio,2010,45090.0
+Ohio,2011,45749.0
+Ohio,2012,46829.0
+Ohio,2013,48081.0
+Ohio,2014,49308.0
+Ohio,2015,51075.0
+Ohio,2016,52334.0
+Ohio,2017,54021.0
+Ohio,2018,56111.0
+Ohio,2019,58642.0
+Oklahoma,2005,37063.0
+Oklahoma,2006,38770.0
+Oklahoma,2007,41567.0
+Oklahoma,2008,42822.0
+Oklahoma,2009,41664.0
+Oklahoma,2010,42072.0
+Oklahoma,2011,43225.0
+Oklahoma,2012,44312.0
+Oklahoma,2013,45690.0
+Oklahoma,2014,47529.0
+Oklahoma,2015,48568.0
+Oklahoma,2016,49176.0
+Oklahoma,2017,50051.0
+Oklahoma,2018,51924.0
+Oklahoma,2019,54449.0
+Oregon,2005,42944.0
+Oregon,2006,46230.0
+Oregon,2007,48730.0
+Oregon,2008,50169.0
+Oregon,2009,48457.0
+Oregon,2010,46560.0
+Oregon,2011,46816.0
+Oregon,2012,49161.0
+Oregon,2013,50251.0
+Oregon,2014,51075.0
+Oregon,2015,54148.0
+Oregon,2016,57532.0
+Oregon,2017,60212.0
+Oregon,2018,63426.0
+Oregon,2019,67058.0
+Pennsylvania,2005,44537.0
+Pennsylvania,2006,46259.0
+Pennsylvania,2007,48576.0
+Pennsylvania,2008,50713.0
+Pennsylvania,2009,49520.0
+Pennsylvania,2010,49288.0
+Pennsylvania,2011,50228.0
+Pennsylvania,2012,51230.0
+Pennsylvania,2013,52007.0
+Pennsylvania,2014,53234.0
+Pennsylvania,2015,55702.0
+Pennsylvania,2016,56907.0
+Pennsylvania,2017,59195.0
+Pennsylvania,2018,60905.0
+Pennsylvania,2019,63463.0
+Puerto Rico,2005,17184.0
+Puerto Rico,2006,17621.0
+Puerto Rico,2007,17741.0
+Puerto Rico,2008,18401.0
+Puerto Rico,2009,18314.0
+Puerto Rico,2010,18862.0
+Puerto Rico,2011,18660.0
+Puerto Rico,2012,19429.0
+Puerto Rico,2013,19183.0
+Puerto Rico,2014,18928.0
+Puerto Rico,2015,18626.0
+Puerto Rico,2016,20078.0
+Puerto Rico,2017,19343.0
+Puerto Rico,2018,20296.0
+Puerto Rico,2019,20474.0
+Rhode Island,2005,51458.0
+Rhode Island,2006,51814.0
+Rhode Island,2007,53568.0
+Rhode Island,2008,55701.0
+Rhode Island,2009,54119.0
+Rhode Island,2010,52254.0
+Rhode Island,2011,53636.0
+Rhode Island,2012,54554.0
+Rhode Island,2013,55902.0
+Rhode Island,2014,54891.0
+Rhode Island,2015,58073.0
+Rhode Island,2016,60596.0
+Rhode Island,2017,63870.0
+Rhode Island,2018,64340.0
+Rhode Island,2019,71169.0
+South Carolina,2005,39316.0
+South Carolina,2006,41100.0
+South Carolina,2007,43329.0
+South Carolina,2008,44625.0
+South Carolina,2009,42442.0
+South Carolina,2010,42018.0
+South Carolina,2011,42367.0
+South Carolina,2012,43107.0
+South Carolina,2013,44163.0
+South Carolina,2014,45238.0
+South Carolina,2015,47238.0
+South Carolina,2016,49501.0
+South Carolina,2017,50570.0
+South Carolina,2018,52306.0
+South Carolina,2019,56227.0
+South Dakota,2005,40310.0
+South Dakota,2006,42791.0
+South Dakota,2007,43424.0
+South Dakota,2008,46032.0
+South Dakota,2009,45043.0
+South Dakota,2010,45904.0
+South Dakota,2011,48321.0
+South Dakota,2012,48362.0
+South Dakota,2013,48947.0
+South Dakota,2014,50979.0
+South Dakota,2015,53017.0
+South Dakota,2016,54467.0
+South Dakota,2017,56521.0
+South Dakota,2018,56274.0
+South Dakota,2019,59533.0
+Tennessee,2005,38874.0
+Tennessee,2006,40315.0
+Tennessee,2007,42367.0
+Tennessee,2008,43614.0
+Tennessee,2009,41725.0
+Tennessee,2010,41461.0
+Tennessee,2011,41693.0
+Tennessee,2012,42764.0
+Tennessee,2013,44297.0
+Tennessee,2014,44361.0
+Tennessee,2015,47275.0
+Tennessee,2016,48547.0
+Tennessee,2017,51340.0
+Tennessee,2018,52375.0
+Tennessee,2019,56071.0
+Texas,2005,42139.0
+Texas,2006,44922.0
+Texas,2007,47548.0
+Texas,2008,50043.0
+Texas,2009,48259.0
+Texas,2010,48615.0
+Texas,2011,49392.0
+Texas,2012,50740.0
+Texas,2013,51704.0
+Texas,2014,53035.0
+Texas,2015,55653.0
+Texas,2016,56565.0
+Texas,2017,59206.0
+Texas,2018,60629.0
+Texas,2019,64034.0
+Utah,2005,47934.0
+Utah,2006,51309.0
+Utah,2007,55109.0
+Utah,2008,56633.0
+Utah,2009,55117.0
+Utah,2010,54744.0
+Utah,2011,55869.0
+Utah,2012,57049.0
+Utah,2013,59770.0
+Utah,2014,60922.0
+Utah,2015,62912.0
+Utah,2016,65977.0
+Utah,2017,68358.0
+Utah,2018,71414.0
+Utah,2019,75780.0
+Vermont,2005,45686.0
+Vermont,2006,47665.0
+Vermont,2007,49907.0
+Vermont,2008,52104.0
+Vermont,2009,51618.0
+Vermont,2010,49406.0
+Vermont,2011,52776.0
+Vermont,2012,52977.0
+Vermont,2013,52578.0
+Vermont,2014,54166.0
+Vermont,2015,56990.0
+Vermont,2016,57677.0
+Vermont,2017,57513.0
+Vermont,2018,60782.0
+Vermont,2019,63001.0
+Virginia,2005,54240.0
+Virginia,2006,56277.0
+Virginia,2007,59562.0
+Virginia,2008,61233.0
+Virginia,2009,59330.0
+Virginia,2010,60674.0
+Virginia,2011,61882.0
+Virginia,2012,61741.0
+Virginia,2013,62666.0
+Virginia,2014,64902.0
+Virginia,2015,66262.0
+Virginia,2016,68114.0
+Virginia,2017,71535.0
+Virginia,2018,72577.0
+Virginia,2019,76456.0
+Washington,2005,49262.0
+Washington,2006,52583.0
+Washington,2007,55591.0
+Washington,2008,58078.0
+Washington,2009,56548.0
+Washington,2010,55631.0
+Washington,2011,56835.0
+Washington,2012,57573.0
+Washington,2013,58405.0
+Washington,2014,61366.0
+Washington,2015,64129.0
+Washington,2016,67106.0
+Washington,2017,70979.0
+Washington,2018,74073.0
+Washington,2019,78687.0
+West Virginia,2005,33452.0
+West Virginia,2006,35059.0
+West Virginia,2007,37060.0
+West Virginia,2008,37989.0
+West Virginia,2009,37435.0
+West Virginia,2010,38218.0
+West Virginia,2011,38482.0
+West Virginia,2012,40196.0
+West Virginia,2013,41253.0
+West Virginia,2014,41059.0
+West Virginia,2015,42019.0
+West Virginia,2016,43385.0
+West Virginia,2017,43469.0
+West Virginia,2018,44097.0
+West Virginia,2019,48850.0
+Wisconsin,2005,47105.0
+Wisconsin,2006,48772.0
+Wisconsin,2007,50578.0
+Wisconsin,2008,52094.0
+Wisconsin,2009,49993.0
+Wisconsin,2010,49001.0
+Wisconsin,2011,50395.0
+Wisconsin,2012,51059.0
+Wisconsin,2013,51467.0
+Wisconsin,2014,52622.0
+Wisconsin,2015,55638.0
+Wisconsin,2016,56811.0
+Wisconsin,2017,59305.0
+Wisconsin,2018,60773.0
+Wisconsin,2019,64168.0
+Wyoming,2005,46202.0
+Wyoming,2006,47423.0
+Wyoming,2007,51731.0
+Wyoming,2008,53207.0
+Wyoming,2009,52664.0
+Wyoming,2010,53512.0
+Wyoming,2011,56322.0
+Wyoming,2012,54901.0
+Wyoming,2013,58752.0
+Wyoming,2014,57055.0
+Wyoming,2015,60214.0
+Wyoming,2016,59882.0
+Wyoming,2017,60434.0
+Wyoming,2018,61584.0
+Wyoming,2019,65003.0

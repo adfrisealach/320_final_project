@@ -1,0 +1,729 @@
+state,year,gini_index
+Alabama,2006,0.472
+Alabama,2007,0.471
+Alabama,2008,0.467
+Alabama,2009,0.471
+Alabama,2010,0.472
+Alabama,2011,0.4735
+Alabama,2012,0.4726
+Alabama,2013,0.4752
+Alabama,2014,0.4758
+Alabama,2015,0.4811
+Alabama,2016,0.4847
+Alabama,2017,0.4768
+Alabama,2018,0.4859
+Alabama,2019,0.4741
+Alaska,2006,0.417
+Alaska,2007,0.409
+Alaska,2008,0.403
+Alaska,2009,0.402
+Alaska,2010,0.422
+Alaska,2011,0.4099
+Alaska,2012,0.4232
+Alaska,2013,0.4083
+Alaska,2014,0.4175
+Alaska,2015,0.4322
+Alaska,2016,0.4081
+Alaska,2017,0.4241
+Alaska,2018,0.4322
+Alaska,2019,0.4376
+Arizona,2006,0.454
+Arizona,2007,0.448
+Arizona,2008,0.453
+Arizona,2009,0.451
+Arizona,2010,0.455
+Arizona,2011,0.46
+Arizona,2012,0.4608
+Arizona,2013,0.4681
+Arizona,2014,0.4676
+Arizona,2015,0.4702
+Arizona,2016,0.4713
+Arizona,2017,0.4668
+Arizona,2018,0.4613
+Arizona,2019,0.4591
+Arkansas,2006,0.46
+Arkansas,2007,0.462
+Arkansas,2008,0.459
+Arkansas,2009,0.461
+Arkansas,2010,0.458
+Arkansas,2011,0.4684
+Arkansas,2012,0.4632
+Arkansas,2013,0.4685
+Arkansas,2014,0.4714
+Arkansas,2015,0.4773
+Arkansas,2016,0.4719
+Arkansas,2017,0.4725
+Arkansas,2018,0.4845
+Arkansas,2019,0.475
+California,2006,0.466
+California,2007,0.469
+California,2008,0.473
+California,2009,0.467
+California,2010,0.471
+California,2011,0.4812
+California,2012,0.4822
+California,2013,0.4903
+California,2014,0.489
+California,2015,0.4876
+California,2016,0.4899
+California,2017,0.4866
+California,2018,0.4912
+California,2019,0.4866
+Colorado,2006,0.45
+Colorado,2007,0.452
+Colorado,2008,0.457
+Colorado,2009,0.453
+Colorado,2010,0.457
+Colorado,2011,0.4588
+Colorado,2012,0.4579
+Colorado,2013,0.4614
+Colorado,2014,0.4584
+Colorado,2015,0.458
+Colorado,2016,0.4586
+Colorado,2017,0.4553
+Colorado,2018,0.4561
+Colorado,2019,0.4548
+Connecticut,2006,0.48
+Connecticut,2007,0.481
+Connecticut,2008,0.486
+Connecticut,2009,0.48
+Connecticut,2010,0.486
+Connecticut,2011,0.4859
+Connecticut,2012,0.4915
+Connecticut,2013,0.4994
+Connecticut,2014,0.5005
+Connecticut,2015,0.4916
+Connecticut,2016,0.4945
+Connecticut,2017,0.4943
+Connecticut,2018,0.5014
+Connecticut,2019,0.5024
+Delaware,2006,0.434
+Delaware,2007,0.435
+Delaware,2008,0.447
+Delaware,2009,0.434
+Delaware,2010,0.44
+Delaware,2011,0.4404
+Delaware,2012,0.4356
+Delaware,2013,0.4513
+Delaware,2014,0.4494
+Delaware,2015,0.4523
+Delaware,2016,0.4522
+Delaware,2017,0.4811
+Delaware,2018,0.4587
+Delaware,2019,0.4509
+District of Columbia,2006,0.537
+District of Columbia,2007,0.542
+District of Columbia,2008,0.54
+District of Columbia,2009,0.532
+District of Columbia,2010,0.532
+District of Columbia,2011,0.5338
+District of Columbia,2012,0.5343
+District of Columbia,2013,0.532
+District of Columbia,2014,0.5224
+District of Columbia,2015,0.5354
+District of Columbia,2016,0.542
+District of Columbia,2017,0.5281
+District of Columbia,2018,0.5243
+District of Columbia,2019,0.5115
+Florida,2006,0.467
+Florida,2007,0.469
+Florida,2008,0.471
+Florida,2009,0.469
+Florida,2010,0.474
+Florida,2011,0.4811
+Florida,2012,0.4828
+Florida,2013,0.4843
+Florida,2014,0.4834
+Florida,2015,0.4872
+Florida,2016,0.4852
+Florida,2017,0.4859
+Florida,2018,0.4887
+Florida,2019,0.4808
+Georgia,2006,0.461
+Georgia,2007,0.464
+Georgia,2008,0.467
+Georgia,2009,0.469
+Georgia,2010,0.468
+Georgia,2011,0.477
+Georgia,2012,0.4809
+Georgia,2013,0.4837
+Georgia,2014,0.4801
+Georgia,2015,0.4801
+Georgia,2016,0.4813
+Georgia,2017,0.483
+Georgia,2018,0.4822
+Georgia,2019,0.4795
+Hawaii,2006,0.438
+Hawaii,2007,0.422
+Hawaii,2008,0.428
+Hawaii,2009,0.425
+Hawaii,2010,0.433
+Hawaii,2011,0.4301
+Hawaii,2012,0.4257
+Hawaii,2013,0.44
+Hawaii,2014,0.4325
+Hawaii,2015,0.4346
+Hawaii,2016,0.442
+Hawaii,2017,0.4455
+Hawaii,2018,0.445
+Hawaii,2019,0.4397
+Idaho,2006,0.421
+Idaho,2007,0.436
+Idaho,2008,0.419
+Idaho,2009,0.421
+Idaho,2010,0.433
+Idaho,2011,0.432
+Idaho,2012,0.4302
+Idaho,2013,0.4376
+Idaho,2014,0.4541
+Idaho,2015,0.4525
+Idaho,2016,0.4503
+Idaho,2017,0.4478
+Idaho,2018,0.4454
+Idaho,2019,0.4337
+Illinois,2006,0.462
+Illinois,2007,0.466
+Illinois,2008,0.467
+Illinois,2009,0.469
+Illinois,2010,0.465
+Illinois,2011,0.4718
+Illinois,2012,0.4716
+Illinois,2013,0.4824
+Illinois,2014,0.4765
+Illinois,2015,0.4817
+Illinois,2016,0.481
+Illinois,2017,0.4818
+Illinois,2018,0.4852
+Illinois,2019,0.48
+Indiana,2006,0.432
+Indiana,2007,0.429
+Indiana,2008,0.437
+Indiana,2009,0.434
+Indiana,2010,0.44
+Indiana,2011,0.4461
+Indiana,2012,0.4417
+Indiana,2013,0.4554
+Indiana,2014,0.4455
+Indiana,2015,0.4519
+Indiana,2016,0.4527
+Indiana,2017,0.4497
+Indiana,2018,0.4511
+Indiana,2019,0.4584
+Iowa,2006,0.424
+Iowa,2007,0.426
+Iowa,2008,0.428
+Iowa,2009,0.431
+Iowa,2010,0.427
+Iowa,2011,0.434
+Iowa,2012,0.4328
+Iowa,2013,0.4429
+Iowa,2014,0.4433
+Iowa,2015,0.4393
+Iowa,2016,0.4451
+Iowa,2017,0.4381
+Iowa,2018,0.4413
+Iowa,2019,0.4422
+Kansas,2006,0.441
+Kansas,2007,0.444
+Kansas,2008,0.442
+Kansas,2009,0.444
+Kansas,2010,0.445
+Kansas,2011,0.4442
+Kansas,2012,0.4496
+Kansas,2013,0.4589
+Kansas,2014,0.4597
+Kansas,2015,0.4596
+Kansas,2016,0.455
+Kansas,2017,0.4539
+Kansas,2018,0.4633
+Kansas,2019,0.45
+Kentucky,2006,0.46
+Kentucky,2007,0.465
+Kentucky,2008,0.467
+Kentucky,2009,0.464
+Kentucky,2010,0.466
+Kentucky,2011,0.4709
+Kentucky,2012,0.4667
+Kentucky,2013,0.4721
+Kentucky,2014,0.4704
+Kentucky,2015,0.4781
+Kentucky,2016,0.4813
+Kentucky,2017,0.4784
+Kentucky,2018,0.4787
+Kentucky,2019,0.4764
+Louisiana,2006,0.475
+Louisiana,2007,0.478
+Louisiana,2008,0.477
+Louisiana,2009,0.473
+Louisiana,2010,0.475
+Louisiana,2011,0.4836
+Louisiana,2012,0.4859
+Louisiana,2013,0.4914
+Louisiana,2014,0.4902
+Louisiana,2015,0.4909
+Louisiana,2016,0.499
+Louisiana,2017,0.4935
+Louisiana,2018,0.4936
+Louisiana,2019,0.4978
+Maine,2006,0.428
+Maine,2007,0.44
+Maine,2008,0.436
+Maine,2009,0.432
+Maine,2010,0.437
+Maine,2011,0.4509
+Maine,2012,0.445
+Maine,2013,0.4532
+Maine,2014,0.4593
+Maine,2015,0.4523
+Maine,2016,0.4519
+Maine,2017,0.4526
+Maine,2018,0.4516
+Maine,2019,0.449
+Maryland,2006,0.433
+Maryland,2007,0.442
+Maryland,2008,0.438
+Maryland,2009,0.448
+Maryland,2010,0.443
+Maryland,2011,0.4466
+Maryland,2012,0.4473
+Maryland,2013,0.4555
+Maryland,2014,0.4491
+Maryland,2015,0.4524
+Maryland,2016,0.4499
+Maryland,2017,0.453
+Maryland,2018,0.4543
+Maryland,2019,0.4558
+Massachusetts,2006,0.461
+Massachusetts,2007,0.467
+Massachusetts,2008,0.471
+Massachusetts,2009,0.468
+Massachusetts,2010,0.475
+Massachusetts,2011,0.4771
+Massachusetts,2012,0.4813
+Massachusetts,2013,0.4837
+Massachusetts,2014,0.4863
+Massachusetts,2015,0.4848
+Massachusetts,2016,0.4786
+Massachusetts,2017,0.4851
+Massachusetts,2018,0.4875
+Massachusetts,2019,0.4803
+Michigan,2006,0.444
+Michigan,2007,0.448
+Michigan,2008,0.451
+Michigan,2009,0.453
+Michigan,2010,0.451
+Michigan,2011,0.4612
+Michigan,2012,0.4624
+Michigan,2013,0.4641
+Michigan,2014,0.4598
+Michigan,2015,0.4667
+Michigan,2016,0.4695
+Michigan,2017,0.4671
+Michigan,2018,0.4679
+Michigan,2019,0.4634
+Minnesota,2006,0.43
+Minnesota,2007,0.436
+Minnesota,2008,0.445
+Minnesota,2009,0.439
+Minnesota,2010,0.44
+Minnesota,2011,0.4436
+Minnesota,2012,0.4441
+Minnesota,2013,0.4462
+Minnesota,2014,0.4539
+Minnesota,2015,0.4492
+Minnesota,2016,0.4496
+Minnesota,2017,0.4516
+Minnesota,2018,0.4536
+Minnesota,2019,0.4434
+Mississippi,2006,0.471
+Mississippi,2007,0.48
+Mississippi,2008,0.478
+Mississippi,2009,0.47
+Mississippi,2010,0.468
+Mississippi,2011,0.4735
+Mississippi,2012,0.487
+Mississippi,2013,0.4791
+Mississippi,2014,0.476
+Mississippi,2015,0.4759
+Mississippi,2016,0.4828
+Mississippi,2017,0.479
+Mississippi,2018,0.4828
+Mississippi,2019,0.4896
+Missouri,2006,0.449
+Missouri,2007,0.45
+Missouri,2008,0.448
+Missouri,2009,0.45
+Missouri,2010,0.455
+Missouri,2011,0.4611
+Missouri,2012,0.4608
+Missouri,2013,0.4605
+Missouri,2014,0.4628
+Missouri,2015,0.4634
+Missouri,2016,0.4646
+Missouri,2017,0.4618
+Missouri,2018,0.4657
+Missouri,2019,0.4633
+Montana,2006,0.426
+Montana,2007,0.443
+Montana,2008,0.449
+Montana,2009,0.431
+Montana,2010,0.435
+Montana,2011,0.4351
+Montana,2012,0.4502
+Montana,2013,0.462
+Montana,2014,0.4544
+Montana,2015,0.4623
+Montana,2016,0.4667
+Montana,2017,0.4539
+Montana,2018,0.4535
+Montana,2019,0.4597
+Nebraska,2006,0.43
+Nebraska,2007,0.429
+Nebraska,2008,0.427
+Nebraska,2009,0.44
+Nebraska,2010,0.432
+Nebraska,2011,0.4467
+Nebraska,2012,0.4339
+Nebraska,2013,0.4445
+Nebraska,2014,0.4352
+Nebraska,2015,0.4473
+Nebraska,2016,0.4477
+Nebraska,2017,0.4391
+Nebraska,2018,0.4488
+Nebraska,2019,0.44
+Nevada,2006,0.434
+Nevada,2007,0.437
+Nevada,2008,0.431
+Nevada,2009,0.433
+Nevada,2010,0.448
+Nevada,2011,0.4526
+Nevada,2012,0.4516
+Nevada,2013,0.4543
+Nevada,2014,0.4427
+Nevada,2015,0.4548
+Nevada,2016,0.4577
+Nevada,2017,0.4606
+Nevada,2018,0.469
+Nevada,2019,0.471
+New Hampshire,2006,0.417
+New Hampshire,2007,0.417
+New Hampshire,2008,0.419
+New Hampshire,2009,0.431
+New Hampshire,2010,0.425
+New Hampshire,2011,0.4347
+New Hampshire,2012,0.4298
+New Hampshire,2013,0.4387
+New Hampshire,2014,0.441
+New Hampshire,2015,0.4347
+New Hampshire,2016,0.4304
+New Hampshire,2017,0.4386
+New Hampshire,2018,0.453
+New Hampshire,2019,0.4406
+New Jersey,2006,0.458
+New Jersey,2007,0.464
+New Jersey,2008,0.462
+New Jersey,2009,0.465
+New Jersey,2010,0.464
+New Jersey,2011,0.4694
+New Jersey,2012,0.4718
+New Jersey,2013,0.48
+New Jersey,2014,0.4757
+New Jersey,2015,0.4832
+New Jersey,2016,0.4813
+New Jersey,2017,0.4794
+New Jersey,2018,0.4836
+New Jersey,2019,0.4782
+New Mexico,2006,0.457
+New Mexico,2007,0.459
+New Mexico,2008,0.46
+New Mexico,2009,0.453
+New Mexico,2010,0.464
+New Mexico,2011,0.4821
+New Mexico,2012,0.4713
+New Mexico,2013,0.4759
+New Mexico,2014,0.477
+New Mexico,2015,0.4795
+New Mexico,2016,0.4769
+New Mexico,2017,0.4776
+New Mexico,2018,0.4891
+New Mexico,2019,0.4768
+New York,2006,0.495
+New York,2007,0.5
+New York,2008,0.503
+New York,2009,0.502
+New York,2010,0.499
+New York,2011,0.5033
+New York,2012,0.5009
+New York,2013,0.5098
+New York,2014,0.5111
+New York,2015,0.5138
+New York,2016,0.5129
+New York,2017,0.5157
+New York,2018,0.513
+New York,2019,0.5149
+North Carolina,2006,0.458
+North Carolina,2007,0.465
+North Carolina,2008,0.463
+North Carolina,2009,0.464
+North Carolina,2010,0.464
+North Carolina,2011,0.4716
+North Carolina,2012,0.4691
+North Carolina,2013,0.4765
+North Carolina,2014,0.4748
+North Carolina,2015,0.4776
+North Carolina,2016,0.478
+North Carolina,2017,0.4763
+North Carolina,2018,0.4782
+North Carolina,2019,0.4743
+North Dakota,2006,0.434
+North Dakota,2007,0.44
+North Dakota,2008,0.451
+North Dakota,2009,0.45
+North Dakota,2010,0.433
+North Dakota,2011,0.4448
+North Dakota,2012,0.4597
+North Dakota,2013,0.455
+North Dakota,2014,0.4664
+North Dakota,2015,0.4664
+North Dakota,2016,0.4533
+North Dakota,2017,0.4546
+North Dakota,2018,0.4427
+North Dakota,2019,0.4558
+Ohio,2006,0.449
+Ohio,2007,0.448
+Ohio,2008,0.45
+Ohio,2009,0.453
+Ohio,2010,0.452
+Ohio,2011,0.4594
+Ohio,2012,0.4615
+Ohio,2013,0.4652
+Ohio,2014,0.4637
+Ohio,2015,0.4637
+Ohio,2016,0.468
+Ohio,2017,0.4642
+Ohio,2018,0.4667
+Ohio,2019,0.4651
+Oklahoma,2006,0.46
+Oklahoma,2007,0.463
+Oklahoma,2008,0.458
+Oklahoma,2009,0.46
+Oklahoma,2010,0.454
+Oklahoma,2011,0.4613
+Oklahoma,2012,0.4643
+Oklahoma,2013,0.4619
+Oklahoma,2014,0.466
+Oklahoma,2015,0.4702
+Oklahoma,2016,0.4645
+Oklahoma,2017,0.4658
+Oklahoma,2018,0.4687
+Oklahoma,2019,0.4739
+Oregon,2006,0.444
+Oregon,2007,0.442
+Oregon,2008,0.447
+Oregon,2009,0.443
+Oregon,2010,0.449
+Oregon,2011,0.4586
+Oregon,2012,0.4565
+Oregon,2013,0.46
+Oregon,2014,0.4624
+Oregon,2015,0.4622
+Oregon,2016,0.4583
+Oregon,2017,0.4593
+Oregon,2018,0.4582
+Oregon,2019,0.45
+Pennsylvania,2006,0.455
+Pennsylvania,2007,0.46
+Pennsylvania,2008,0.457
+Pennsylvania,2009,0.46
+Pennsylvania,2010,0.461
+Pennsylvania,2011,0.4611
+Pennsylvania,2012,0.4642
+Pennsylvania,2013,0.4696
+Pennsylvania,2014,0.4686
+Pennsylvania,2015,0.4685
+Pennsylvania,2016,0.4689
+Pennsylvania,2017,0.4777
+Pennsylvania,2018,0.4747
+Pennsylvania,2019,0.4745
+Puerto Rico,2006,0.535
+Puerto Rico,2007,0.544
+Puerto Rico,2008,0.54
+Puerto Rico,2009,0.532
+Puerto Rico,2010,0.537
+Puerto Rico,2011,0.531
+Puerto Rico,2012,0.5325
+Puerto Rico,2013,0.547
+Puerto Rico,2014,0.5472
+Puerto Rico,2015,0.5589
+Puerto Rico,2016,0.5419
+Puerto Rico,2017,0.5512
+Puerto Rico,2018,0.5424
+Puerto Rico,2019,0.5509
+Rhode Island,2006,0.442
+Rhode Island,2007,0.457
+Rhode Island,2008,0.46
+Rhode Island,2009,0.457
+Rhode Island,2010,0.467
+Rhode Island,2011,0.4674
+Rhode Island,2012,0.4647
+Rhode Island,2013,0.4769
+Rhode Island,2014,0.4827
+Rhode Island,2015,0.4732
+Rhode Island,2016,0.4781
+Rhode Island,2017,0.4722
+Rhode Island,2018,0.47
+Rhode Island,2019,0.4628
+South Carolina,2006,0.462
+South Carolina,2007,0.459
+South Carolina,2008,0.464
+South Carolina,2009,0.462
+South Carolina,2010,0.461
+South Carolina,2011,0.4648
+South Carolina,2012,0.4684
+South Carolina,2013,0.4665
+South Carolina,2014,0.4687
+South Carolina,2015,0.4698
+South Carolina,2016,0.4735
+South Carolina,2017,0.4795
+South Carolina,2018,0.4762
+South Carolina,2019,0.4747
+South Dakota,2006,0.439
+South Dakota,2007,0.423
+South Dakota,2008,0.446
+South Dakota,2009,0.452
+South Dakota,2010,0.442
+South Dakota,2011,0.4324
+South Dakota,2012,0.4335
+South Dakota,2013,0.4427
+South Dakota,2014,0.4468
+South Dakota,2015,0.4436
+South Dakota,2016,0.4495
+South Dakota,2017,0.4488
+South Dakota,2018,0.4445
+South Dakota,2019,0.436
+Tennessee,2006,0.468
+Tennessee,2007,0.471
+Tennessee,2008,0.471
+Tennessee,2009,0.467
+Tennessee,2010,0.468
+Tennessee,2011,0.4756
+Tennessee,2012,0.4732
+Tennessee,2013,0.4783
+Tennessee,2014,0.4811
+Tennessee,2015,0.4789
+Tennessee,2016,0.479
+Tennessee,2017,0.4822
+Tennessee,2018,0.4778
+Tennessee,2019,0.4749
+Texas,2006,0.474
+Texas,2007,0.473
+Texas,2008,0.474
+Texas,2009,0.474
+Texas,2010,0.469
+Texas,2011,0.4771
+Texas,2012,0.4767
+Texas,2013,0.4807
+Texas,2014,0.4827
+Texas,2015,0.4823
+Texas,2016,0.48
+Texas,2017,0.4781
+Texas,2018,0.4822
+Texas,2019,0.4753
+Utah,2006,0.41
+Utah,2007,0.409
+Utah,2008,0.411
+Utah,2009,0.414
+Utah,2010,0.419
+Utah,2011,0.4249
+Utah,2012,0.4244
+Utah,2013,0.4259
+Utah,2014,0.4283
+Utah,2015,0.4252
+Utah,2016,0.4263
+Utah,2017,0.4225
+Utah,2018,0.4269
+Utah,2019,0.4268
+Vermont,2006,0.42
+Vermont,2007,0.428
+Vermont,2008,0.434
+Vermont,2009,0.428
+Vermont,2010,0.444
+Vermont,2011,0.4308
+Vermont,2012,0.4392
+Vermont,2013,0.4537
+Vermont,2014,0.4406
+Vermont,2015,0.4452
+Vermont,2016,0.4539
+Vermont,2017,0.4525
+Vermont,2018,0.4473
+Vermont,2019,0.4471
+Virginia,2006,0.456
+Virginia,2007,0.456
+Virginia,2008,0.46
+Virginia,2009,0.456
+Virginia,2010,0.459
+Virginia,2011,0.4632
+Virginia,2012,0.4661
+Virginia,2013,0.4672
+Virginia,2014,0.4658
+Virginia,2015,0.4681
+Virginia,2016,0.4705
+Virginia,2017,0.4674
+Virginia,2018,0.4754
+Virginia,2019,0.469
+Washington,2006,0.443
+Washington,2007,0.444
+Washington,2008,0.442
+Washington,2009,0.439
+Washington,2010,0.441
+Washington,2011,0.4449
+Washington,2012,0.4498
+Washington,2013,0.4572
+Washington,2014,0.4542
+Washington,2015,0.4561
+Washington,2016,0.4591
+Washington,2017,0.4561
+Washington,2018,0.4574
+Washington,2019,0.4577
+West Virginia,2006,0.447
+West Virginia,2007,0.454
+West Virginia,2008,0.453
+West Virginia,2009,0.463
+West Virginia,2010,0.451
+West Virginia,2011,0.4721
+West Virginia,2012,0.4638
+West Virginia,2013,0.4647
+West Virginia,2014,0.4546
+West Virginia,2015,0.4581
+West Virginia,2016,0.4711
+West Virginia,2017,0.4686
+West Virginia,2018,0.4742
+West Virginia,2019,0.4644
+Wisconsin,2006,0.424
+Wisconsin,2007,0.428
+Wisconsin,2008,0.426
+Wisconsin,2009,0.432
+Wisconsin,2010,0.43
+Wisconsin,2011,0.437
+Wisconsin,2012,0.4401
+Wisconsin,2013,0.4446
+Wisconsin,2014,0.4397
+Wisconsin,2015,0.441
+Wisconsin,2016,0.4498
+Wisconsin,2017,0.4467
+Wisconsin,2018,0.4483
+Wisconsin,2019,0.4391
+Wyoming,2006,0.413
+Wyoming,2007,0.437
+Wyoming,2008,0.441
+Wyoming,2009,0.415
+Wyoming,2010,0.423
+Wyoming,2011,0.4081
+Wyoming,2012,0.4166
+Wyoming,2013,0.4183
+Wyoming,2014,0.427
+Wyoming,2015,0.4374
+Wyoming,2016,0.436
+Wyoming,2017,0.4326
+Wyoming,2018,0.4555
+Wyoming,2019,0.4345

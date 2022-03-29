@@ -1,4 +1,4 @@
-state,year,subsidies,taxes_on_production_and_imports_(topi),compensation,current-dollar_gdp,gross_operating_surplus
+state,year,subsidies,taxes_on_production_and_imports_(topi),gdp_compensation,gdp_current_dollar,gdp_gross_operating_surplus
 AK,1997,-62900000.0,2464700000.0,12347800000.0,25810800000.0,11061300000.0
 AK,1998,-54700000.0,2003900000.0,12889600000.0,24227500000.0,9388700000.0
 AK,1999,-56400000.0,1983100000.0,13127500000.0,24744300000.0,9690100000.0

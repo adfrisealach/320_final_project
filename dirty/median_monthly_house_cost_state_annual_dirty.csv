@@ -1,0 +1,781 @@
+state,year,median_monthly_house_cost
+Alabama,2005,624.0
+Alabama,2006,685.0
+Alabama,2007,713.0
+Alabama,2008,742.0
+Alabama,2009,751.0
+Alabama,2010,772.0
+Alabama,2011,774.0
+Alabama,2012,725.0
+Alabama,2013,718.0
+Alabama,2014,733.0
+Alabama,2015,724.0
+Alabama,2016,728.0
+Alabama,2017,716.0
+Alabama,2018,734.0
+Alabama,2019,753.0
+Alaska,2005,1182.0
+Alaska,2006,1233.0
+Alaska,2007,1372.0
+Alaska,2008,1393.0
+Alaska,2009,1384.0
+Alaska,2010,1363.0
+Alaska,2011,1346.0
+Alaska,2012,1364.0
+Alaska,2013,1311.0
+Alaska,2014,1366.0
+Alaska,2015,1360.0
+Alaska,2016,1360.0
+Alaska,2017,1373.0
+Alaska,2018,1364.0
+Alaska,2019,1382.0
+Arizona,2005,952.0
+Arizona,2006,1062.0
+Arizona,2007,1126.0
+Arizona,2008,1177.0
+Arizona,2009,1158.0
+Arizona,2010,1119.0
+Arizona,2011,1056.0
+Arizona,2012,969.0
+Arizona,2013,943.0
+Arizona,2014,931.0
+Arizona,2015,976.0
+Arizona,2016,975.0
+Arizona,2017,1009.0
+Arizona,2018,1023.0
+Arizona,2019,1038.0
+Arkansas,2005,580.0
+Arkansas,2006,611.0
+Arkansas,2007,629.0
+Arkansas,2008,660.0
+Arkansas,2009,653.0
+Arkansas,2010,657.0
+Arkansas,2011,674.0
+Arkansas,2012,647.0
+Arkansas,2013,637.0
+Arkansas,2014,662.0
+Arkansas,2015,663.0
+Arkansas,2016,645.0
+Arkansas,2017,666.0
+Arkansas,2018,682.0
+Arkansas,2019,662.0
+California,2005,1564.0
+California,2006,1737.0
+California,2007,1850.0
+California,2008,1919.0
+California,2009,1852.0
+California,2010,1790.0
+California,2011,1740.0
+California,2012,1682.0
+California,2013,1612.0
+California,2014,1613.0
+California,2015,1648.0
+California,2016,1691.0
+California,2017,1745.0
+California,2018,1785.0
+California,2019,1835.0
+Colorado,2005,1220.0
+Colorado,2006,1317.0
+Colorado,2007,1333.0
+Colorado,2008,1364.0
+Colorado,2009,1352.0
+Colorado,2010,1327.0
+Colorado,2011,1306.0
+Colorado,2012,1281.0
+Colorado,2013,1235.0
+Colorado,2014,1250.0
+Colorado,2015,1273.0
+Colorado,2016,1292.0
+Colorado,2017,1353.0
+Colorado,2018,1377.0
+Colorado,2019,1466.0
+Connecticut,2005,1415.0
+Connecticut,2006,1527.0
+Connecticut,2007,1616.0
+Connecticut,2008,1722.0
+Connecticut,2009,1708.0
+Connecticut,2010,1704.0
+Connecticut,2011,1683.0
+Connecticut,2012,1668.0
+Connecticut,2013,1622.0
+Connecticut,2014,1634.0
+Connecticut,2015,1648.0
+Connecticut,2016,1613.0
+Connecticut,2017,1616.0
+Connecticut,2018,1661.0
+Connecticut,2019,1667.0
+Delaware,2005,993.0
+Delaware,2006,1003.0
+Delaware,2007,1174.0
+Delaware,2008,1209.0
+Delaware,2009,1234.0
+Delaware,2010,1242.0
+Delaware,2011,1231.0
+Delaware,2012,1215.0
+Delaware,2013,1137.0
+Delaware,2014,1144.0
+Delaware,2015,1137.0
+Delaware,2016,1095.0
+Delaware,2017,1160.0
+Delaware,2018,1157.0
+Delaware,2019,1182.0
+District of Columbia,2005,1351.0
+District of Columbia,2006,1558.0
+District of Columbia,2007,1665.0
+District of Columbia,2008,1826.0
+District of Columbia,2009,1841.0
+District of Columbia,2010,1869.0
+District of Columbia,2011,1874.0
+District of Columbia,2012,1925.0
+District of Columbia,2013,1836.0
+District of Columbia,2014,1786.0
+District of Columbia,2015,1910.0
+District of Columbia,2016,1957.0
+District of Columbia,2017,1977.0
+District of Columbia,2018,2122.0
+District of Columbia,2019,2215.0
+Florida,2005,925.0
+Florida,2006,1045.0
+Florida,2007,1142.0
+Florida,2008,1152.0
+Florida,2009,1125.0
+Florida,2010,1087.0
+Florida,2011,1048.0
+Florida,2012,992.0
+Florida,2013,935.0
+Florida,2014,933.0
+Florida,2015,951.0
+Florida,2016,958.0
+Florida,2017,968.0
+Florida,2018,987.0
+Florida,2019,1025.0
+Georgia,2005,974.0
+Georgia,2006,1033.0
+Georgia,2007,1076.0
+Georgia,2008,1106.0
+Georgia,2009,1092.0
+Georgia,2010,1106.0
+Georgia,2011,1070.0
+Georgia,2012,1039.0
+Georgia,2013,982.0
+Georgia,2014,989.0
+Georgia,2015,993.0
+Georgia,2016,990.0
+Georgia,2017,1004.0
+Georgia,2018,1024.0
+Georgia,2019,1059.0
+Hawaii,2005,1278.0
+Hawaii,2006,1465.0
+Hawaii,2007,1484.0
+Hawaii,2008,1645.0
+Hawaii,2009,1672.0
+Hawaii,2010,1618.0
+Hawaii,2011,1582.0
+Hawaii,2012,1646.0
+Hawaii,2013,1630.0
+Hawaii,2014,1546.0
+Hawaii,2015,1576.0
+Hawaii,2016,1577.0
+Hawaii,2017,1608.0
+Hawaii,2018,1657.0
+Hawaii,2019,1713.0
+Idaho,2005,805.0
+Idaho,2006,870.0
+Idaho,2007,909.0
+Idaho,2008,946.0
+Idaho,2009,957.0
+Idaho,2010,923.0
+Idaho,2011,920.0
+Idaho,2012,913.0
+Idaho,2013,886.0
+Idaho,2014,854.0
+Idaho,2015,883.0
+Idaho,2016,884.0
+Idaho,2017,926.0
+Idaho,2018,952.0
+Idaho,2019,965.0
+Illinois,2005,1107.0
+Illinois,2006,1184.0
+Illinois,2007,1242.0
+Illinois,2008,1293.0
+Illinois,2009,1267.0
+Illinois,2010,1254.0
+Illinois,2011,1237.0
+Illinois,2012,1215.0
+Illinois,2013,1156.0
+Illinois,2014,1163.0
+Illinois,2015,1171.0
+Illinois,2016,1163.0
+Illinois,2017,1172.0
+Illinois,2018,1205.0
+Illinois,2019,1213.0
+Indiana,2005,822.0
+Indiana,2006,874.0
+Indiana,2007,888.0
+Indiana,2008,916.0
+Indiana,2009,896.0
+Indiana,2010,867.0
+Indiana,2011,860.0
+Indiana,2012,834.0
+Indiana,2013,822.0
+Indiana,2014,840.0
+Indiana,2015,842.0
+Indiana,2016,818.0
+Indiana,2017,835.0
+Indiana,2018,853.0
+Indiana,2019,874.0
+Iowa,2005,724.0
+Iowa,2006,780.0
+Iowa,2007,798.0
+Iowa,2008,823.0
+Iowa,2009,821.0
+Iowa,2010,819.0
+Iowa,2011,829.0
+Iowa,2012,817.0
+Iowa,2013,806.0
+Iowa,2014,843.0
+Iowa,2015,834.0
+Iowa,2016,847.0
+Iowa,2017,879.0
+Iowa,2018,886.0
+Iowa,2019,924.0
+Kansas,2005,776.0
+Kansas,2006,827.0
+Kansas,2007,847.0
+Kansas,2008,887.0
+Kansas,2009,883.0
+Kansas,2010,882.0
+Kansas,2011,894.0
+Kansas,2012,892.0
+Kansas,2013,856.0
+Kansas,2014,894.0
+Kansas,2015,893.0
+Kansas,2016,885.0
+Kansas,2017,905.0
+Kansas,2018,951.0
+Kansas,2019,945.0
+Kentucky,2005,655.0
+Kentucky,2006,692.0
+Kentucky,2007,697.0
+Kentucky,2008,728.0
+Kentucky,2009,737.0
+Kentucky,2010,741.0
+Kentucky,2011,745.0
+Kentucky,2012,732.0
+Kentucky,2013,717.0
+Kentucky,2014,754.0
+Kentucky,2015,737.0
+Kentucky,2016,756.0
+Kentucky,2017,765.0
+Kentucky,2018,773.0
+Kentucky,2019,786.0
+Louisiana,2005,629.0
+Louisiana,2006,648.0
+Louisiana,2007,680.0
+Louisiana,2008,709.0
+Louisiana,2009,694.0
+Louisiana,2010,705.0
+Louisiana,2011,694.0
+Louisiana,2012,689.0
+Louisiana,2013,680.0
+Louisiana,2014,686.0
+Louisiana,2015,698.0
+Louisiana,2016,692.0
+Louisiana,2017,708.0
+Louisiana,2018,740.0
+Louisiana,2019,727.0
+Maine,2005,781.0
+Maine,2006,852.0
+Maine,2007,918.0
+Maine,2008,973.0
+Maine,2009,952.0
+Maine,2010,949.0
+Maine,2011,950.0
+Maine,2012,933.0
+Maine,2013,904.0
+Maine,2014,944.0
+Maine,2015,962.0
+Maine,2016,945.0
+Maine,2017,939.0
+Maine,2018,962.0
+Maine,2019,999.0
+Maryland,2005,1307.0
+Maryland,2006,1446.0
+Maryland,2007,1565.0
+Maryland,2008,1658.0
+Maryland,2009,1689.0
+Maryland,2010,1672.0
+Maryland,2011,1647.0
+Maryland,2012,1589.0
+Maryland,2013,1540.0
+Maryland,2014,1560.0
+Maryland,2015,1580.0
+Maryland,2016,1572.0
+Maryland,2017,1566.0
+Maryland,2018,1595.0
+Maryland,2019,1634.0
+Massachusetts,2005,1426.0
+Massachusetts,2006,1546.0
+Massachusetts,2007,1615.0
+Massachusetts,2008,1697.0
+Massachusetts,2009,1694.0
+Massachusetts,2010,1650.0
+Massachusetts,2011,1655.0
+Massachusetts,2012,1621.0
+Massachusetts,2013,1581.0
+Massachusetts,2014,1599.0
+Massachusetts,2015,1650.0
+Massachusetts,2016,1647.0
+Massachusetts,2017,1694.0
+Massachusetts,2018,1726.0
+Massachusetts,2019,1776.0
+Michigan,2005,941.0
+Michigan,2006,1010.0
+Michigan,2007,1033.0
+Michigan,2008,1045.0
+Michigan,2009,1002.0
+Michigan,2010,969.0
+Michigan,2011,947.0
+Michigan,2012,902.0
+Michigan,2013,869.0
+Michigan,2014,887.0
+Michigan,2015,880.0
+Michigan,2016,876.0
+Michigan,2017,885.0
+Michigan,2018,898.0
+Michigan,2019,914.0
+Minnesota,2005,1066.0
+Minnesota,2006,1139.0
+Minnesota,2007,1184.0
+Minnesota,2008,1225.0
+Minnesota,2009,1204.0
+Minnesota,2010,1180.0
+Minnesota,2011,1176.0
+Minnesota,2012,1130.0
+Minnesota,2013,1095.0
+Minnesota,2014,1105.0
+Minnesota,2015,1114.0
+Minnesota,2016,1128.0
+Minnesota,2017,1157.0
+Minnesota,2018,1174.0
+Minnesota,2019,1200.0
+Mississippi,2005,580.0
+Mississippi,2006,615.0
+Mississippi,2007,638.0
+Mississippi,2008,653.0
+Mississippi,2009,654.0
+Mississippi,2010,650.0
+Mississippi,2011,643.0
+Mississippi,2012,625.0
+Mississippi,2013,604.0
+Mississippi,2014,644.0
+Mississippi,2015,636.0
+Mississippi,2016,625.0
+Mississippi,2017,595.0
+Mississippi,2018,623.0
+Mississippi,2019,648.0
+Missouri,2005,765.0
+Missouri,2006,816.0
+Missouri,2007,856.0
+Missouri,2008,886.0
+Missouri,2009,884.0
+Missouri,2010,876.0
+Missouri,2011,898.0
+Missouri,2012,861.0
+Missouri,2013,837.0
+Missouri,2014,861.0
+Missouri,2015,869.0
+Missouri,2016,866.0
+Missouri,2017,872.0
+Missouri,2018,891.0
+Missouri,2019,895.0
+Montana,2005,700.0
+Montana,2006,746.0
+Montana,2007,741.0
+Montana,2008,758.0
+Montana,2009,783.0
+Montana,2010,794.0
+Montana,2011,809.0
+Montana,2012,804.0
+Montana,2013,779.0
+Montana,2014,785.0
+Montana,2015,840.0
+Montana,2016,827.0
+Montana,2017,879.0
+Montana,2018,894.0
+Montana,2019,896.0
+Nebraska,2005,804.0
+Nebraska,2006,862.0
+Nebraska,2007,884.0
+Nebraska,2008,917.0
+Nebraska,2009,904.0
+Nebraska,2010,893.0
+Nebraska,2011,909.0
+Nebraska,2012,918.0
+Nebraska,2013,905.0
+Nebraska,2014,920.0
+Nebraska,2015,941.0
+Nebraska,2016,930.0
+Nebraska,2017,975.0
+Nebraska,2018,979.0
+Nebraska,2019,1020.0
+Nevada,2005,1247.0
+Nevada,2006,1377.0
+Nevada,2007,1514.0
+Nevada,2008,1543.0
+Nevada,2009,1471.0
+Nevada,2010,1366.0
+Nevada,2011,1260.0
+Nevada,2012,1159.0
+Nevada,2013,1083.0
+Nevada,2014,1054.0
+Nevada,2015,1098.0
+Nevada,2016,1103.0
+Nevada,2017,1139.0
+Nevada,2018,1195.0
+Nevada,2019,1230.0
+New Hampshire,2005,1253.0
+New Hampshire,2006,1369.0
+New Hampshire,2007,1444.0
+New Hampshire,2008,1534.0
+New Hampshire,2009,1495.0
+New Hampshire,2010,1492.0
+New Hampshire,2011,1513.0
+New Hampshire,2012,1466.0
+New Hampshire,2013,1403.0
+New Hampshire,2014,1434.0
+New Hampshire,2015,1458.0
+New Hampshire,2016,1440.0
+New Hampshire,2017,1477.0
+New Hampshire,2018,1481.0
+New Hampshire,2019,1534.0
+New Jersey,2005,1545.0
+New Jersey,2006,1695.0
+New Jersey,2007,1814.0
+New Jersey,2008,1905.0
+New Jersey,2009,1922.0
+New Jersey,2010,1907.0
+New Jersey,2011,1918.0
+New Jersey,2012,1884.0
+New Jersey,2013,1820.0
+New Jersey,2014,1831.0
+New Jersey,2015,1854.0
+New Jersey,2016,1848.0
+New Jersey,2017,1848.0
+New Jersey,2018,1868.0
+New Jersey,2019,1890.0
+New Mexico,2005,669.0
+New Mexico,2006,736.0
+New Mexico,2007,750.0
+New Mexico,2008,794.0
+New Mexico,2009,763.0
+New Mexico,2010,794.0
+New Mexico,2011,785.0
+New Mexico,2012,760.0
+New Mexico,2013,745.0
+New Mexico,2014,767.0
+New Mexico,2015,771.0
+New Mexico,2016,752.0
+New Mexico,2017,743.0
+New Mexico,2018,751.0
+New Mexico,2019,759.0
+New York,2005,1163.0
+New York,2006,1257.0
+New York,2007,1284.0
+New York,2008,1345.0
+New York,2009,1352.0
+New York,2010,1362.0
+New York,2011,1368.0
+New York,2012,1371.0
+New York,2013,1339.0
+New York,2014,1362.0
+New York,2015,1381.0
+New York,2016,1358.0
+New York,2017,1379.0
+New York,2018,1410.0
+New York,2019,1424.0
+North Carolina,2005,831.0
+North Carolina,2006,866.0
+North Carolina,2007,905.0
+North Carolina,2008,937.0
+North Carolina,2009,940.0
+North Carolina,2010,951.0
+North Carolina,2011,943.0
+North Carolina,2012,903.0
+North Carolina,2013,890.0
+North Carolina,2014,902.0
+North Carolina,2015,909.0
+North Carolina,2016,898.0
+North Carolina,2017,896.0
+North Carolina,2018,917.0
+North Carolina,2019,951.0
+North Dakota,2005,599.0
+North Dakota,2006,652.0
+North Dakota,2007,681.0
+North Dakota,2008,721.0
+North Dakota,2009,714.0
+North Dakota,2010,684.0
+North Dakota,2011,727.0
+North Dakota,2012,708.0
+North Dakota,2013,744.0
+North Dakota,2014,743.0
+North Dakota,2015,767.0
+North Dakota,2016,759.0
+North Dakota,2017,823.0
+North Dakota,2018,861.0
+North Dakota,2019,859.0
+Ohio,2005,896.0
+Ohio,2006,956.0
+Ohio,2007,975.0
+Ohio,2008,998.0
+Ohio,2009,975.0
+Ohio,2010,963.0
+Ohio,2011,955.0
+Ohio,2012,925.0
+Ohio,2013,898.0
+Ohio,2014,907.0
+Ohio,2015,915.0
+Ohio,2016,903.0
+Ohio,2017,896.0
+Ohio,2018,931.0
+Ohio,2019,929.0
+Oklahoma,2005,631.0
+Oklahoma,2006,673.0
+Oklahoma,2007,710.0
+Oklahoma,2008,733.0
+Oklahoma,2009,716.0
+Oklahoma,2010,747.0
+Oklahoma,2011,756.0
+Oklahoma,2012,742.0
+Oklahoma,2013,737.0
+Oklahoma,2014,752.0
+Oklahoma,2015,750.0
+Oklahoma,2016,757.0
+Oklahoma,2017,760.0
+Oklahoma,2018,775.0
+Oklahoma,2019,795.0
+Oregon,2005,1030.0
+Oregon,2006,1121.0
+Oregon,2007,1185.0
+Oregon,2008,1258.0
+Oregon,2009,1246.0
+Oregon,2010,1228.0
+Oregon,2011,1192.0
+Oregon,2012,1193.0
+Oregon,2013,1156.0
+Oregon,2014,1134.0
+Oregon,2015,1166.0
+Oregon,2016,1199.0
+Oregon,2017,1265.0
+Oregon,2018,1284.0
+Oregon,2019,1328.0
+Pennsylvania,2005,840.0
+Pennsylvania,2006,892.0
+Pennsylvania,2007,928.0
+Pennsylvania,2008,980.0
+Pennsylvania,2009,979.0
+Pennsylvania,2010,968.0
+Pennsylvania,2011,980.0
+Pennsylvania,2012,971.0
+Pennsylvania,2013,950.0
+Pennsylvania,2014,968.0
+Pennsylvania,2015,987.0
+Pennsylvania,2016,975.0
+Pennsylvania,2017,996.0
+Pennsylvania,2018,1012.0
+Pennsylvania,2019,1005.0
+Puerto Rico,2005,209.0
+Puerto Rico,2006,246.0
+Puerto Rico,2007,243.0
+Puerto Rico,2008,276.0
+Puerto Rico,2009,241.0
+Puerto Rico,2010,260.0
+Puerto Rico,2011,271.0
+Puerto Rico,2012,290.0
+Puerto Rico,2013,283.0
+Puerto Rico,2014,293.0
+Puerto Rico,2015,268.0
+Puerto Rico,2016,255.0
+Puerto Rico,2017,251.0
+Puerto Rico,2018,274.0
+Puerto Rico,2019,255.0
+Rhode Island,2005,1315.0
+Rhode Island,2006,1391.0
+Rhode Island,2007,1491.0
+Rhode Island,2008,1579.0
+Rhode Island,2009,1542.0
+Rhode Island,2010,1555.0
+Rhode Island,2011,1522.0
+Rhode Island,2012,1500.0
+Rhode Island,2013,1429.0
+Rhode Island,2014,1425.0
+Rhode Island,2015,1453.0
+Rhode Island,2016,1406.0
+Rhode Island,2017,1506.0
+Rhode Island,2018,1502.0
+Rhode Island,2019,1491.0
+South Carolina,2005,720.0
+South Carolina,2006,772.0
+South Carolina,2007,807.0
+South Carolina,2008,799.0
+South Carolina,2009,812.0
+South Carolina,2010,838.0
+South Carolina,2011,823.0
+South Carolina,2012,801.0
+South Carolina,2013,786.0
+South Carolina,2014,786.0
+South Carolina,2015,807.0
+South Carolina,2016,806.0
+South Carolina,2017,796.0
+South Carolina,2018,828.0
+South Carolina,2019,844.0
+South Dakota,2005,658.0
+South Dakota,2006,708.0
+South Dakota,2007,730.0
+South Dakota,2008,789.0
+South Dakota,2009,769.0
+South Dakota,2010,777.0
+South Dakota,2011,791.0
+South Dakota,2012,778.0
+South Dakota,2013,775.0
+South Dakota,2014,781.0
+South Dakota,2015,824.0
+South Dakota,2016,834.0
+South Dakota,2017,834.0
+South Dakota,2018,870.0
+South Dakota,2019,912.0
+Tennessee,2005,717.0
+Tennessee,2006,773.0
+Tennessee,2007,795.0
+Tennessee,2008,824.0
+Tennessee,2009,835.0
+Tennessee,2010,836.0
+Tennessee,2011,832.0
+Tennessee,2012,807.0
+Tennessee,2013,792.0
+Tennessee,2014,807.0
+Tennessee,2015,813.0
+Tennessee,2016,809.0
+Tennessee,2017,807.0
+Tennessee,2018,841.0
+Tennessee,2019,851.0
+Texas,2005,878.0
+Texas,2006,956.0
+Texas,2007,986.0
+Texas,2008,1010.0
+Texas,2009,1005.0
+Texas,2010,1016.0
+Texas,2011,1001.0
+Texas,2012,988.0
+Texas,2013,961.0
+Texas,2014,986.0
+Texas,2015,1016.0
+Texas,2016,1014.0
+Texas,2017,1038.0
+Texas,2018,1075.0
+Texas,2019,1103.0
+Utah,2005,1024.0
+Utah,2006,1093.0
+Utah,2007,1134.0
+Utah,2008,1196.0
+Utah,2009,1200.0
+Utah,2010,1208.0
+Utah,2011,1177.0
+Utah,2012,1156.0
+Utah,2013,1121.0
+Utah,2014,1134.0
+Utah,2015,1144.0
+Utah,2016,1176.0
+Utah,2017,1213.0
+Utah,2018,1252.0
+Utah,2019,1303.0
+Vermont,2005,987.0
+Vermont,2006,1055.0
+Vermont,2007,1087.0
+Vermont,2008,1170.0
+Vermont,2009,1183.0
+Vermont,2010,1155.0
+Vermont,2011,1174.0
+Vermont,2012,1159.0
+Vermont,2013,1119.0
+Vermont,2014,1155.0
+Vermont,2015,1191.0
+Vermont,2016,1162.0
+Vermont,2017,1176.0
+Vermont,2018,1184.0
+Vermont,2019,1222.0
+Virginia,2005,1095.0
+Virginia,2006,1175.0
+Virginia,2007,1257.0
+Virginia,2008,1311.0
+Virginia,2009,1335.0
+Virginia,2010,1326.0
+Virginia,2011,1302.0
+Virginia,2012,1273.0
+Virginia,2013,1233.0
+Virginia,2014,1244.0
+Virginia,2015,1268.0
+Virginia,2016,1262.0
+Virginia,2017,1284.0
+Virginia,2018,1292.0
+Virginia,2019,1311.0
+Washington,2005,1169.0
+Washington,2006,1277.0
+Washington,2007,1359.0
+Washington,2008,1428.0
+Washington,2009,1420.0
+Washington,2010,1394.0
+Washington,2011,1378.0
+Washington,2012,1356.0
+Washington,2013,1302.0
+Washington,2014,1293.0
+Washington,2015,1324.0
+Washington,2016,1353.0
+Washington,2017,1412.0
+Washington,2018,1442.0
+Washington,2019,1509.0
+West Virginia,2005,447.0
+West Virginia,2006,462.0
+West Virginia,2007,490.0
+West Virginia,2008,503.0
+West Virginia,2009,490.0
+West Virginia,2010,491.0
+West Virginia,2011,508.0
+West Virginia,2012,494.0
+West Virginia,2013,503.0
+West Virginia,2014,495.0
+West Virginia,2015,501.0
+West Virginia,2016,527.0
+West Virginia,2017,516.0
+West Virginia,2018,552.0
+West Virginia,2019,533.0
+Wisconsin,2005,974.0
+Wisconsin,2006,1052.0
+Wisconsin,2007,1071.0
+Wisconsin,2008,1119.0
+Wisconsin,2009,1109.0
+Wisconsin,2010,1090.0
+Wisconsin,2011,1086.0
+Wisconsin,2012,1060.0
+Wisconsin,2013,1027.0
+Wisconsin,2014,1047.0
+Wisconsin,2015,1034.0
+Wisconsin,2016,1018.0
+Wisconsin,2017,1020.0
+Wisconsin,2018,1030.0
+Wisconsin,2019,1046.0
+Wyoming,2005,698.0
+Wyoming,2006,749.0
+Wyoming,2007,802.0
+Wyoming,2008,869.0
+Wyoming,2009,869.0
+Wyoming,2010,858.0
+Wyoming,2011,894.0
+Wyoming,2012,839.0
+Wyoming,2013,880.0
+Wyoming,2014,887.0
+Wyoming,2015,902.0
+Wyoming,2016,904.0
+Wyoming,2017,962.0
+Wyoming,2018,957.0
+Wyoming,2019,1005.0

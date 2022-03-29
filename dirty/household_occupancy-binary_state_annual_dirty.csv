@@ -1,0 +1,3121 @@
+state,year,variable_label,num_houses
+Alabama,2005,Total,2082140.0
+Alabama,2006,Total,2110139.0
+Alabama,2007,Total,2137012.0
+Alabama,2008,Total,2158692.0
+Alabama,2009,Total,2182358.0
+Alabama,2010,Total,2174428.0
+Alabama,2011,Total,2182199.0
+Alabama,2012,Total,2189567.0
+Alabama,2013,Total,2190027.0
+Alabama,2014,Total,2208030.0
+Alabama,2015,Total,2218391.0
+Alabama,2016,Total,2230180.0
+Alabama,2017,Total,2258669.0
+Alabama,2018,Total,2274711.0
+Alabama,2019,Total,2284922.0
+Alaska,2005,Total,274246.0
+Alaska,2006,Total,276590.0
+Alaska,2007,Total,282271.0
+Alaska,2008,Total,283403.0
+Alaska,2009,Total,283895.0
+Alaska,2010,Total,307065.0
+Alaska,2011,Total,311182.0
+Alaska,2012,Total,307628.0
+Alaska,2013,Total,307417.0
+Alaska,2014,Total,308571.0
+Alaska,2015,Total,309453.0
+Alaska,2016,Total,310672.0
+Alaska,2017,Total,316968.0
+Alaska,2018,Total,318352.0
+Alaska,2019,Total,319867.0
+Arizona,2005,Total,2544806.0
+Arizona,2006,Total,2605095.0
+Arizona,2007,Total,2667550.0
+Arizona,2008,Total,2722712.0
+Arizona,2009,Total,2753059.0
+Arizona,2010,Total,2846738.0
+Arizona,2011,Total,2864360.0
+Arizona,2012,Total,2871486.0
+Arizona,2013,Total,2892359.0
+Arizona,2014,Total,2909336.0
+Arizona,2015,Total,2929173.0
+Arizona,2016,Total,2961136.0
+Arizona,2017,Total,2999185.0
+Arizona,2018,Total,3035902.0
+Arizona,2019,Total,3076048.0
+Arkansas,2005,Total,1249116.0
+Arkansas,2006,Total,1273433.0
+Arkansas,2007,Total,1287472.0
+Arkansas,2008,Total,1298176.0
+Arkansas,2009,Total,1309843.0
+Arkansas,2010,Total,1317818.0
+Arkansas,2011,Total,1324471.0
+Arkansas,2012,Total,1328225.0
+Arkansas,2013,Total,1329777.0
+Arkansas,2014,Total,1341081.0
+Arkansas,2015,Total,1347598.0
+Arkansas,2016,Total,1354801.0
+Arkansas,2017,Total,1370109.0
+Arkansas,2018,Total,1380521.0
+Arkansas,2019,Total,1389159.0
+California,2005,Total,12989254.0
+California,2006,Total,13174781.0
+California,2007,Total,13308705.0
+California,2008,Total,13394143.0
+California,2009,Total,13434537.0
+California,2010,Total,13682976.0
+California,2011,Total,13721187.0
+California,2012,Total,13708197.0
+California,2013,Total,13791262.0
+California,2014,Total,13901594.0
+California,2015,Total,13988399.0
+California,2016,Total,14061375.0
+California,2017,Total,14177270.0
+California,2018,Total,14277867.0
+California,2019,Total,14367012.0
+Colorado,2005,Total,2053178.0
+Colorado,2006,Total,2095235.0
+Colorado,2007,Total,2127358.0
+Colorado,2008,Total,2152124.0
+Colorado,2009,Total,2167902.0
+Colorado,2010,Total,2214262.0
+Colorado,2011,Total,2224661.0
+Colorado,2012,Total,2230536.0
+Colorado,2013,Total,2247291.0
+Colorado,2014,Total,2276280.0
+Colorado,2015,Total,2309122.0
+Colorado,2016,Total,2339140.0
+Colorado,2017,Total,2385495.0
+Colorado,2018,Total,2424128.0
+Colorado,2019,Total,2464109.0
+Connecticut,2005,Total,1423343.0
+Connecticut,2006,Total,1432250.0
+Connecticut,2007,Total,1438548.0
+Connecticut,2008,Total,1443192.0
+Connecticut,2009,Total,1445840.0
+Connecticut,2010,Total,1488215.0
+Connecticut,2011,Total,1494042.0
+Connecticut,2012,Total,1488002.0
+Connecticut,2013,Total,1488072.0
+Connecticut,2014,Total,1493632.0
+Connecticut,2015,Total,1496056.0
+Connecticut,2016,Total,1499145.0
+Connecticut,2017,Total,1517495.0
+Connecticut,2018,Total,1521123.0
+Connecticut,2019,Total,1524959.0
+Delaware,2005,Total,374872.0
+Delaware,2006,Total,382866.0
+Delaware,2007,Total,388619.0
+Delaware,2008,Total,392967.0
+Delaware,2009,Total,396270.0
+Delaware,2010,Total,406489.0
+Delaware,2011,Total,409779.0
+Delaware,2012,Total,410308.0
+Delaware,2013,Total,412015.0
+Delaware,2014,Total,417413.0
+Delaware,2015,Total,421734.0
+Delaware,2016,Total,426154.0
+Delaware,2017,Total,432853.0
+Delaware,2018,Total,438659.0
+Delaware,2019,Total,443764.0
+District of Columbia,2005,Total,277775.0
+District of Columbia,2006,Total,282900.0
+District of Columbia,2007,Total,284235.0
+District of Columbia,2008,Total,285363.0
+District of Columbia,2009,Total,285164.0
+District of Columbia,2010,Total,296836.0
+District of Columbia,2011,Total,298908.0
+District of Columbia,2012,Total,300247.0
+District of Columbia,2013,Total,302975.0
+District of Columbia,2014,Total,306184.0
+District of Columbia,2015,Total,309596.0
+District of Columbia,2016,Total,313703.0
+District of Columbia,2017,Total,314843.0
+District of Columbia,2018,Total,319579.0
+District of Columbia,2019,Total,322814.0
+Florida,2005,Total,8256847.0
+Florida,2006,Total,8531860.0
+Florida,2007,Total,8716601.0
+Florida,2008,Total,8798213.0
+Florida,2009,Total,8848172.0
+Florida,2010,Total,8994091.0
+Florida,2011,Total,9027271.0
+Florida,2012,Total,9031530.0
+Florida,2013,Total,9047973.0
+Florida,2014,Total,9144650.0
+Florida,2015,Total,9210287.0
+Florida,2016,Total,9302140.0
+Florida,2017,Total,9441585.0
+Florida,2018,Total,9547762.0
+Florida,2019,Total,9674053.0
+Georgia,2005,Total,3771466.0
+Georgia,2006,Total,3873405.0
+Georgia,2007,Total,3961643.0
+Georgia,2008,Total,4026181.0
+Georgia,2009,Total,4063506.0
+Georgia,2010,Total,4091482.0
+Georgia,2011,Total,4103118.0
+Georgia,2012,Total,4107554.0
+Georgia,2013,Total,4110162.0
+Georgia,2014,Total,4151387.0
+Georgia,2015,Total,4182228.0
+Georgia,2016,Total,4219103.0
+Georgia,2017,Total,4282254.0
+Georgia,2018,Total,4326266.0
+Georgia,2019,Total,4378350.0
+Hawaii,2005,Total,491071.0
+Hawaii,2006,Total,500021.0
+Hawaii,2007,Total,506751.0
+Hawaii,2008,Total,512842.0
+Hawaii,2009,Total,515663.0
+Hawaii,2010,Total,519992.0
+Hawaii,2011,Total,522314.0
+Hawaii,2012,Total,524387.0
+Hawaii,2013,Total,526305.0
+Hawaii,2014,Total,530118.0
+Hawaii,2015,Total,532413.0
+Hawaii,2016,Total,537170.0
+Hawaii,2017,Total,542955.0
+Hawaii,2018,Total,546261.0
+Hawaii,2019,Total,550328.0
+Idaho,2005,Total,595572.0
+Idaho,2006,Total,615703.0
+Idaho,2007,Total,631022.0
+Idaho,2008,Total,641543.0
+Idaho,2009,Total,647537.0
+Idaho,2010,Total,668634.0
+Idaho,2011,Total,674394.0
+Idaho,2012,Total,673048.0
+Idaho,2013,Total,676192.0
+Idaho,2014,Total,685098.0
+Idaho,2015,Total,692482.0
+Idaho,2016,Total,700829.0
+Idaho,2017,Total,721818.0
+Idaho,2018,Total,735703.0
+Idaho,2019,Total,751113.0
+Illinois,2005,Total,5144623.0
+Illinois,2006,Total,5199743.0
+Illinois,2007,Total,5246116.0
+Illinois,2008,Total,5276082.0
+Illinois,2009,Total,5290878.0
+Illinois,2010,Total,5297077.0
+Illinois,2011,Total,5296209.0
+Illinois,2012,Total,5290149.0
+Illinois,2013,Total,5289653.0
+Illinois,2014,Total,5307508.0
+Illinois,2015,Total,5317618.0
+Illinois,2016,Total,5327165.0
+Illinois,2017,Total,5359416.0
+Illinois,2018,Total,5376176.0
+Illinois,2019,Total,5388210.0
+Indiana,2005,Total,2724429.0
+Indiana,2006,Total,2756583.0
+Indiana,2007,Total,2777953.0
+Indiana,2008,Total,2795063.0
+Indiana,2009,Total,2809487.0
+Indiana,2010,Total,2797172.0
+Indiana,2011,Total,2800799.0
+Indiana,2012,Total,2808430.0
+Indiana,2013,Total,2809640.0
+Indiana,2014,Total,2829630.0
+Indiana,2015,Total,2841450.0
+Indiana,2016,Total,2854595.0
+Indiana,2017,Total,2885342.0
+Indiana,2018,Total,2903576.0
+Indiana,2019,Total,2921115.0
+Iowa,2005,Total,1306943.0
+Iowa,2006,Total,1319980.0
+Iowa,2007,Total,1329388.0
+Iowa,2008,Total,1328740.0
+Iowa,2009,Total,1342052.0
+Iowa,2010,Total,1337563.0
+Iowa,2011,Total,1340588.0
+Iowa,2012,Total,1345711.0
+Iowa,2013,Total,1349607.0
+Iowa,2014,Total,1362034.0
+Iowa,2015,Total,1369379.0
+Iowa,2016,Total,1380087.0
+Iowa,2017,Total,1397739.0
+Iowa,2018,Total,1409568.0
+Iowa,2019,Total,1418600.0
+Kansas,2005,Total,1196211.0
+Kansas,2006,Total,1207391.0
+Kansas,2007,Total,1219100.0
+Kansas,2008,Total,1226429.0
+Kansas,2009,Total,1231995.0
+Kansas,2010,Total,1234037.0
+Kansas,2011,Total,1237738.0
+Kansas,2012,Total,1238703.0
+Kansas,2013,Total,1239755.0
+Kansas,2014,Total,1248861.0
+Kansas,2015,Total,1253889.0
+Kansas,2016,Total,1259870.0
+Kansas,2017,Total,1273776.0
+Kansas,2018,Total,1280553.0
+Kansas,2019,Total,1288430.0
+Kentucky,2005,Total,1865516.0
+Kentucky,2006,Total,1888336.0
+Kentucky,2007,Total,1906198.0
+Kentucky,2008,Total,1920533.0
+Kentucky,2009,Total,1934995.0
+Kentucky,2010,Total,1928617.0
+Kentucky,2011,Total,1932731.0
+Kentucky,2012,Total,1937321.0
+Kentucky,2013,Total,1936634.0
+Kentucky,2014,Total,1950504.0
+Kentucky,2015,Total,1957133.0
+Kentucky,2016,Total,1965577.0
+Kentucky,2017,Total,1984235.0
+Kentucky,2018,Total,1995187.0
+Kentucky,2019,Total,2006335.0
+Louisiana,2005,Total,1940399.0
+Louisiana,2006,Total,1829933.0
+Louisiana,2007,Total,1858586.0
+Louisiana,2008,Total,1883134.0
+Louisiana,2009,Total,1963337.0
+Louisiana,2010,Total,1967947.0
+Louisiana,2011,Total,1978974.0
+Louisiana,2012,Total,1987059.0
+Louisiana,2013,Total,1990967.0
+Louisiana,2014,Total,2011037.0
+Louisiana,2015,Total,2024737.0
+Louisiana,2016,Total,2037067.0
+Louisiana,2017,Total,2061582.0
+Louisiana,2018,Total,2076136.0
+Louisiana,2019,Total,2089824.0
+Maine,2005,Total,683799.0
+Maine,2006,Total,691164.0
+Maine,2007,Total,696681.0
+Maine,2008,Total,700550.0
+Maine,2009,Total,704574.0
+Maine,2010,Total,722217.0
+Maine,2011,Total,725650.0
+Maine,2012,Total,724187.0
+Maine,2013,Total,723140.0
+Maine,2014,Total,727693.0
+Maine,2015,Total,729392.0
+Maine,2016,Total,730786.0
+Maine,2017,Total,742644.0
+Maine,2018,Total,746592.0
+Maine,2019,Total,750964.0
+Maryland,2005,Total,2273793.0
+Maryland,2006,Total,2300749.0
+Maryland,2007,Total,2318430.0
+Maryland,2008,Total,2333250.0
+Maryland,2009,Total,2341332.0
+Maryland,2010,Total,2380605.0
+Maryland,2011,Total,2391508.0
+Maryland,2012,Total,2395635.0
+Maryland,2013,Total,2404177.0
+Maryland,2014,Total,2422317.0
+Maryland,2015,Total,2434465.0
+Maryland,2016,Total,2447211.0
+Maryland,2017,Total,2449123.0
+Maryland,2018,Total,2458779.0
+Maryland,2019,Total,2470307.0
+Massachusetts,2005,Total,2688014.0
+Massachusetts,2006,Total,2709208.0
+Massachusetts,2007,Total,2722323.0
+Massachusetts,2008,Total,2735645.0
+Massachusetts,2009,Total,2748475.0
+Massachusetts,2010,Total,2808727.0
+Massachusetts,2011,Total,2819028.0
+Massachusetts,2012,Total,2810394.0
+Massachusetts,2013,Total,2813641.0
+Massachusetts,2014,Total,2828592.0
+Massachusetts,2015,Total,2845805.0
+Massachusetts,2016,Total,2858087.0
+Massachusetts,2017,Total,2894590.0
+Massachusetts,2018,Total,2915043.0
+Massachusetts,2019,Total,2928818.0
+Michigan,2005,Total,4478507.0
+Michigan,2006,Total,4513502.0
+Michigan,2007,Total,4526914.0
+Michigan,2008,Total,4535568.0
+Michigan,2009,Total,4541470.0
+Michigan,2010,Total,4531231.0
+Michigan,2011,Total,4525654.0
+Michigan,2012,Total,4525081.0
+Michigan,2013,Total,4525266.0
+Michigan,2014,Total,4540088.0
+Michigan,2015,Total,4550324.0
+Michigan,2016,Total,4560164.0
+Michigan,2017,Total,4595274.0
+Michigan,2018,Total,4614552.0
+Michigan,2019,Total,4629605.0
+Minnesota,2005,Total,2252022.0
+Minnesota,2006,Total,2282837.0
+Minnesota,2007,Total,2304473.0
+Minnesota,2008,Total,2331203.0
+Minnesota,2009,Total,2331243.0
+Minnesota,2010,Total,2348242.0
+Minnesota,2011,Total,2354075.0
+Minnesota,2012,Total,2361074.0
+Minnesota,2013,Total,2368754.0
+Minnesota,2014,Total,2385261.0
+Minnesota,2015,Total,2397081.0
+Minnesota,2016,Total,2409701.0
+Minnesota,2017,Total,2437726.0
+Minnesota,2018,Total,2455637.0
+Minnesota,2019,Total,2477515.0
+Mississippi,2005,Total,1235496.0
+Mississippi,2006,Total,1241439.0
+Mississippi,2007,Total,1254936.0
+Mississippi,2008,Total,1267191.0
+Mississippi,2009,Total,1282015.0
+Mississippi,2010,Total,1276441.0
+Mississippi,2011,Total,1281760.0
+Mississippi,2012,Total,1283897.0
+Mississippi,2013,Total,1283192.0
+Mississippi,2014,Total,1294738.0
+Mississippi,2015,Total,1300932.0
+Mississippi,2016,Total,1307492.0
+Mississippi,2017,Total,1323754.0
+Mississippi,2018,Total,1332631.0
+Mississippi,2019,Total,1339047.0
+Missouri,2005,Total,2592809.0
+Missouri,2006,Total,2622995.0
+Missouri,2007,Total,2647379.0
+Missouri,2008,Total,2664062.0
+Missouri,2009,Total,2682015.0
+Missouri,2010,Total,2714017.0
+Missouri,2011,Total,2723449.0
+Missouri,2012,Total,2720087.0
+Missouri,2013,Total,2719109.0
+Missouri,2014,Total,2735803.0
+Missouri,2015,Total,2746644.0
+Missouri,2016,Total,2760226.0
+Missouri,2017,Total,2792445.0
+Missouri,2018,Total,2806296.0
+Missouri,2019,Total,2819334.0
+Montana,2005,Total,428357.0
+Montana,2006,Total,432080.0
+Montana,2007,Total,435586.0
+Montana,2008,Total,438337.0
+Montana,2009,Total,441318.0
+Montana,2010,Total,483006.0
+Montana,2011,Total,489183.0
+Montana,2012,Total,486161.0
+Montana,2013,Total,485767.0
+Montana,2014,Total,491515.0
+Montana,2015,Total,494222.0
+Montana,2016,Total,497749.0
+Montana,2017,Total,510408.0
+Montana,2018,Total,515161.0
+Montana,2019,Total,519938.0
+Nebraska,2005,Total,766951.0
+Nebraska,2006,Total,774571.0
+Nebraska,2007,Total,780592.0
+Nebraska,2008,Total,785841.0
+Nebraska,2009,Total,789397.0
+Nebraska,2010,Total,797677.0
+Nebraska,2011,Total,801182.0
+Nebraska,2012,Total,804274.0
+Nebraska,2013,Total,806888.0
+Nebraska,2014,Total,814957.0
+Nebraska,2015,Total,820925.0
+Nebraska,2016,Total,827191.0
+Nebraska,2017,Total,837540.0
+Nebraska,2018,Total,845011.0
+Nebraska,2019,Total,851167.0
+Nevada,2005,Total,1019427.0
+Nevada,2006,Total,1065267.0
+Nevada,2007,Total,1102409.0
+Nevada,2008,Total,1127100.0
+Nevada,2009,Total,1138045.0
+Nevada,2010,Total,1175070.0
+Nevada,2011,Total,1183917.0
+Nevada,2012,Total,1182842.0
+Nevada,2013,Total,1186936.0
+Nevada,2014,Total,1198969.0
+Nevada,2015,Total,1209864.0
+Nevada,2016,Total,1221759.0
+Nevada,2017,Total,1249733.0
+Nevada,2018,Total,1268717.0
+Nevada,2019,Total,1285681.0
+New Hampshire,2005,Total,583324.0
+New Hampshire,2006,Total,589840.0
+New Hampshire,2007,Total,594126.0
+New Hampshire,2008,Total,597088.0
+New Hampshire,2009,Total,600087.0
+New Hampshire,2010,Total,614996.0
+New Hampshire,2011,Total,617702.0
+New Hampshire,2012,Total,617005.0
+New Hampshire,2013,Total,616496.0
+New Hampshire,2014,Total,619865.0
+New Hampshire,2015,Total,622604.0
+New Hampshire,2016,Total,625337.0
+New Hampshire,2017,Total,634689.0
+New Hampshire,2018,Total,638112.0
+New Hampshire,2019,Total,642298.0
+New Jersey,2005,Total,3443981.0
+New Jersey,2006,Total,3472782.0
+New Jersey,2007,Total,3498786.0
+New Jersey,2008,Total,3515923.0
+New Jersey,2009,Total,3524954.0
+New Jersey,2010,Total,3554909.0
+New Jersey,2011,Total,3562720.0
+New Jersey,2012,Total,3574763.0
+New Jersey,2013,Total,3578260.0
+New Jersey,2014,Total,3591847.0
+New Jersey,2015,Total,3593722.0
+New Jersey,2016,Total,3604688.0
+New Jersey,2017,Total,3615891.0
+New Jersey,2018,Total,3628198.0
+New Jersey,2019,Total,3641854.0
+New Mexico,2005,Total,838668.0
+New Mexico,2006,Total,850153.0
+New Mexico,2007,Total,862095.0
+New Mexico,2008,Total,871721.0
+New Mexico,2009,Total,878066.0
+New Mexico,2010,Total,902242.0
+New Mexico,2011,Total,908168.0
+New Mexico,2012,Total,906838.0
+New Mexico,2013,Total,905134.0
+New Mexico,2014,Total,912910.0
+New Mexico,2015,Total,914979.0
+New Mexico,2016,Total,917641.0
+New Mexico,2017,Total,937976.0
+New Mexico,2018,Total,943232.0
+New Mexico,2019,Total,948470.0
+New York,2005,Total,7853020.0
+New York,2006,Total,7907514.0
+New York,2007,Total,7940072.0
+New York,2008,Total,7977383.0
+New York,2009,Total,8017978.0
+New York,2010,Total,8108211.0
+New York,2011,Total,8119804.0
+New York,2012,Total,8123585.0
+New York,2013,Total,8126399.0
+New York,2014,Total,8191528.0
+New York,2015,Total,8207161.0
+New York,2016,Total,8232039.0
+New York,2017,Total,8327621.0
+New York,2018,Total,8363847.0
+New York,2019,Total,8404205.0
+North Carolina,2005,Total,3940554.0
+North Carolina,2006,Total,4026558.0
+North Carolina,2007,Total,4124066.0
+North Carolina,2008,Total,4200447.0
+North Carolina,2009,Total,4258573.0
+North Carolina,2010,Total,4333479.0
+North Carolina,2011,Total,4362956.0
+North Carolina,2012,Total,4375400.0
+North Carolina,2013,Total,4394515.0
+North Carolina,2014,Total,4452464.0
+North Carolina,2015,Total,4491090.0
+North Carolina,2016,Total,4540697.0
+North Carolina,2017,Total,4622656.0
+North Carolina,2018,Total,4684962.0
+North Carolina,2019,Total,4748148.0
+North Dakota,2005,Total,304458.0
+North Dakota,2006,Total,306982.0
+North Dakota,2007,Total,310438.0
+North Dakota,2008,Total,313018.0
+North Dakota,2009,Total,315625.0
+North Dakota,2010,Total,318099.0
+North Dakota,2011,Total,320888.0
+North Dakota,2012,Total,329249.0
+North Dakota,2013,Total,339293.0
+North Dakota,2014,Total,350534.0
+North Dakota,2015,Total,362889.0
+North Dakota,2016,Total,368545.0
+North Dakota,2017,Total,374591.0
+North Dakota,2018,Total,377661.0
+North Dakota,2019,Total,379974.0
+Ohio,2005,Total,5007091.0
+Ohio,2006,Total,5045356.0
+Ohio,2007,Total,5065254.0
+Ohio,2008,Total,5080242.0
+Ohio,2009,Total,5094314.0
+Ohio,2010,Total,5128113.0
+Ohio,2011,Total,5133528.0
+Ohio,2012,Total,5128846.0
+Ohio,2013,Total,5124126.0
+Ohio,2014,Total,5147282.0
+Ohio,2015,Total,5156546.0
+Ohio,2016,Total,5164400.0
+Ohio,2017,Total,5201701.0
+Ohio,2018,Total,5217617.0
+Ohio,2019,Total,5232943.0
+Oklahoma,2005,Total,1588749.0
+Oklahoma,2006,Total,1607416.0
+Oklahoma,2007,Total,1623100.0
+Oklahoma,2008,Total,1637213.0
+Oklahoma,2009,Total,1650184.0
+Oklahoma,2010,Total,1666205.0
+Oklahoma,2011,Total,1674724.0
+Oklahoma,2012,Total,1677646.0
+Oklahoma,2013,Total,1682358.0
+Oklahoma,2014,Total,1699556.0
+Oklahoma,2015,Total,1711515.0
+Oklahoma,2016,Total,1721072.0
+Oklahoma,2017,Total,1734074.0
+Oklahoma,2018,Total,1743073.0
+Oklahoma,2019,Total,1749520.0
+Oregon,2005,Total,1558421.0
+Oregon,2006,Total,1586600.0
+Oregon,2007,Total,1609764.0
+Oregon,2008,Total,1628902.0
+Oregon,2009,Total,1639539.0
+Oregon,2010,Total,1676476.0
+Oregon,2011,Total,1684244.0
+Oregon,2012,Total,1682531.0
+Oregon,2013,Total,1684107.0
+Oregon,2014,Total,1700611.0
+Oregon,2015,Total,1718509.0
+Oregon,2016,Total,1732887.0
+Oregon,2017,Total,1768582.0
+Oregon,2018,Total,1788743.0
+Oregon,2019,Total,1808482.0
+Pennsylvania,2005,Total,5422362.0
+Pennsylvania,2006,Total,5453647.0
+Pennsylvania,2007,Total,5478158.0
+Pennsylvania,2008,Total,5496509.0
+Pennsylvania,2009,Total,5518579.0
+Pennsylvania,2010,Total,5568820.0
+Pennsylvania,2011,Total,5579394.0
+Pennsylvania,2012,Total,5572765.0
+Pennsylvania,2013,Total,5565354.0
+Pennsylvania,2014,Total,5590712.0
+Pennsylvania,2015,Total,5603051.0
+Pennsylvania,2016,Total,5611995.0
+Pennsylvania,2017,Total,5694402.0
+Pennsylvania,2018,Total,5713136.0
+Pennsylvania,2019,Total,5732580.0
+Puerto Rico,2005,Total,1440683.0
+Puerto Rico,2006,Total,1437597.0
+Puerto Rico,2007,Total,1434322.0
+Puerto Rico,2008,Total,1432203.0
+Puerto Rico,2009,Total,1428627.0
+Puerto Rico,2010,Total,1637216.0
+Puerto Rico,2011,Total,1567959.0
+Puerto Rico,2012,Total,1583437.0
+Puerto Rico,2013,Total,1572849.0
+Puerto Rico,2014,Total,1571275.0
+Puerto Rico,2015,Total,1573532.0
+Puerto Rico,2016,Total,1555880.0
+Puerto Rico,2017,Total,1561802.0
+Puerto Rico,2018,Total,1553061.0
+Puerto Rico,2019,Total,1559505.0
+Rhode Island,2005,Total,447810.0
+Rhode Island,2006,Total,449574.0
+Rhode Island,2007,Total,450877.0
+Rhode Island,2008,Total,451770.0
+Rhode Island,2009,Total,452180.0
+Rhode Island,2010,Total,463416.0
+Rhode Island,2011,Total,464741.0
+Rhode Island,2012,Total,462618.0
+Rhode Island,2013,Total,461658.0
+Rhode Island,2014,Total,462630.0
+Rhode Island,2015,Total,462555.0
+Rhode Island,2016,Total,462598.0
+Rhode Island,2017,Total,468266.0
+Rhode Island,2018,Total,469153.0
+Rhode Island,2019,Total,470177.0
+South Carolina,2005,Total,1927864.0
+South Carolina,2006,Total,1975816.0
+South Carolina,2007,Total,2022033.0
+South Carolina,2008,Total,2056179.0
+South Carolina,2009,Total,2084361.0
+South Carolina,2010,Total,2140337.0
+South Carolina,2011,Total,2157063.0
+South Carolina,2012,Total,2156768.0
+South Carolina,2013,Total,2158784.0
+South Carolina,2014,Total,2188258.0
+South Carolina,2015,Total,2210150.0
+South Carolina,2016,Total,2236262.0
+South Carolina,2017,Total,2284820.0
+South Carolina,2018,Total,2318291.0
+South Carolina,2019,Total,2351364.0
+South Dakota,2005,Total,347931.0
+South Dakota,2006,Total,352289.0
+South Dakota,2007,Total,356264.0
+South Dakota,2008,Total,361455.0
+South Dakota,2009,Total,364691.0
+South Dakota,2010,Total,364031.0
+South Dakota,2011,Total,366521.0
+South Dakota,2012,Total,368247.0
+South Dakota,2013,Total,370207.0
+South Dakota,2014,Total,376347.0
+South Dakota,2015,Total,380307.0
+South Dakota,2016,Total,383827.0
+South Dakota,2017,Total,392650.0
+South Dakota,2018,Total,397506.0
+South Dakota,2019,Total,401749.0
+Tennessee,2005,Total,2637441.0
+Tennessee,2006,Total,2681320.0
+Tennessee,2007,Total,2724929.0
+Tennessee,2008,Total,2758261.0
+Tennessee,2009,Total,2780788.0
+Tennessee,2010,Total,2815087.0
+Tennessee,2011,Total,2829125.0
+Tennessee,2012,Total,2834808.0
+Tennessee,2013,Total,2840998.0
+Tennessee,2014,Total,2869419.0
+Tennessee,2015,Total,2892407.0
+Tennessee,2016,Total,2919698.0
+Tennessee,2017,Total,2958799.0
+Tennessee,2018,Total,2992412.0
+Tennessee,2019,Total,3028437.0
+Texas,2005,Total,9026011.0
+Texas,2006,Total,9224920.0
+Texas,2007,Total,9433119.0
+Texas,2008,Total,9599073.0
+Texas,2009,Total,9724258.0
+Texas,2010,Total,9996209.0
+Texas,2011,Total,10099242.0
+Texas,2012,Total,10154835.0
+Texas,2013,Total,10256203.0
+Texas,2014,Total,10426760.0
+Texas,2015,Total,10588236.0
+Texas,2016,Total,10754268.0
+Texas,2017,Total,10933375.0
+Texas,2018,Total,11101498.0
+Texas,2019,Total,11283892.0
+Utah,2005,Total,873097.0
+Utah,2006,Total,901322.0
+Utah,2007,Total,925295.0
+Utah,2008,Total,944475.0
+Utah,2009,Total,952860.0
+Utah,2010,Total,981821.0
+Utah,2011,Total,993125.0
+Utah,2012,Total,996777.0
+Utah,2013,Total,1006164.0
+Utah,2014,Total,1022593.0
+Utah,2015,Total,1038065.0
+Utah,2016,Total,1054242.0
+Utah,2017,Total,1084685.0
+Utah,2018,Total,1108739.0
+Utah,2019,Total,1133543.0
+Vermont,2005,Total,307345.0
+Vermont,2006,Total,309566.0
+Vermont,2007,Total,311420.0
+Vermont,2008,Total,312618.0
+Vermont,2009,Total,314259.0
+Vermont,2010,Total,322698.0
+Vermont,2011,Total,324385.0
+Vermont,2012,Total,324052.0
+Vermont,2013,Total,323936.0
+Vermont,2014,Total,325774.0
+Vermont,2015,Total,326874.0
+Vermont,2016,Total,329539.0
+Vermont,2017,Total,335248.0
+Vermont,2018,Total,337133.0
+Vermont,2019,Total,339412.0
+Virginia,2005,Total,3174708.0
+Virginia,2006,Total,3230821.0
+Virginia,2007,Total,3273206.0
+Virginia,2008,Total,3306473.0
+Virginia,2009,Total,3330481.0
+Virginia,2010,Total,3368674.0
+Virginia,2011,Total,3387801.0
+Virginia,2012,Total,3398389.0
+Virginia,2013,Total,3412577.0
+Virginia,2014,Total,3446585.0
+Virginia,2015,Total,3468952.0
+Virginia,2016,Total,3491185.0
+Virginia,2017,Total,3512917.0
+Virginia,2018,Total,3538985.0
+Virginia,2019,Total,3562258.0
+Washington,2005,Total,2651645.0
+Washington,2006,Total,2699658.0
+Washington,2007,Total,2744324.0
+Washington,2008,Total,2791765.0
+Washington,2009,Total,2814297.0
+Washington,2010,Total,2888594.0
+Washington,2011,Total,2907605.0
+Washington,2012,Total,2914775.0
+Washington,2013,Total,2928300.0
+Washington,2014,Total,2963293.0
+Washington,2015,Total,2991584.0
+Washington,2016,Total,3025802.0
+Washington,2017,Total,3103263.0
+Washington,2018,Total,3148084.0
+Washington,2019,Total,3195098.0
+West Virginia,2005,Total,872203.0
+West Virginia,2006,Total,877587.0
+West Virginia,2007,Total,882631.0
+West Virginia,2008,Total,886419.0
+West Virginia,2009,Total,893766.0
+West Virginia,2010,Total,882213.0
+West Virginia,2011,Total,881821.0
+West Virginia,2012,Total,882800.0
+West Virginia,2013,Total,879424.0
+West Virginia,2014,Total,884574.0
+West Virginia,2015,Total,885539.0
+West Virginia,2016,Total,886710.0
+West Virginia,2017,Total,892240.0
+West Virginia,2018,Total,893742.0
+West Virginia,2019,Total,894983.0
+Wisconsin,2005,Total,2498500.0
+Wisconsin,2006,Total,2532958.0
+Wisconsin,2007,Total,2558278.0
+Wisconsin,2008,Total,2568752.0
+Wisconsin,2009,Total,2584342.0
+Wisconsin,2010,Total,2625477.0
+Wisconsin,2011,Total,2634806.0
+Wisconsin,2012,Total,2632625.0
+Wisconsin,2013,Total,2633420.0
+Wisconsin,2014,Total,2648342.0
+Wisconsin,2015,Total,2656669.0
+Wisconsin,2016,Total,2668443.0
+Wisconsin,2017,Total,2695303.0
+Wisconsin,2018,Total,2710718.0
+Wisconsin,2019,Total,2725153.0
+Wyoming,2005,Total,235721.0
+Wyoming,2006,Total,239088.0
+Wyoming,2007,Total,242344.0
+Wyoming,2008,Total,246418.0
+Wyoming,2009,Total,249404.0
+Wyoming,2010,Total,262286.0
+Wyoming,2011,Total,265554.0
+Wyoming,2012,Total,265207.0
+Wyoming,2013,Total,265471.0
+Wyoming,2014,Total,268205.0
+Wyoming,2015,Total,269469.0
+Wyoming,2016,Total,270625.0
+Wyoming,2017,Total,276733.0
+Wyoming,2018,Total,278615.0
+Wyoming,2019,Total,280281.0
+Alabama,2005,Total,2082140.0
+Alabama,2006,Total,2110139.0
+Alabama,2007,Total,2137012.0
+Alabama,2008,Total,2158692.0
+Alabama,2009,Total,2182358.0
+Alabama,2010,Total,2174428.0
+Alabama,2011,Total,2182199.0
+Alabama,2012,Total,2189567.0
+Alabama,2013,Total,2190027.0
+Alabama,2014,Total,2208030.0
+Alabama,2015,Total,2218391.0
+Alabama,2016,Total,2230180.0
+Alabama,2017,Total,2258669.0
+Alabama,2018,Total,2274711.0
+Alabama,2019,Total,2284922.0
+Alaska,2005,Total,274246.0
+Alaska,2006,Total,276590.0
+Alaska,2007,Total,282271.0
+Alaska,2008,Total,283403.0
+Alaska,2009,Total,283895.0
+Alaska,2010,Total,307065.0
+Alaska,2011,Total,311182.0
+Alaska,2012,Total,307628.0
+Alaska,2013,Total,307417.0
+Alaska,2014,Total,308571.0
+Alaska,2015,Total,309453.0
+Alaska,2016,Total,310672.0
+Alaska,2017,Total,316968.0
+Alaska,2018,Total,318352.0
+Alaska,2019,Total,319867.0
+Arizona,2005,Total,2544806.0
+Arizona,2006,Total,2605095.0
+Arizona,2007,Total,2667550.0
+Arizona,2008,Total,2722712.0
+Arizona,2009,Total,2753059.0
+Arizona,2010,Total,2846738.0
+Arizona,2011,Total,2864360.0
+Arizona,2012,Total,2871486.0
+Arizona,2013,Total,2892359.0
+Arizona,2014,Total,2909336.0
+Arizona,2015,Total,2929173.0
+Arizona,2016,Total,2961136.0
+Arizona,2017,Total,2999185.0
+Arizona,2018,Total,3035902.0
+Arizona,2019,Total,3076048.0
+Arkansas,2005,Total,1249116.0
+Arkansas,2006,Total,1273433.0
+Arkansas,2007,Total,1287472.0
+Arkansas,2008,Total,1298176.0
+Arkansas,2009,Total,1309843.0
+Arkansas,2010,Total,1317818.0
+Arkansas,2011,Total,1324471.0
+Arkansas,2012,Total,1328225.0
+Arkansas,2013,Total,1329777.0
+Arkansas,2014,Total,1341081.0
+Arkansas,2015,Total,1347598.0
+Arkansas,2016,Total,1354801.0
+Arkansas,2017,Total,1370109.0
+Arkansas,2018,Total,1380521.0
+Arkansas,2019,Total,1389159.0
+California,2005,Total,12989254.0
+California,2006,Total,13174781.0
+California,2007,Total,13308705.0
+California,2008,Total,13394143.0
+California,2009,Total,13434537.0
+California,2010,Total,13682976.0
+California,2011,Total,13721187.0
+California,2012,Total,13708197.0
+California,2013,Total,13791262.0
+California,2014,Total,13901594.0
+California,2015,Total,13988399.0
+California,2016,Total,14061375.0
+California,2017,Total,14177270.0
+California,2018,Total,14277867.0
+California,2019,Total,14367012.0
+Colorado,2005,Total,2053178.0
+Colorado,2006,Total,2095235.0
+Colorado,2007,Total,2127358.0
+Colorado,2008,Total,2152124.0
+Colorado,2009,Total,2167902.0
+Colorado,2010,Total,2214262.0
+Colorado,2011,Total,2224661.0
+Colorado,2012,Total,2230536.0
+Colorado,2013,Total,2247291.0
+Colorado,2014,Total,2276280.0
+Colorado,2015,Total,2309122.0
+Colorado,2016,Total,2339140.0
+Colorado,2017,Total,2385495.0
+Colorado,2018,Total,2424128.0
+Colorado,2019,Total,2464109.0
+Connecticut,2005,Total,1423343.0
+Connecticut,2006,Total,1432250.0
+Connecticut,2007,Total,1438548.0
+Connecticut,2008,Total,1443192.0
+Connecticut,2009,Total,1445840.0
+Connecticut,2010,Total,1488215.0
+Connecticut,2011,Total,1494042.0
+Connecticut,2012,Total,1488002.0
+Connecticut,2013,Total,1488072.0
+Connecticut,2014,Total,1493632.0
+Connecticut,2015,Total,1496056.0
+Connecticut,2016,Total,1499145.0
+Connecticut,2017,Total,1517495.0
+Connecticut,2018,Total,1521123.0
+Connecticut,2019,Total,1524959.0
+Delaware,2005,Total,374872.0
+Delaware,2006,Total,382866.0
+Delaware,2007,Total,388619.0
+Delaware,2008,Total,392967.0
+Delaware,2009,Total,396270.0
+Delaware,2010,Total,406489.0
+Delaware,2011,Total,409779.0
+Delaware,2012,Total,410308.0
+Delaware,2013,Total,412015.0
+Delaware,2014,Total,417413.0
+Delaware,2015,Total,421734.0
+Delaware,2016,Total,426154.0
+Delaware,2017,Total,432853.0
+Delaware,2018,Total,438659.0
+Delaware,2019,Total,443764.0
+District of Columbia,2005,Total,277775.0
+District of Columbia,2006,Total,282900.0
+District of Columbia,2007,Total,284235.0
+District of Columbia,2008,Total,285363.0
+District of Columbia,2009,Total,285164.0
+District of Columbia,2010,Total,296836.0
+District of Columbia,2011,Total,298908.0
+District of Columbia,2012,Total,300247.0
+District of Columbia,2013,Total,302975.0
+District of Columbia,2014,Total,306184.0
+District of Columbia,2015,Total,309596.0
+District of Columbia,2016,Total,313703.0
+District of Columbia,2017,Total,314843.0
+District of Columbia,2018,Total,319579.0
+District of Columbia,2019,Total,322814.0
+Florida,2005,Total,8256847.0
+Florida,2006,Total,8531860.0
+Florida,2007,Total,8716601.0
+Florida,2008,Total,8798213.0
+Florida,2009,Total,8848172.0
+Florida,2010,Total,8994091.0
+Florida,2011,Total,9027271.0
+Florida,2012,Total,9031530.0
+Florida,2013,Total,9047973.0
+Florida,2014,Total,9144650.0
+Florida,2015,Total,9210287.0
+Florida,2016,Total,9302140.0
+Florida,2017,Total,9441585.0
+Florida,2018,Total,9547762.0
+Florida,2019,Total,9674053.0
+Georgia,2005,Total,3771466.0
+Georgia,2006,Total,3873405.0
+Georgia,2007,Total,3961643.0
+Georgia,2008,Total,4026181.0
+Georgia,2009,Total,4063506.0
+Georgia,2010,Total,4091482.0
+Georgia,2011,Total,4103118.0
+Georgia,2012,Total,4107554.0
+Georgia,2013,Total,4110162.0
+Georgia,2014,Total,4151387.0
+Georgia,2015,Total,4182228.0
+Georgia,2016,Total,4219103.0
+Georgia,2017,Total,4282254.0
+Georgia,2018,Total,4326266.0
+Georgia,2019,Total,4378350.0
+Hawaii,2005,Total,491071.0
+Hawaii,2006,Total,500021.0
+Hawaii,2007,Total,506751.0
+Hawaii,2008,Total,512842.0
+Hawaii,2009,Total,515663.0
+Hawaii,2010,Total,519992.0
+Hawaii,2011,Total,522314.0
+Hawaii,2012,Total,524387.0
+Hawaii,2013,Total,526305.0
+Hawaii,2014,Total,530118.0
+Hawaii,2015,Total,532413.0
+Hawaii,2016,Total,537170.0
+Hawaii,2017,Total,542955.0
+Hawaii,2018,Total,546261.0
+Hawaii,2019,Total,550328.0
+Idaho,2005,Total,595572.0
+Idaho,2006,Total,615703.0
+Idaho,2007,Total,631022.0
+Idaho,2008,Total,641543.0
+Idaho,2009,Total,647537.0
+Idaho,2010,Total,668634.0
+Idaho,2011,Total,674394.0
+Idaho,2012,Total,673048.0
+Idaho,2013,Total,676192.0
+Idaho,2014,Total,685098.0
+Idaho,2015,Total,692482.0
+Idaho,2016,Total,700829.0
+Idaho,2017,Total,721818.0
+Idaho,2018,Total,735703.0
+Idaho,2019,Total,751113.0
+Illinois,2005,Total,5144623.0
+Illinois,2006,Total,5199743.0
+Illinois,2007,Total,5246116.0
+Illinois,2008,Total,5276082.0
+Illinois,2009,Total,5290878.0
+Illinois,2010,Total,5297077.0
+Illinois,2011,Total,5296209.0
+Illinois,2012,Total,5290149.0
+Illinois,2013,Total,5289653.0
+Illinois,2014,Total,5307508.0
+Illinois,2015,Total,5317618.0
+Illinois,2016,Total,5327165.0
+Illinois,2017,Total,5359416.0
+Illinois,2018,Total,5376176.0
+Illinois,2019,Total,5388210.0
+Indiana,2005,Total,2724429.0
+Indiana,2006,Total,2756583.0
+Indiana,2007,Total,2777953.0
+Indiana,2008,Total,2795063.0
+Indiana,2009,Total,2809487.0
+Indiana,2010,Total,2797172.0
+Indiana,2011,Total,2800799.0
+Indiana,2012,Total,2808430.0
+Indiana,2013,Total,2809640.0
+Indiana,2014,Total,2829630.0
+Indiana,2015,Total,2841450.0
+Indiana,2016,Total,2854595.0
+Indiana,2017,Total,2885342.0
+Indiana,2018,Total,2903576.0
+Indiana,2019,Total,2921115.0
+Iowa,2005,Total,1306943.0
+Iowa,2006,Total,1319980.0
+Iowa,2007,Total,1329388.0
+Iowa,2008,Total,1328740.0
+Iowa,2009,Total,1342052.0
+Iowa,2010,Total,1337563.0
+Iowa,2011,Total,1340588.0
+Iowa,2012,Total,1345711.0
+Iowa,2013,Total,1349607.0
+Iowa,2014,Total,1362034.0
+Iowa,2015,Total,1369379.0
+Iowa,2016,Total,1380087.0
+Iowa,2017,Total,1397739.0
+Iowa,2018,Total,1409568.0
+Iowa,2019,Total,1418600.0
+Kansas,2005,Total,1196211.0
+Kansas,2006,Total,1207391.0
+Kansas,2007,Total,1219100.0
+Kansas,2008,Total,1226429.0
+Kansas,2009,Total,1231995.0
+Kansas,2010,Total,1234037.0
+Kansas,2011,Total,1237738.0
+Kansas,2012,Total,1238703.0
+Kansas,2013,Total,1239755.0
+Kansas,2014,Total,1248861.0
+Kansas,2015,Total,1253889.0
+Kansas,2016,Total,1259870.0
+Kansas,2017,Total,1273776.0
+Kansas,2018,Total,1280553.0
+Kansas,2019,Total,1288430.0
+Kentucky,2005,Total,1865516.0
+Kentucky,2006,Total,1888336.0
+Kentucky,2007,Total,1906198.0
+Kentucky,2008,Total,1920533.0
+Kentucky,2009,Total,1934995.0
+Kentucky,2010,Total,1928617.0
+Kentucky,2011,Total,1932731.0
+Kentucky,2012,Total,1937321.0
+Kentucky,2013,Total,1936634.0
+Kentucky,2014,Total,1950504.0
+Kentucky,2015,Total,1957133.0
+Kentucky,2016,Total,1965577.0
+Kentucky,2017,Total,1984235.0
+Kentucky,2018,Total,1995187.0
+Kentucky,2019,Total,2006335.0
+Louisiana,2005,Total,1940399.0
+Louisiana,2006,Total,1829933.0
+Louisiana,2007,Total,1858586.0
+Louisiana,2008,Total,1883134.0
+Louisiana,2009,Total,1963337.0
+Louisiana,2010,Total,1967947.0
+Louisiana,2011,Total,1978974.0
+Louisiana,2012,Total,1987059.0
+Louisiana,2013,Total,1990967.0
+Louisiana,2014,Total,2011037.0
+Louisiana,2015,Total,2024737.0
+Louisiana,2016,Total,2037067.0
+Louisiana,2017,Total,2061582.0
+Louisiana,2018,Total,2076136.0
+Louisiana,2019,Total,2089824.0
+Maine,2005,Total,683799.0
+Maine,2006,Total,691164.0
+Maine,2007,Total,696681.0
+Maine,2008,Total,700550.0
+Maine,2009,Total,704574.0
+Maine,2010,Total,722217.0
+Maine,2011,Total,725650.0
+Maine,2012,Total,724187.0
+Maine,2013,Total,723140.0
+Maine,2014,Total,727693.0
+Maine,2015,Total,729392.0
+Maine,2016,Total,730786.0
+Maine,2017,Total,742644.0
+Maine,2018,Total,746592.0
+Maine,2019,Total,750964.0
+Maryland,2005,Total,2273793.0
+Maryland,2006,Total,2300749.0
+Maryland,2007,Total,2318430.0
+Maryland,2008,Total,2333250.0
+Maryland,2009,Total,2341332.0
+Maryland,2010,Total,2380605.0
+Maryland,2011,Total,2391508.0
+Maryland,2012,Total,2395635.0
+Maryland,2013,Total,2404177.0
+Maryland,2014,Total,2422317.0
+Maryland,2015,Total,2434465.0
+Maryland,2016,Total,2447211.0
+Maryland,2017,Total,2449123.0
+Maryland,2018,Total,2458779.0
+Maryland,2019,Total,2470307.0
+Massachusetts,2005,Total,2688014.0
+Massachusetts,2006,Total,2709208.0
+Massachusetts,2007,Total,2722323.0
+Massachusetts,2008,Total,2735645.0
+Massachusetts,2009,Total,2748475.0
+Massachusetts,2010,Total,2808727.0
+Massachusetts,2011,Total,2819028.0
+Massachusetts,2012,Total,2810394.0
+Massachusetts,2013,Total,2813641.0
+Massachusetts,2014,Total,2828592.0
+Massachusetts,2015,Total,2845805.0
+Massachusetts,2016,Total,2858087.0
+Massachusetts,2017,Total,2894590.0
+Massachusetts,2018,Total,2915043.0
+Massachusetts,2019,Total,2928818.0
+Michigan,2005,Total,4478507.0
+Michigan,2006,Total,4513502.0
+Michigan,2007,Total,4526914.0
+Michigan,2008,Total,4535568.0
+Michigan,2009,Total,4541470.0
+Michigan,2010,Total,4531231.0
+Michigan,2011,Total,4525654.0
+Michigan,2012,Total,4525081.0
+Michigan,2013,Total,4525266.0
+Michigan,2014,Total,4540088.0
+Michigan,2015,Total,4550324.0
+Michigan,2016,Total,4560164.0
+Michigan,2017,Total,4595274.0
+Michigan,2018,Total,4614552.0
+Michigan,2019,Total,4629605.0
+Minnesota,2005,Total,2252022.0
+Minnesota,2006,Total,2282837.0
+Minnesota,2007,Total,2304473.0
+Minnesota,2008,Total,2331203.0
+Minnesota,2009,Total,2331243.0
+Minnesota,2010,Total,2348242.0
+Minnesota,2011,Total,2354075.0
+Minnesota,2012,Total,2361074.0
+Minnesota,2013,Total,2368754.0
+Minnesota,2014,Total,2385261.0
+Minnesota,2015,Total,2397081.0
+Minnesota,2016,Total,2409701.0
+Minnesota,2017,Total,2437726.0
+Minnesota,2018,Total,2455637.0
+Minnesota,2019,Total,2477515.0
+Mississippi,2005,Total,1235496.0
+Mississippi,2006,Total,1241439.0
+Mississippi,2007,Total,1254936.0
+Mississippi,2008,Total,1267191.0
+Mississippi,2009,Total,1282015.0
+Mississippi,2010,Total,1276441.0
+Mississippi,2011,Total,1281760.0
+Mississippi,2012,Total,1283897.0
+Mississippi,2013,Total,1283192.0
+Mississippi,2014,Total,1294738.0
+Mississippi,2015,Total,1300932.0
+Mississippi,2016,Total,1307492.0
+Mississippi,2017,Total,1323754.0
+Mississippi,2018,Total,1332631.0
+Mississippi,2019,Total,1339047.0
+Missouri,2005,Total,2592809.0
+Missouri,2006,Total,2622995.0
+Missouri,2007,Total,2647379.0
+Missouri,2008,Total,2664062.0
+Missouri,2009,Total,2682015.0
+Missouri,2010,Total,2714017.0
+Missouri,2011,Total,2723449.0
+Missouri,2012,Total,2720087.0
+Missouri,2013,Total,2719109.0
+Missouri,2014,Total,2735803.0
+Missouri,2015,Total,2746644.0
+Missouri,2016,Total,2760226.0
+Missouri,2017,Total,2792445.0
+Missouri,2018,Total,2806296.0
+Missouri,2019,Total,2819334.0
+Montana,2005,Total,428357.0
+Montana,2006,Total,432080.0
+Montana,2007,Total,435586.0
+Montana,2008,Total,438337.0
+Montana,2009,Total,441318.0
+Montana,2010,Total,483006.0
+Montana,2011,Total,489183.0
+Montana,2012,Total,486161.0
+Montana,2013,Total,485767.0
+Montana,2014,Total,491515.0
+Montana,2015,Total,494222.0
+Montana,2016,Total,497749.0
+Montana,2017,Total,510408.0
+Montana,2018,Total,515161.0
+Montana,2019,Total,519938.0
+Nebraska,2005,Total,766951.0
+Nebraska,2006,Total,774571.0
+Nebraska,2007,Total,780592.0
+Nebraska,2008,Total,785841.0
+Nebraska,2009,Total,789397.0
+Nebraska,2010,Total,797677.0
+Nebraska,2011,Total,801182.0
+Nebraska,2012,Total,804274.0
+Nebraska,2013,Total,806888.0
+Nebraska,2014,Total,814957.0
+Nebraska,2015,Total,820925.0
+Nebraska,2016,Total,827191.0
+Nebraska,2017,Total,837540.0
+Nebraska,2018,Total,845011.0
+Nebraska,2019,Total,851167.0
+Nevada,2005,Total,1019427.0
+Nevada,2006,Total,1065267.0
+Nevada,2007,Total,1102409.0
+Nevada,2008,Total,1127100.0
+Nevada,2009,Total,1138045.0
+Nevada,2010,Total,1175070.0
+Nevada,2011,Total,1183917.0
+Nevada,2012,Total,1182842.0
+Nevada,2013,Total,1186936.0
+Nevada,2014,Total,1198969.0
+Nevada,2015,Total,1209864.0
+Nevada,2016,Total,1221759.0
+Nevada,2017,Total,1249733.0
+Nevada,2018,Total,1268717.0
+Nevada,2019,Total,1285681.0
+New Hampshire,2005,Total,583324.0
+New Hampshire,2006,Total,589840.0
+New Hampshire,2007,Total,594126.0
+New Hampshire,2008,Total,597088.0
+New Hampshire,2009,Total,600087.0
+New Hampshire,2010,Total,614996.0
+New Hampshire,2011,Total,617702.0
+New Hampshire,2012,Total,617005.0
+New Hampshire,2013,Total,616496.0
+New Hampshire,2014,Total,619865.0
+New Hampshire,2015,Total,622604.0
+New Hampshire,2016,Total,625337.0
+New Hampshire,2017,Total,634689.0
+New Hampshire,2018,Total,638112.0
+New Hampshire,2019,Total,642298.0
+New Jersey,2005,Total,3443981.0
+New Jersey,2006,Total,3472782.0
+New Jersey,2007,Total,3498786.0
+New Jersey,2008,Total,3515923.0
+New Jersey,2009,Total,3524954.0
+New Jersey,2010,Total,3554909.0
+New Jersey,2011,Total,3562720.0
+New Jersey,2012,Total,3574763.0
+New Jersey,2013,Total,3578260.0
+New Jersey,2014,Total,3591847.0
+New Jersey,2015,Total,3593722.0
+New Jersey,2016,Total,3604688.0
+New Jersey,2017,Total,3615891.0
+New Jersey,2018,Total,3628198.0
+New Jersey,2019,Total,3641854.0
+New Mexico,2005,Total,838668.0
+New Mexico,2006,Total,850153.0
+New Mexico,2007,Total,862095.0
+New Mexico,2008,Total,871721.0
+New Mexico,2009,Total,878066.0
+New Mexico,2010,Total,902242.0
+New Mexico,2011,Total,908168.0
+New Mexico,2012,Total,906838.0
+New Mexico,2013,Total,905134.0
+New Mexico,2014,Total,912910.0
+New Mexico,2015,Total,914979.0
+New Mexico,2016,Total,917641.0
+New Mexico,2017,Total,937976.0
+New Mexico,2018,Total,943232.0
+New Mexico,2019,Total,948470.0
+New York,2005,Total,7853020.0
+New York,2006,Total,7907514.0
+New York,2007,Total,7940072.0
+New York,2008,Total,7977383.0
+New York,2009,Total,8017978.0
+New York,2010,Total,8108211.0
+New York,2011,Total,8119804.0
+New York,2012,Total,8123585.0
+New York,2013,Total,8126399.0
+New York,2014,Total,8191528.0
+New York,2015,Total,8207161.0
+New York,2016,Total,8232039.0
+New York,2017,Total,8327621.0
+New York,2018,Total,8363847.0
+New York,2019,Total,8404205.0
+North Carolina,2005,Total,3940554.0
+North Carolina,2006,Total,4026558.0
+North Carolina,2007,Total,4124066.0
+North Carolina,2008,Total,4200447.0
+North Carolina,2009,Total,4258573.0
+North Carolina,2010,Total,4333479.0
+North Carolina,2011,Total,4362956.0
+North Carolina,2012,Total,4375400.0
+North Carolina,2013,Total,4394515.0
+North Carolina,2014,Total,4452464.0
+North Carolina,2015,Total,4491090.0
+North Carolina,2016,Total,4540697.0
+North Carolina,2017,Total,4622656.0
+North Carolina,2018,Total,4684962.0
+North Carolina,2019,Total,4748148.0
+North Dakota,2005,Total,304458.0
+North Dakota,2006,Total,306982.0
+North Dakota,2007,Total,310438.0
+North Dakota,2008,Total,313018.0
+North Dakota,2009,Total,315625.0
+North Dakota,2010,Total,318099.0
+North Dakota,2011,Total,320888.0
+North Dakota,2012,Total,329249.0
+North Dakota,2013,Total,339293.0
+North Dakota,2014,Total,350534.0
+North Dakota,2015,Total,362889.0
+North Dakota,2016,Total,368545.0
+North Dakota,2017,Total,374591.0
+North Dakota,2018,Total,377661.0
+North Dakota,2019,Total,379974.0
+Ohio,2005,Total,5007091.0
+Ohio,2006,Total,5045356.0
+Ohio,2007,Total,5065254.0
+Ohio,2008,Total,5080242.0
+Ohio,2009,Total,5094314.0
+Ohio,2010,Total,5128113.0
+Ohio,2011,Total,5133528.0
+Ohio,2012,Total,5128846.0
+Ohio,2013,Total,5124126.0
+Ohio,2014,Total,5147282.0
+Ohio,2015,Total,5156546.0
+Ohio,2016,Total,5164400.0
+Ohio,2017,Total,5201701.0
+Ohio,2018,Total,5217617.0
+Ohio,2019,Total,5232943.0
+Oklahoma,2005,Total,1588749.0
+Oklahoma,2006,Total,1607416.0
+Oklahoma,2007,Total,1623100.0
+Oklahoma,2008,Total,1637213.0
+Oklahoma,2009,Total,1650184.0
+Oklahoma,2010,Total,1666205.0
+Oklahoma,2011,Total,1674724.0
+Oklahoma,2012,Total,1677646.0
+Oklahoma,2013,Total,1682358.0
+Oklahoma,2014,Total,1699556.0
+Oklahoma,2015,Total,1711515.0
+Oklahoma,2016,Total,1721072.0
+Oklahoma,2017,Total,1734074.0
+Oklahoma,2018,Total,1743073.0
+Oklahoma,2019,Total,1749520.0
+Oregon,2005,Total,1558421.0
+Oregon,2006,Total,1586600.0
+Oregon,2007,Total,1609764.0
+Oregon,2008,Total,1628902.0
+Oregon,2009,Total,1639539.0
+Oregon,2010,Total,1676476.0
+Oregon,2011,Total,1684244.0
+Oregon,2012,Total,1682531.0
+Oregon,2013,Total,1684107.0
+Oregon,2014,Total,1700611.0
+Oregon,2015,Total,1718509.0
+Oregon,2016,Total,1732887.0
+Oregon,2017,Total,1768582.0
+Oregon,2018,Total,1788743.0
+Oregon,2019,Total,1808482.0
+Pennsylvania,2005,Total,5422362.0
+Pennsylvania,2006,Total,5453647.0
+Pennsylvania,2007,Total,5478158.0
+Pennsylvania,2008,Total,5496509.0
+Pennsylvania,2009,Total,5518579.0
+Pennsylvania,2010,Total,5568820.0
+Pennsylvania,2011,Total,5579394.0
+Pennsylvania,2012,Total,5572765.0
+Pennsylvania,2013,Total,5565354.0
+Pennsylvania,2014,Total,5590712.0
+Pennsylvania,2015,Total,5603051.0
+Pennsylvania,2016,Total,5611995.0
+Pennsylvania,2017,Total,5694402.0
+Pennsylvania,2018,Total,5713136.0
+Pennsylvania,2019,Total,5732580.0
+Puerto Rico,2005,Total,1440683.0
+Puerto Rico,2006,Total,1437597.0
+Puerto Rico,2007,Total,1434322.0
+Puerto Rico,2008,Total,1432203.0
+Puerto Rico,2009,Total,1428627.0
+Puerto Rico,2010,Total,1637216.0
+Puerto Rico,2011,Total,1567959.0
+Puerto Rico,2012,Total,1583437.0
+Puerto Rico,2013,Total,1572849.0
+Puerto Rico,2014,Total,1571275.0
+Puerto Rico,2015,Total,1573532.0
+Puerto Rico,2016,Total,1555880.0
+Puerto Rico,2017,Total,1561802.0
+Puerto Rico,2018,Total,1553061.0
+Puerto Rico,2019,Total,1559505.0
+Rhode Island,2005,Total,447810.0
+Rhode Island,2006,Total,449574.0
+Rhode Island,2007,Total,450877.0
+Rhode Island,2008,Total,451770.0
+Rhode Island,2009,Total,452180.0
+Rhode Island,2010,Total,463416.0
+Rhode Island,2011,Total,464741.0
+Rhode Island,2012,Total,462618.0
+Rhode Island,2013,Total,461658.0
+Rhode Island,2014,Total,462630.0
+Rhode Island,2015,Total,462555.0
+Rhode Island,2016,Total,462598.0
+Rhode Island,2017,Total,468266.0
+Rhode Island,2018,Total,469153.0
+Rhode Island,2019,Total,470177.0
+South Carolina,2005,Total,1927864.0
+South Carolina,2006,Total,1975816.0
+South Carolina,2007,Total,2022033.0
+South Carolina,2008,Total,2056179.0
+South Carolina,2009,Total,2084361.0
+South Carolina,2010,Total,2140337.0
+South Carolina,2011,Total,2157063.0
+South Carolina,2012,Total,2156768.0
+South Carolina,2013,Total,2158784.0
+South Carolina,2014,Total,2188258.0
+South Carolina,2015,Total,2210150.0
+South Carolina,2016,Total,2236262.0
+South Carolina,2017,Total,2284820.0
+South Carolina,2018,Total,2318291.0
+South Carolina,2019,Total,2351364.0
+South Dakota,2005,Total,347931.0
+South Dakota,2006,Total,352289.0
+South Dakota,2007,Total,356264.0
+South Dakota,2008,Total,361455.0
+South Dakota,2009,Total,364691.0
+South Dakota,2010,Total,364031.0
+South Dakota,2011,Total,366521.0
+South Dakota,2012,Total,368247.0
+South Dakota,2013,Total,370207.0
+South Dakota,2014,Total,376347.0
+South Dakota,2015,Total,380307.0
+South Dakota,2016,Total,383827.0
+South Dakota,2017,Total,392650.0
+South Dakota,2018,Total,397506.0
+South Dakota,2019,Total,401749.0
+Tennessee,2005,Total,2637441.0
+Tennessee,2006,Total,2681320.0
+Tennessee,2007,Total,2724929.0
+Tennessee,2008,Total,2758261.0
+Tennessee,2009,Total,2780788.0
+Tennessee,2010,Total,2815087.0
+Tennessee,2011,Total,2829125.0
+Tennessee,2012,Total,2834808.0
+Tennessee,2013,Total,2840998.0
+Tennessee,2014,Total,2869419.0
+Tennessee,2015,Total,2892407.0
+Tennessee,2016,Total,2919698.0
+Tennessee,2017,Total,2958799.0
+Tennessee,2018,Total,2992412.0
+Tennessee,2019,Total,3028437.0
+Texas,2005,Total,9026011.0
+Texas,2006,Total,9224920.0
+Texas,2007,Total,9433119.0
+Texas,2008,Total,9599073.0
+Texas,2009,Total,9724258.0
+Texas,2010,Total,9996209.0
+Texas,2011,Total,10099242.0
+Texas,2012,Total,10154835.0
+Texas,2013,Total,10256203.0
+Texas,2014,Total,10426760.0
+Texas,2015,Total,10588236.0
+Texas,2016,Total,10754268.0
+Texas,2017,Total,10933375.0
+Texas,2018,Total,11101498.0
+Texas,2019,Total,11283892.0
+Utah,2005,Total,873097.0
+Utah,2006,Total,901322.0
+Utah,2007,Total,925295.0
+Utah,2008,Total,944475.0
+Utah,2009,Total,952860.0
+Utah,2010,Total,981821.0
+Utah,2011,Total,993125.0
+Utah,2012,Total,996777.0
+Utah,2013,Total,1006164.0
+Utah,2014,Total,1022593.0
+Utah,2015,Total,1038065.0
+Utah,2016,Total,1054242.0
+Utah,2017,Total,1084685.0
+Utah,2018,Total,1108739.0
+Utah,2019,Total,1133543.0
+Vermont,2005,Total,307345.0
+Vermont,2006,Total,309566.0
+Vermont,2007,Total,311420.0
+Vermont,2008,Total,312618.0
+Vermont,2009,Total,314259.0
+Vermont,2010,Total,322698.0
+Vermont,2011,Total,324385.0
+Vermont,2012,Total,324052.0
+Vermont,2013,Total,323936.0
+Vermont,2014,Total,325774.0
+Vermont,2015,Total,326874.0
+Vermont,2016,Total,329539.0
+Vermont,2017,Total,335248.0
+Vermont,2018,Total,337133.0
+Vermont,2019,Total,339412.0
+Virginia,2005,Total,3174708.0
+Virginia,2006,Total,3230821.0
+Virginia,2007,Total,3273206.0
+Virginia,2008,Total,3306473.0
+Virginia,2009,Total,3330481.0
+Virginia,2010,Total,3368674.0
+Virginia,2011,Total,3387801.0
+Virginia,2012,Total,3398389.0
+Virginia,2013,Total,3412577.0
+Virginia,2014,Total,3446585.0
+Virginia,2015,Total,3468952.0
+Virginia,2016,Total,3491185.0
+Virginia,2017,Total,3512917.0
+Virginia,2018,Total,3538985.0
+Virginia,2019,Total,3562258.0
+Washington,2005,Total,2651645.0
+Washington,2006,Total,2699658.0
+Washington,2007,Total,2744324.0
+Washington,2008,Total,2791765.0
+Washington,2009,Total,2814297.0
+Washington,2010,Total,2888594.0
+Washington,2011,Total,2907605.0
+Washington,2012,Total,2914775.0
+Washington,2013,Total,2928300.0
+Washington,2014,Total,2963293.0
+Washington,2015,Total,2991584.0
+Washington,2016,Total,3025802.0
+Washington,2017,Total,3103263.0
+Washington,2018,Total,3148084.0
+Washington,2019,Total,3195098.0
+West Virginia,2005,Total,872203.0
+West Virginia,2006,Total,877587.0
+West Virginia,2007,Total,882631.0
+West Virginia,2008,Total,886419.0
+West Virginia,2009,Total,893766.0
+West Virginia,2010,Total,882213.0
+West Virginia,2011,Total,881821.0
+West Virginia,2012,Total,882800.0
+West Virginia,2013,Total,879424.0
+West Virginia,2014,Total,884574.0
+West Virginia,2015,Total,885539.0
+West Virginia,2016,Total,886710.0
+West Virginia,2017,Total,892240.0
+West Virginia,2018,Total,893742.0
+West Virginia,2019,Total,894983.0
+Wisconsin,2005,Total,2498500.0
+Wisconsin,2006,Total,2532958.0
+Wisconsin,2007,Total,2558278.0
+Wisconsin,2008,Total,2568752.0
+Wisconsin,2009,Total,2584342.0
+Wisconsin,2010,Total,2625477.0
+Wisconsin,2011,Total,2634806.0
+Wisconsin,2012,Total,2632625.0
+Wisconsin,2013,Total,2633420.0
+Wisconsin,2014,Total,2648342.0
+Wisconsin,2015,Total,2656669.0
+Wisconsin,2016,Total,2668443.0
+Wisconsin,2017,Total,2695303.0
+Wisconsin,2018,Total,2710718.0
+Wisconsin,2019,Total,2725153.0
+Wyoming,2005,Total,235721.0
+Wyoming,2006,Total,239088.0
+Wyoming,2007,Total,242344.0
+Wyoming,2008,Total,246418.0
+Wyoming,2009,Total,249404.0
+Wyoming,2010,Total,262286.0
+Wyoming,2011,Total,265554.0
+Wyoming,2012,Total,265207.0
+Wyoming,2013,Total,265471.0
+Wyoming,2014,Total,268205.0
+Wyoming,2015,Total,269469.0
+Wyoming,2016,Total,270625.0
+Wyoming,2017,Total,276733.0
+Wyoming,2018,Total,278615.0
+Wyoming,2019,Total,280281.0
+Alabama,2005,Occupied,1788692.0
+Alabama,2006,Occupied,1796058.0
+Alabama,2007,Occupied,1816313.0
+Alabama,2008,Occupied,1815865.0
+Alabama,2009,Occupied,1848051.0
+Alabama,2010,Occupied,1815152.0
+Alabama,2011,Occupied,1844546.0
+Alabama,2012,Occupied,1845169.0
+Alabama,2013,Occupied,1822439.0
+Alabama,2014,Occupied,1841217.0
+Alabama,2015,Occupied,1846390.0
+Alabama,2016,Occupied,1852518.0
+Alabama,2017,Occupied,1841665.0
+Alabama,2018,Occupied,1855184.0
+Alabama,2019,Occupied,1897576.0
+Alaska,2005,Occupied,233252.0
+Alaska,2006,Occupied,229878.0
+Alaska,2007,Occupied,236421.0
+Alaska,2008,Occupied,237607.0
+Alaska,2009,Occupied,236597.0
+Alaska,2010,Occupied,254610.0
+Alaska,2011,Occupied,257330.0
+Alaska,2012,Occupied,251651.0
+Alaska,2013,Occupied,246015.0
+Alaska,2014,Occupied,249659.0
+Alaska,2015,Occupied,250185.0
+Alaska,2016,Occupied,248468.0
+Alaska,2017,Occupied,250741.0
+Alaska,2018,Occupied,254551.0
+Alaska,2019,Occupied,252199.0
+Arizona,2005,Occupied,2204013.0
+Arizona,2006,Occupied,2224992.0
+Arizona,2007,Occupied,2251546.0
+Arizona,2008,Occupied,2273842.0
+Arizona,2009,Occupied,2276865.0
+Arizona,2010,Occupied,2334050.0
+Arizona,2011,Occupied,2356055.0
+Arizona,2012,Occupied,2392168.0
+Arizona,2013,Occupied,2400809.0
+Arizona,2014,Occupied,2428743.0
+Arizona,2015,Occupied,2463008.0
+Arizona,2016,Occupied,2519052.0
+Arizona,2017,Occupied,2552972.0
+Arizona,2018,Occupied,2614298.0
+Arizona,2019,Occupied,2670441.0
+Arkansas,2005,Occupied,1087542.0
+Arkansas,2006,Occupied,1103428.0
+Arkansas,2007,Occupied,1102734.0
+Arkansas,2008,Occupied,1114041.0
+Arkansas,2009,Occupied,1124947.0
+Arkansas,2010,Occupied,1114902.0
+Arkansas,2011,Occupied,1127621.0
+Arkansas,2012,Occupied,1143859.0
+Arkansas,2013,Occupied,1125899.0
+Arkansas,2014,Occupied,1131288.0
+Arkansas,2015,Occupied,1144663.0
+Arkansas,2016,Occupied,1142718.0
+Arkansas,2017,Occupied,1153082.0
+Arkansas,2018,Occupied,1156347.0
+Arkansas,2019,Occupied,1163647.0
+California,2005,Occupied,12097894.0
+California,2006,Occupied,12151227.0
+California,2007,Occupied,12200672.0
+California,2008,Occupied,12176760.0
+California,2009,Occupied,12214891.0
+California,2010,Occupied,12406475.0
+California,2011,Occupied,12468743.0
+California,2012,Occupied,12552658.0
+California,2013,Occupied,12650592.0
+California,2014,Occupied,12758648.0
+California,2015,Occupied,12896357.0
+California,2016,Occupied,12944178.0
+California,2017,Occupied,13005097.0
+California,2018,Occupied,13072122.0
+California,2019,Occupied,13157873.0
+Colorado,2005,Occupied,1819037.0
+Colorado,2006,Occupied,1846988.0
+Colorado,2007,Occupied,1859965.0
+Colorado,2008,Occupied,1897835.0
+Colorado,2009,Occupied,1910146.0
+Colorado,2010,Occupied,1960585.0
+Colorado,2011,Occupied,1975388.0
+Colorado,2012,Occupied,1996088.0
+Colorado,2013,Occupied,2002800.0
+Colorado,2014,Occupied,2039592.0
+Colorado,2015,Occupied,2074735.0
+Colorado,2016,Occupied,2108992.0
+Colorado,2017,Occupied,2139207.0
+Colorado,2018,Occupied,2176757.0
+Colorado,2019,Occupied,2235103.0
+Connecticut,2005,Occupied,1323838.0
+Connecticut,2006,Occupied,1325443.0
+Connecticut,2007,Occupied,1320714.0
+Connecticut,2008,Occupied,1329305.0
+Connecticut,2009,Occupied,1326329.0
+Connecticut,2010,Occupied,1358809.0
+Connecticut,2011,Occupied,1351643.0
+Connecticut,2012,Occupied,1357812.0
+Connecticut,2013,Occupied,1339860.0
+Connecticut,2014,Occupied,1355817.0
+Connecticut,2015,Occupied,1343703.0
+Connecticut,2016,Occupied,1357269.0
+Connecticut,2017,Occupied,1356762.0
+Connecticut,2018,Occupied,1378091.0
+Connecticut,2019,Occupied,1377166.0
+Delaware,2005,Occupied,317640.0
+Delaware,2006,Occupied,320110.0
+Delaware,2007,Occupied,328477.0
+Delaware,2008,Occupied,328654.0
+Delaware,2009,Occupied,327252.0
+Delaware,2010,Occupied,328765.0
+Delaware,2011,Occupied,333192.0
+Delaware,2012,Occupied,340308.0
+Delaware,2013,Occupied,339071.0
+Delaware,2014,Occupied,349743.0
+Delaware,2015,Occupied,352595.0
+Delaware,2016,Occupied,351085.0
+Delaware,2017,Occupied,357937.0
+Delaware,2018,Occupied,367671.0
+Delaware,2019,Occupied,376239.0
+District of Columbia,2005,Occupied,248213.0
+District of Columbia,2006,Occupied,250456.0
+District of Columbia,2007,Occupied,251039.0
+District of Columbia,2008,Occupied,249996.0
+District of Columbia,2009,Occupied,249280.0
+District of Columbia,2010,Occupied,252388.0
+District of Columbia,2011,Occupied,268670.0
+District of Columbia,2012,Occupied,266662.0
+District of Columbia,2013,Occupied,271651.0
+District of Columbia,2014,Occupied,277378.0
+District of Columbia,2015,Occupied,281787.0
+District of Columbia,2016,Occupied,281241.0
+District of Columbia,2017,Occupied,281475.0
+District of Columbia,2018,Occupied,287476.0
+District of Columbia,2019,Occupied,291570.0
+Florida,2005,Occupied,7048800.0
+Florida,2006,Occupied,7106042.0
+Florida,2007,Occupied,7088960.0
+Florida,2008,Occupied,7057285.0
+Florida,2009,Occupied,6987647.0
+Florida,2010,Occupied,7035068.0
+Florida,2011,Occupied,7106283.0
+Florida,2012,Occupied,7197943.0
+Florida,2013,Occupied,7211584.0
+Florida,2014,Occupied,7328046.0
+Florida,2015,Occupied,7463184.0
+Florida,2016,Occupied,7573456.0
+Florida,2017,Occupied,7689964.0
+Florida,2018,Occupied,7809358.0
+Florida,2019,Occupied,7905832.0
+Georgia,2005,Occupied,3320278.0
+Georgia,2006,Occupied,3376763.0
+Georgia,2007,Occupied,3417115.0
+Georgia,2008,Occupied,3469845.0
+Georgia,2009,Occupied,3469250.0
+Georgia,2010,Occupied,3482420.0
+Georgia,2011,Occupied,3494542.0
+Georgia,2012,Occupied,3532908.0
+Georgia,2013,Occupied,3546965.0
+Georgia,2014,Occupied,3587521.0
+Georgia,2015,Occupied,3656407.0
+Georgia,2016,Occupied,3686135.0
+Georgia,2017,Occupied,3745074.0
+Georgia,2018,Occupied,3803012.0
+Georgia,2019,Occupied,3852714.0
+Hawaii,2005,Occupied,430007.0
+Hawaii,2006,Occupied,432632.0
+Hawaii,2007,Occupied,439685.0
+Hawaii,2008,Occupied,437105.0
+Hawaii,2009,Occupied,446136.0
+Hawaii,2010,Occupied,445812.0
+Hawaii,2011,Occupied,448563.0
+Hawaii,2012,Occupied,447748.0
+Hawaii,2013,Occupied,450120.0
+Hawaii,2014,Occupied,450769.0
+Hawaii,2015,Occupied,445936.0
+Hawaii,2016,Occupied,455868.0
+Hawaii,2017,Occupied,458078.0
+Hawaii,2018,Occupied,455309.0
+Hawaii,2019,Occupied,465299.0
+Idaho,2005,Occupied,532135.0
+Idaho,2006,Occupied,548555.0
+Idaho,2007,Occupied,560567.0
+Idaho,2008,Occupied,566004.0
+Idaho,2009,Occupied,558466.0
+Idaho,2010,Occupied,576709.0
+Idaho,2011,Occupied,580193.0
+Idaho,2012,Occupied,583106.0
+Idaho,2013,Occupied,588489.0
+Idaho,2014,Occupied,591587.0
+Idaho,2015,Occupied,597421.0
+Idaho,2016,Occupied,610872.0
+Idaho,2017,Occupied,625135.0
+Idaho,2018,Occupied,640270.0
+Idaho,2019,Occupied,655859.0
+Illinois,2005,Occupied,4691020.0
+Illinois,2006,Occupied,4724252.0
+Illinois,2007,Occupied,4759579.0
+Illinois,2008,Occupied,4766252.0
+Illinois,2009,Occupied,4757452.0
+Illinois,2010,Occupied,4752857.0
+Illinois,2011,Occupied,4737208.0
+Illinois,2012,Occupied,4770194.0
+Illinois,2013,Occupied,4783421.0
+Illinois,2014,Occupied,4772421.0
+Illinois,2015,Occupied,4794523.0
+Illinois,2016,Occupied,4822046.0
+Illinois,2017,Occupied,4808672.0
+Illinois,2018,Occupied,4864864.0
+Illinois,2019,Occupied,4866006.0
+Indiana,2005,Occupied,2443010.0
+Indiana,2006,Occupied,2435274.0
+Indiana,2007,Occupied,2462278.0
+Indiana,2008,Occupied,2480570.0
+Indiana,2009,Occupied,2477548.0
+Indiana,2010,Occupied,2470905.0
+Indiana,2011,Occupied,2467111.0
+Indiana,2012,Occupied,2480077.0
+Indiana,2013,Occupied,2498395.0
+Indiana,2014,Occupied,2502739.0
+Indiana,2015,Occupied,2515143.0
+Indiana,2016,Occupied,2533270.0
+Indiana,2017,Occupied,2557299.0
+Indiana,2018,Occupied,2599169.0
+Indiana,2019,Occupied,2597765.0
+Iowa,2005,Occupied,1200833.0
+Iowa,2006,Occupied,1208765.0
+Iowa,2007,Occupied,1214353.0
+Iowa,2008,Occupied,1215351.0
+Iowa,2009,Occupied,1226804.0
+Iowa,2010,Occupied,1223439.0
+Iowa,2011,Occupied,1216765.0
+Iowa,2012,Occupied,1227048.0
+Iowa,2013,Occupied,1236209.0
+Iowa,2014,Occupied,1241471.0
+Iowa,2015,Occupied,1247249.0
+Iowa,2016,Occupied,1247932.0
+Iowa,2017,Occupied,1257505.0
+Iowa,2018,Occupied,1267873.0
+Iowa,2019,Occupied,1287221.0
+Kansas,2005,Occupied,1071938.0
+Kansas,2006,Occupied,1088288.0
+Kansas,2007,Occupied,1088835.0
+Kansas,2008,Occupied,1110829.0
+Kansas,2009,Occupied,1104976.0
+Kansas,2010,Occupied,1101658.0
+Kansas,2011,Occupied,1101701.0
+Kansas,2012,Occupied,1113911.0
+Kansas,2013,Occupied,1113729.0
+Kansas,2014,Occupied,1109280.0
+Kansas,2015,Occupied,1111582.0
+Kansas,2016,Occupied,1110407.0
+Kansas,2017,Occupied,1128983.0
+Kansas,2018,Occupied,1133408.0
+Kansas,2019,Occupied,1138329.0
+Kentucky,2005,Occupied,1653898.0
+Kentucky,2006,Occupied,1651911.0
+Kentucky,2007,Occupied,1655767.0
+Kentucky,2008,Occupied,1686277.0
+Kentucky,2009,Occupied,1694197.0
+Kentucky,2010,Occupied,1684348.0
+Kentucky,2011,Occupied,1672134.0
+Kentucky,2012,Occupied,1707004.0
+Kentucky,2013,Occupied,1705623.0
+Kentucky,2014,Occupied,1712094.0
+Kentucky,2015,Occupied,1716168.0
+Kentucky,2016,Occupied,1717706.0
+Kentucky,2017,Occupied,1725034.0
+Kentucky,2018,Occupied,1732713.0
+Kentucky,2019,Occupied,1748732.0
+Louisiana,2005,Occupied,1676599.0
+Louisiana,2006,Occupied,1564978.0
+Louisiana,2007,Occupied,1597111.0
+Louisiana,2008,Occupied,1625153.0
+Louisiana,2009,Occupied,1688027.0
+Louisiana,2010,Occupied,1689822.0
+Louisiana,2011,Occupied,1702030.0
+Louisiana,2012,Occupied,1719473.0
+Louisiana,2013,Occupied,1728149.0
+Louisiana,2014,Occupied,1718194.0
+Louisiana,2015,Occupied,1737908.0
+Louisiana,2016,Occupied,1720801.0
+Louisiana,2017,Occupied,1737123.0
+Louisiana,2018,Occupied,1737220.0
+Louisiana,2019,Occupied,1741076.0
+Maine,2005,Occupied,542158.0
+Maine,2006,Occupied,548247.0
+Maine,2007,Occupied,543952.0
+Maine,2008,Occupied,542363.0
+Maine,2009,Occupied,544855.0
+Maine,2010,Occupied,545417.0
+Maine,2011,Occupied,552051.0
+Maine,2012,Occupied,554543.0
+Maine,2013,Occupied,547686.0
+Maine,2014,Occupied,549841.0
+Maine,2015,Occupied,545226.0
+Maine,2016,Occupied,531660.0
+Maine,2017,Occupied,540959.0
+Maine,2018,Occupied,570307.0
+Maine,2019,Occupied,573618.0
+Maryland,2005,Occupied,2085647.0
+Maryland,2006,Occupied,2089031.0
+Maryland,2007,Occupied,2082458.0
+Maryland,2008,Occupied,2092692.0
+Maryland,2009,Occupied,2095122.0
+Maryland,2010,Occupied,2127439.0
+Maryland,2011,Occupied,2134517.0
+Maryland,2012,Occupied,2157717.0
+Maryland,2013,Occupied,2161680.0
+Maryland,2014,Occupied,2165438.0
+Maryland,2015,Occupied,2177934.0
+Maryland,2016,Occupied,2194657.0
+Maryland,2017,Occupied,2207343.0
+Maryland,2018,Occupied,2215935.0
+Maryland,2019,Occupied,2226767.0
+Massachusetts,2005,Occupied,2448032.0
+Massachusetts,2006,Occupied,2446485.0
+Massachusetts,2007,Occupied,2449133.0
+Massachusetts,2008,Occupied,2467323.0
+Massachusetts,2009,Occupied,2475492.0
+Massachusetts,2010,Occupied,2520419.0
+Massachusetts,2011,Occupied,2532067.0
+Massachusetts,2012,Occupied,2522394.0
+Massachusetts,2013,Occupied,2536321.0
+Massachusetts,2014,Occupied,2549336.0
+Massachusetts,2015,Occupied,2559951.0
+Massachusetts,2016,Occupied,2579398.0
+Massachusetts,2017,Occupied,2604954.0
+Massachusetts,2018,Occupied,2624294.0
+Massachusetts,2019,Occupied,2650680.0
+Michigan,2005,Occupied,3887994.0
+Michigan,2006,Occupied,3869117.0
+Michigan,2007,Occupied,3849007.0
+Michigan,2008,Occupied,3810801.0
+Michigan,2009,Occupied,3819736.0
+Michigan,2010,Occupied,3806621.0
+Michigan,2011,Occupied,3772433.0
+Michigan,2012,Occupied,3819068.0
+Michigan,2013,Occupied,3832466.0
+Michigan,2014,Occupied,3834574.0
+Michigan,2015,Occupied,3858532.0
+Michigan,2016,Occupied,3884153.0
+Michigan,2017,Occupied,3930017.0
+Michigan,2018,Occupied,3957466.0
+Michigan,2019,Occupied,3969880.0
+Minnesota,2005,Occupied,2020144.0
+Minnesota,2006,Occupied,2042297.0
+Minnesota,2007,Occupied,2062681.0
+Minnesota,2008,Occupied,2089449.0
+Minnesota,2009,Occupied,2085767.0
+Minnesota,2010,Occupied,2091548.0
+Minnesota,2011,Occupied,2096477.0
+Minnesota,2012,Occupied,2111943.0
+Minnesota,2013,Occupied,2119954.0
+Minnesota,2014,Occupied,2129195.0
+Minnesota,2015,Occupied,2147262.0
+Minnesota,2016,Occupied,2148725.0
+Minnesota,2017,Occupied,2162211.0
+Minnesota,2018,Occupied,2194452.0
+Minnesota,2019,Occupied,2222568.0
+Mississippi,2005,Occupied,1084034.0
+Mississippi,2006,Occupied,1075521.0
+Mississippi,2007,Occupied,1080039.0
+Mississippi,2008,Occupied,1094208.0
+Mississippi,2009,Occupied,1095026.0
+Mississippi,2010,Occupied,1079999.0
+Mississippi,2011,Occupied,1080991.0
+Mississippi,2012,Occupied,1090521.0
+Mississippi,2013,Occupied,1091002.0
+Mississippi,2014,Occupied,1095823.0
+Mississippi,2015,Occupied,1104371.0
+Mississippi,2016,Occupied,1091245.0
+Mississippi,2017,Occupied,1091980.0
+Mississippi,2018,Occupied,1108630.0
+Mississippi,2019,Occupied,1100229.0
+Missouri,2005,Occupied,2285280.0
+Missouri,2006,Occupied,2305027.0
+Missouri,2007,Occupied,2309626.0
+Missouri,2008,Occupied,2330040.0
+Missouri,2009,Occupied,2339684.0
+Missouri,2010,Occupied,2350628.0
+Missouri,2011,Occupied,2341074.0
+Missouri,2012,Occupied,2359135.0
+Missouri,2013,Occupied,2362853.0
+Missouri,2014,Occupied,2354809.0
+Missouri,2015,Occupied,2374180.0
+Missouri,2016,Occupied,2372190.0
+Missouri,2017,Occupied,2385135.0
+Missouri,2018,Occupied,2434806.0
+Missouri,2019,Occupied,2458337.0
+Montana,2005,Occupied,368268.0
+Montana,2006,Occupied,372190.0
+Montana,2007,Occupied,371954.0
+Montana,2008,Occupied,375598.0
+Montana,2009,Occupied,375287.0
+Montana,2010,Occupied,402747.0
+Montana,2011,Occupied,404250.0
+Montana,2012,Occupied,408938.0
+Montana,2013,Occupied,406288.0
+Montana,2014,Occupied,410962.0
+Montana,2015,Occupied,414804.0
+Montana,2016,Occupied,416125.0
+Montana,2017,Occupied,423091.0
+Montana,2018,Occupied,431421.0
+Montana,2019,Occupied,437651.0
+Nebraska,2005,Occupied,695592.0
+Nebraska,2006,Occupied,700888.0
+Nebraska,2007,Occupied,699728.0
+Nebraska,2008,Occupied,704143.0
+Nebraska,2009,Occupied,711223.0
+Nebraska,2010,Occupied,719304.0
+Nebraska,2011,Occupied,723800.0
+Nebraska,2012,Occupied,733570.0
+Nebraska,2013,Occupied,730579.0
+Nebraska,2014,Occupied,740765.0
+Nebraska,2015,Occupied,744159.0
+Nebraska,2016,Occupied,747562.0
+Nebraska,2017,Occupied,754490.0
+Nebraska,2018,Occupied,765490.0
+Nebraska,2019,Occupied,771444.0
+Nevada,2005,Occupied,906719.0
+Nevada,2006,Occupied,936828.0
+Nevada,2007,Occupied,954067.0
+Nevada,2008,Occupied,952856.0
+Nevada,2009,Occupied,965715.0
+Nevada,2010,Occupied,989811.0
+Nevada,2011,Occupied,982352.0
+Nevada,2012,Occupied,1006605.0
+Nevada,2013,Occupied,1002571.0
+Nevada,2014,Occupied,1021519.0
+Nevada,2015,Occupied,1042065.0
+Nevada,2016,Occupied,1055158.0
+Nevada,2017,Occupied,1094613.0
+Nevada,2018,Occupied,1129810.0
+Nevada,2019,Occupied,1143557.0
+New Hampshire,2005,Occupied,497054.0
+New Hampshire,2006,Occupied,504503.0
+New Hampshire,2007,Occupied,501505.0
+New Hampshire,2008,Occupied,505286.0
+New Hampshire,2009,Occupied,506342.0
+New Hampshire,2010,Occupied,515431.0
+New Hampshire,2011,Occupied,516454.0
+New Hampshire,2012,Occupied,519137.0
+New Hampshire,2013,Occupied,519246.0
+New Hampshire,2014,Occupied,519756.0
+New Hampshire,2015,Occupied,517615.0
+New Hampshire,2016,Occupied,520643.0
+New Hampshire,2017,Occupied,528700.0
+New Hampshire,2018,Occupied,531212.0
+New Hampshire,2019,Occupied,541396.0
+New Jersey,2005,Occupied,3141956.0
+New Jersey,2006,Occupied,3135490.0
+New Jersey,2007,Occupied,3149910.0
+New Jersey,2008,Occupied,3154012.0
+New Jersey,2009,Occupied,3154926.0
+New Jersey,2010,Occupied,3172421.0
+New Jersey,2011,Occupied,3167629.0
+New Jersey,2012,Occupied,3198799.0
+New Jersey,2013,Occupied,3176139.0
+New Jersey,2014,Occupied,3194844.0
+New Jersey,2015,Occupied,3187963.0
+New Jersey,2016,Occupied,3194519.0
+New Jersey,2017,Occupied,3218798.0
+New Jersey,2018,Occupied,3249567.0
+New Jersey,2019,Occupied,3286264.0
+New Mexico,2005,Occupied,727820.0
+New Mexico,2006,Occupied,726033.0
+New Mexico,2007,Occupied,734847.0
+New Mexico,2008,Occupied,741399.0
+New Mexico,2009,Occupied,742104.0
+New Mexico,2010,Occupied,765183.0
+New Mexico,2011,Occupied,767285.0
+New Mexico,2012,Occupied,764996.0
+New Mexico,2013,Occupied,753507.0
+New Mexico,2014,Occupied,760916.0
+New Mexico,2015,Occupied,761797.0
+New Mexico,2016,Occupied,758364.0
+New Mexico,2017,Occupied,767705.0
+New Mexico,2018,Occupied,794093.0
+New Mexico,2019,Occupied,793420.0
+New York,2005,Occupied,7114431.0
+New York,2006,Occupied,7088376.0
+New York,2007,Occupied,7099940.0
+New York,2008,Occupied,7137482.0
+New York,2009,Occupied,7187555.0
+New York,2010,Occupied,7196427.0
+New York,2011,Occupied,7187938.0
+New York,2012,Occupied,7238922.0
+New York,2013,Occupied,7219356.0
+New York,2014,Occupied,7282398.0
+New York,2015,Occupied,7233694.0
+New York,2016,Occupied,7209054.0
+New York,2017,Occupied,7304332.0
+New York,2018,Occupied,7367015.0
+New York,2019,Occupied,7446812.0
+North Carolina,2005,Occupied,3409840.0
+North Carolina,2006,Occupied,3454068.0
+North Carolina,2007,Occupied,3540875.0
+North Carolina,2008,Occupied,3595175.0
+North Carolina,2009,Occupied,3646095.0
+North Carolina,2010,Occupied,3670859.0
+North Carolina,2011,Occupied,3683364.0
+North Carolina,2012,Occupied,3731325.0
+North Carolina,2013,Occupied,3757480.0
+North Carolina,2014,Occupied,3790620.0
+North Carolina,2015,Occupied,3843745.0
+North Carolina,2016,Occupied,3882423.0
+North Carolina,2017,Occupied,3955069.0
+North Carolina,2018,Occupied,4011462.0
+North Carolina,2019,Occupied,4046348.0
+North Dakota,2005,Occupied,270437.0
+North Dakota,2006,Occupied,272352.0
+North Dakota,2007,Occupied,271724.0
+North Dakota,2008,Occupied,274743.0
+North Dakota,2009,Occupied,279014.0
+North Dakota,2010,Occupied,280412.0
+North Dakota,2011,Occupied,283440.0
+North Dakota,2012,Occupied,290944.0
+North Dakota,2013,Occupied,298298.0
+North Dakota,2014,Occupied,305431.0
+North Dakota,2015,Occupied,313475.0
+North Dakota,2016,Occupied,315134.0
+North Dakota,2017,Occupied,316306.0
+North Dakota,2018,Occupied,319355.0
+North Dakota,2019,Occupied,323519.0
+Ohio,2005,Occupied,4507821.0
+Ohio,2006,Occupied,4499506.0
+Ohio,2007,Occupied,4505995.0
+Ohio,2008,Occupied,4508871.0
+Ohio,2009,Occupied,4526404.0
+Ohio,2010,Occupied,4525066.0
+Ohio,2011,Occupied,4538555.0
+Ohio,2012,Occupied,4554672.0
+Ohio,2013,Occupied,4564745.0
+Ohio,2014,Occupied,4593172.0
+Ohio,2015,Occupied,4606655.0
+Ohio,2016,Occupied,4624669.0
+Ohio,2017,Occupied,4667192.0
+Ohio,2018,Occupied,4685447.0
+Ohio,2019,Occupied,4730340.0
+Oklahoma,2005,Occupied,1380595.0
+Oklahoma,2006,Occupied,1385300.0
+Oklahoma,2007,Occupied,1399932.0
+Oklahoma,2008,Occupied,1407933.0
+Oklahoma,2009,Occupied,1430019.0
+Oklahoma,2010,Occupied,1432959.0
+Oklahoma,2011,Occupied,1442731.0
+Oklahoma,2012,Occupied,1446667.0
+Oklahoma,2013,Occupied,1447277.0
+Oklahoma,2014,Occupied,1459759.0
+Oklahoma,2015,Occupied,1465951.0
+Oklahoma,2016,Occupied,1469342.0
+Oklahoma,2017,Occupied,1470364.0
+Oklahoma,2018,Occupied,1485310.0
+Oklahoma,2019,Occupied,1495151.0
+Oregon,2005,Occupied,1425340.0
+Oregon,2006,Occupied,1449662.0
+Oregon,2007,Occupied,1471965.0
+Oregon,2008,Occupied,1474755.0
+Oregon,2009,Occupied,1485919.0
+Oregon,2010,Occupied,1507137.0
+Oregon,2011,Occupied,1516979.0
+Oregon,2012,Occupied,1516957.0
+Oregon,2013,Occupied,1523799.0
+Oregon,2014,Occupied,1535511.0
+Oregon,2015,Occupied,1553205.0
+Oregon,2016,Occupied,1571678.0
+Oregon,2017,Occupied,1603635.0
+Oregon,2018,Occupied,1639970.0
+Oregon,2019,Occupied,1649352.0
+Pennsylvania,2005,Occupied,4860140.0
+Pennsylvania,2006,Occupied,4845603.0
+Pennsylvania,2007,Occupied,4873482.0
+Pennsylvania,2008,Occupied,4904554.0
+Pennsylvania,2009,Occupied,4916869.0
+Pennsylvania,2010,Occupied,4936030.0
+Pennsylvania,2011,Occupied,4937333.0
+Pennsylvania,2012,Occupied,4958249.0
+Pennsylvania,2013,Occupied,4938894.0
+Pennsylvania,2014,Occupied,4945972.0
+Pennsylvania,2015,Occupied,4956037.0
+Pennsylvania,2016,Occupied,4937771.0
+Pennsylvania,2017,Occupied,5008751.0
+Pennsylvania,2018,Occupied,5070931.0
+Pennsylvania,2019,Occupied,5119249.0
+Puerto Rico,2005,Occupied,1254318.0
+Puerto Rico,2006,Occupied,1240456.0
+Puerto Rico,2007,Occupied,1204285.0
+Puerto Rico,2008,Occupied,1186497.0
+Puerto Rico,2009,Occupied,1181112.0
+Puerto Rico,2010,Occupied,1319448.0
+Puerto Rico,2011,Occupied,1256151.0
+Puerto Rico,2012,Occupied,1263694.0
+Puerto Rico,2013,Occupied,1253690.0
+Puerto Rico,2014,Occupied,1233490.0
+Puerto Rico,2015,Occupied,1221851.0
+Puerto Rico,2016,Occupied,1208438.0
+Puerto Rico,2017,Occupied,1191305.0
+Puerto Rico,2018,Occupied,1179637.0
+Puerto Rico,2019,Occupied,1170982.0
+Rhode Island,2005,Occupied,406089.0
+Rhode Island,2006,Occupied,405627.0
+Rhode Island,2007,Occupied,402538.0
+Rhode Island,2008,Occupied,399107.0
+Rhode Island,2009,Occupied,406343.0
+Rhode Island,2010,Occupied,402295.0
+Rhode Island,2011,Occupied,412259.0
+Rhode Island,2012,Occupied,413083.0
+Rhode Island,2013,Occupied,406366.0
+Rhode Island,2014,Occupied,409654.0
+Rhode Island,2015,Occupied,407484.0
+Rhode Island,2016,Occupied,408239.0
+Rhode Island,2017,Occupied,408748.0
+Rhode Island,2018,Occupied,406573.0
+Rhode Island,2019,Occupied,407174.0
+South Carolina,2005,Occupied,1635907.0
+South Carolina,2006,Occupied,1656978.0
+South Carolina,2007,Occupied,1702564.0
+South Carolina,2008,Occupied,1702300.0
+South Carolina,2009,Occupied,1730232.0
+South Carolina,2010,Occupied,1761393.0
+South Carolina,2011,Occupied,1768834.0
+South Carolina,2012,Occupied,1787340.0
+South Carolina,2013,Occupied,1794989.0
+South Carolina,2014,Occupied,1826914.0
+South Carolina,2015,Occupied,1857768.0
+South Carolina,2016,Occupied,1877887.0
+South Carolina,2017,Occupied,1905100.0
+South Carolina,2018,Occupied,1927991.0
+South Carolina,2019,Occupied,1975915.0
+South Dakota,2005,Occupied,310331.0
+South Dakota,2006,Occupied,312477.0
+South Dakota,2007,Occupied,312912.0
+South Dakota,2008,Occupied,319926.0
+South Dakota,2009,Occupied,316638.0
+South Dakota,2010,Occupied,318955.0
+South Dakota,2011,Occupied,323215.0
+South Dakota,2012,Occupied,323765.0
+South Dakota,2013,Occupied,331406.0
+South Dakota,2014,Occupied,334475.0
+South Dakota,2015,Occupied,339437.0
+South Dakota,2016,Occupied,334003.0
+South Dakota,2017,Occupied,344260.0
+South Dakota,2018,Occupied,345449.0
+South Dakota,2019,Occupied,353799.0
+Tennessee,2005,Occupied,2366130.0
+Tennessee,2006,Occupied,2375123.0
+Tennessee,2007,Occupied,2407765.0
+Tennessee,2008,Occupied,2434683.0
+Tennessee,2009,Occupied,2447066.0
+Tennessee,2010,Occupied,2440663.0
+Tennessee,2011,Occupied,2467428.0
+Tennessee,2012,Occupied,2480090.0
+Tennessee,2013,Occupied,2490249.0
+Tennessee,2014,Occupied,2509665.0
+Tennessee,2015,Occupied,2530260.0
+Tennessee,2016,Occupied,2556332.0
+Tennessee,2017,Occupied,2588655.0
+Tennessee,2018,Occupied,2603140.0
+Tennessee,2019,Occupied,2654737.0
+Texas,2005,Occupied,7978095.0
+Texas,2006,Occupied,8109388.0
+Texas,2007,Occupied,8244022.0
+Texas,2008,Occupied,8422249.0
+Texas,2009,Occupied,8527938.0
+Texas,2010,Occupied,8738664.0
+Texas,2011,Occupied,8850370.0
+Texas,2012,Occupied,8970959.0
+Texas,2013,Occupied,9110853.0
+Texas,2014,Occupied,9277197.0
+Texas,2015,Occupied,9421412.0
+Texas,2016,Occupied,9535612.0
+Texas,2017,Occupied,9623874.0
+Texas,2018,Occupied,9776083.0
+Texas,2019,Occupied,9985126.0
+Utah,2005,Occupied,791929.0
+Utah,2006,Occupied,814028.0
+Utah,2007,Occupied,835320.0
+Utah,2008,Occupied,854244.0
+Utah,2009,Occupied,863122.0
+Utah,2010,Occupied,880025.0
+Utah,2011,Occupied,884253.0
+Utah,2012,Occupied,895691.0
+Utah,2013,Occupied,899475.0
+Utah,2014,Occupied,918370.0
+Utah,2015,Occupied,930980.0
+Utah,2016,Occupied,943147.0
+Utah,2017,Occupied,975448.0
+Utah,2018,Occupied,998891.0
+Utah,2019,Occupied,1023855.0
+Vermont,2005,Occupied,248825.0
+Vermont,2006,Occupied,253808.0
+Vermont,2007,Occupied,252580.0
+Vermont,2008,Occupied,249986.0
+Vermont,2009,Occupied,251736.0
+Vermont,2010,Occupied,256922.0
+Vermont,2011,Occupied,257358.0
+Vermont,2012,Occupied,258520.0
+Vermont,2013,Occupied,253234.0
+Vermont,2014,Occupied,257229.0
+Vermont,2015,Occupied,254865.0
+Vermont,2016,Occupied,254851.0
+Vermont,2017,Occupied,256629.0
+Vermont,2018,Occupied,261373.0
+Vermont,2019,Occupied,262767.0
+Virginia,2005,Occupied,2889688.0
+Virginia,2006,Occupied,2905071.0
+Virginia,2007,Occupied,2932234.0
+Virginia,2008,Occupied,2961083.0
+Virginia,2009,Occupied,2971489.0
+Virginia,2010,Occupied,2992732.0
+Virginia,2011,Occupied,2990650.0
+Virginia,2012,Occupied,3038967.0
+Virginia,2013,Occupied,3055863.0
+Virginia,2014,Occupied,3083820.0
+Virginia,2015,Occupied,3106895.0
+Virginia,2016,Occupied,3120692.0
+Virginia,2017,Occupied,3120880.0
+Virginia,2018,Occupied,3175524.0
+Virginia,2019,Occupied,3191847.0
+Washington,2005,Occupied,2450474.0
+Washington,2006,Occupied,2471912.0
+Washington,2007,Occupied,2501509.0
+Washington,2008,Occupied,2547663.0
+Washington,2009,Occupied,2559288.0
+Washington,2010,Occupied,2606863.0
+Washington,2011,Occupied,2632621.0
+Washington,2012,Occupied,2636817.0
+Washington,2013,Occupied,2644557.0
+Washington,2014,Occupied,2679601.0
+Washington,2015,Occupied,2728573.0
+Washington,2016,Occupied,2768076.0
+Washington,2017,Occupied,2840377.0
+Washington,2018,Occupied,2895575.0
+Washington,2019,Occupied,2932477.0
+West Virginia,2005,Occupied,740702.0
+West Virginia,2006,Occupied,743064.0
+West Virginia,2007,Occupied,733849.0
+West Virginia,2008,Occupied,749586.0
+West Virginia,2009,Occupied,748517.0
+West Virginia,2010,Occupied,741940.0
+West Virginia,2011,Occupied,735408.0
+West Virginia,2012,Occupied,741544.0
+West Virginia,2013,Occupied,738653.0
+West Virginia,2014,Occupied,735375.0
+West Virginia,2015,Occupied,734536.0
+West Virginia,2016,Occupied,722125.0
+West Virginia,2017,Occupied,715308.0
+West Virginia,2018,Occupied,734703.0
+West Virginia,2019,Occupied,728175.0
+Wisconsin,2005,Occupied,2219571.0
+Wisconsin,2006,Occupied,2230060.0
+Wisconsin,2007,Occupied,2241597.0
+Wisconsin,2008,Occupied,2249630.0
+Wisconsin,2009,Occupied,2272274.0
+Wisconsin,2010,Occupied,2279532.0
+Wisconsin,2011,Occupied,2275352.0
+Wisconsin,2012,Occupied,2288362.0
+Wisconsin,2013,Occupied,2289424.0
+Wisconsin,2014,Occupied,2307685.0
+Wisconsin,2015,Occupied,2319538.0
+Wisconsin,2016,Occupied,2326998.0
+Wisconsin,2017,Occupied,2350293.0
+Wisconsin,2018,Occupied,2371960.0
+Wisconsin,2019,Occupied,2386623.0
+Wyoming,2005,Occupied,204935.0
+Wyoming,2006,Occupied,207302.0
+Wyoming,2007,Occupied,206136.0
+Wyoming,2008,Occupied,208613.0
+Wyoming,2009,Occupied,213571.0
+Wyoming,2010,Occupied,222803.0
+Wyoming,2011,Occupied,222539.0
+Wyoming,2012,Occupied,223513.0
+Wyoming,2013,Occupied,224003.0
+Wyoming,2014,Occupied,232594.0
+Wyoming,2015,Occupied,228937.0
+Wyoming,2016,Occupied,223619.0
+Wyoming,2017,Occupied,225796.0
+Wyoming,2018,Occupied,230252.0
+Wyoming,2019,Occupied,233128.0
+Alabama,2005,Vacant,293448.0
+Alabama,2006,Vacant,314081.0
+Alabama,2007,Vacant,320699.0
+Alabama,2008,Vacant,342827.0
+Alabama,2009,Vacant,334307.0
+Alabama,2010,Vacant,359276.0
+Alabama,2011,Vacant,337653.0
+Alabama,2012,Vacant,344398.0
+Alabama,2013,Vacant,367588.0
+Alabama,2014,Vacant,366813.0
+Alabama,2015,Vacant,372001.0
+Alabama,2016,Vacant,377662.0
+Alabama,2017,Vacant,417004.0
+Alabama,2018,Vacant,419527.0
+Alabama,2019,Vacant,387346.0
+Alaska,2005,Vacant,40994.0
+Alaska,2006,Vacant,46712.0
+Alaska,2007,Vacant,45850.0
+Alaska,2008,Vacant,45796.0
+Alaska,2009,Vacant,47298.0
+Alaska,2010,Vacant,52455.0
+Alaska,2011,Vacant,53852.0
+Alaska,2012,Vacant,55977.0
+Alaska,2013,Vacant,61402.0
+Alaska,2014,Vacant,58912.0
+Alaska,2015,Vacant,59268.0
+Alaska,2016,Vacant,62204.0
+Alaska,2017,Vacant,66227.0
+Alaska,2018,Vacant,63801.0
+Alaska,2019,Vacant,67668.0
+Arizona,2005,Vacant,340793.0
+Arizona,2006,Vacant,380103.0
+Arizona,2007,Vacant,416004.0
+Arizona,2008,Vacant,448870.0
+Arizona,2009,Vacant,476194.0
+Arizona,2010,Vacant,512688.0
+Arizona,2011,Vacant,508305.0
+Arizona,2012,Vacant,479318.0
+Arizona,2013,Vacant,491550.0
+Arizona,2014,Vacant,480593.0
+Arizona,2015,Vacant,466165.0
+Arizona,2016,Vacant,442084.0
+Arizona,2017,Vacant,446213.0
+Arizona,2018,Vacant,421604.0
+Arizona,2019,Vacant,405607.0
+Arkansas,2005,Vacant,161574.0
+Arkansas,2006,Vacant,170005.0
+Arkansas,2007,Vacant,184738.0
+Arkansas,2008,Vacant,184135.0
+Arkansas,2009,Vacant,184896.0
+Arkansas,2010,Vacant,202916.0
+Arkansas,2011,Vacant,196850.0
+Arkansas,2012,Vacant,184366.0
+Arkansas,2013,Vacant,203878.0
+Arkansas,2014,Vacant,209793.0
+Arkansas,2015,Vacant,202935.0
+Arkansas,2016,Vacant,212083.0
+Arkansas,2017,Vacant,217027.0
+Arkansas,2018,Vacant,224174.0
+Arkansas,2019,Vacant,225512.0
+California,2005,Vacant,891360.0
+California,2006,Vacant,1023554.0
+California,2007,Vacant,1108033.0
+California,2008,Vacant,1217383.0
+California,2009,Vacant,1219646.0
+California,2010,Vacant,1276501.0
+California,2011,Vacant,1252444.0
+California,2012,Vacant,1155539.0
+California,2013,Vacant,1140670.0
+California,2014,Vacant,1142946.0
+California,2015,Vacant,1092042.0
+California,2016,Vacant,1117197.0
+California,2017,Vacant,1172173.0
+California,2018,Vacant,1205745.0
+California,2019,Vacant,1209139.0
+Colorado,2005,Vacant,234141.0
+Colorado,2006,Vacant,248247.0
+Colorado,2007,Vacant,267393.0
+Colorado,2008,Vacant,254289.0
+Colorado,2009,Vacant,257756.0
+Colorado,2010,Vacant,253677.0
+Colorado,2011,Vacant,249273.0
+Colorado,2012,Vacant,234448.0
+Colorado,2013,Vacant,244491.0
+Colorado,2014,Vacant,236688.0
+Colorado,2015,Vacant,234387.0
+Colorado,2016,Vacant,230148.0
+Colorado,2017,Vacant,246288.0
+Colorado,2018,Vacant,247371.0
+Colorado,2019,Vacant,229006.0
+Connecticut,2005,Vacant,99505.0
+Connecticut,2006,Vacant,106807.0
+Connecticut,2007,Vacant,117834.0
+Connecticut,2008,Vacant,113887.0
+Connecticut,2009,Vacant,119511.0
+Connecticut,2010,Vacant,129406.0
+Connecticut,2011,Vacant,142399.0
+Connecticut,2012,Vacant,130190.0
+Connecticut,2013,Vacant,148212.0
+Connecticut,2014,Vacant,137815.0
+Connecticut,2015,Vacant,152353.0
+Connecticut,2016,Vacant,141876.0
+Connecticut,2017,Vacant,160733.0
+Connecticut,2018,Vacant,143032.0
+Connecticut,2019,Vacant,147793.0
+Delaware,2005,Vacant,57232.0
+Delaware,2006,Vacant,62756.0
+Delaware,2007,Vacant,60142.0
+Delaware,2008,Vacant,64313.0
+Delaware,2009,Vacant,69018.0
+Delaware,2010,Vacant,77724.0
+Delaware,2011,Vacant,76587.0
+Delaware,2012,Vacant,70000.0
+Delaware,2013,Vacant,72944.0
+Delaware,2014,Vacant,67670.0
+Delaware,2015,Vacant,69139.0
+Delaware,2016,Vacant,75069.0
+Delaware,2017,Vacant,74916.0
+Delaware,2018,Vacant,70988.0
+Delaware,2019,Vacant,67525.0
+District of Columbia,2005,Vacant,29562.0
+District of Columbia,2006,Vacant,32444.0
+District of Columbia,2007,Vacant,33196.0
+District of Columbia,2008,Vacant,35367.0
+District of Columbia,2009,Vacant,35884.0
+District of Columbia,2010,Vacant,44448.0
+District of Columbia,2011,Vacant,30238.0
+District of Columbia,2012,Vacant,33585.0
+District of Columbia,2013,Vacant,31324.0
+District of Columbia,2014,Vacant,28806.0
+District of Columbia,2015,Vacant,27809.0
+District of Columbia,2016,Vacant,32462.0
+District of Columbia,2017,Vacant,33368.0
+District of Columbia,2018,Vacant,32103.0
+District of Columbia,2019,Vacant,31244.0
+Florida,2005,Vacant,1208047.0
+Florida,2006,Vacant,1425818.0
+Florida,2007,Vacant,1627641.0
+Florida,2008,Vacant,1740928.0
+Florida,2009,Vacant,1860525.0
+Florida,2010,Vacant,1959023.0
+Florida,2011,Vacant,1920988.0
+Florida,2012,Vacant,1833587.0
+Florida,2013,Vacant,1836389.0
+Florida,2014,Vacant,1816604.0
+Florida,2015,Vacant,1747103.0
+Florida,2016,Vacant,1728684.0
+Florida,2017,Vacant,1751621.0
+Florida,2018,Vacant,1738404.0
+Florida,2019,Vacant,1768221.0
+Georgia,2005,Vacant,451188.0
+Georgia,2006,Vacant,496642.0
+Georgia,2007,Vacant,544528.0
+Georgia,2008,Vacant,556336.0
+Georgia,2009,Vacant,594256.0
+Georgia,2010,Vacant,609062.0
+Georgia,2011,Vacant,608576.0
+Georgia,2012,Vacant,574646.0
+Georgia,2013,Vacant,563197.0
+Georgia,2014,Vacant,563866.0
+Georgia,2015,Vacant,525821.0
+Georgia,2016,Vacant,532968.0
+Georgia,2017,Vacant,537180.0
+Georgia,2018,Vacant,523254.0
+Georgia,2019,Vacant,525636.0
+Hawaii,2005,Vacant,61064.0
+Hawaii,2006,Vacant,67389.0
+Hawaii,2007,Vacant,67066.0
+Hawaii,2008,Vacant,75737.0
+Hawaii,2009,Vacant,69527.0
+Hawaii,2010,Vacant,74180.0
+Hawaii,2011,Vacant,73751.0
+Hawaii,2012,Vacant,76639.0
+Hawaii,2013,Vacant,76185.0
+Hawaii,2014,Vacant,79349.0
+Hawaii,2015,Vacant,86477.0
+Hawaii,2016,Vacant,81302.0
+Hawaii,2017,Vacant,84877.0
+Hawaii,2018,Vacant,90952.0
+Hawaii,2019,Vacant,85029.0
+Idaho,2005,Vacant,63437.0
+Idaho,2006,Vacant,67148.0
+Idaho,2007,Vacant,70455.0
+Idaho,2008,Vacant,75539.0
+Idaho,2009,Vacant,89071.0
+Idaho,2010,Vacant,91925.0
+Idaho,2011,Vacant,94201.0
+Idaho,2012,Vacant,89942.0
+Idaho,2013,Vacant,87703.0
+Idaho,2014,Vacant,93511.0
+Idaho,2015,Vacant,95061.0
+Idaho,2016,Vacant,89957.0
+Idaho,2017,Vacant,96683.0
+Idaho,2018,Vacant,95433.0
+Idaho,2019,Vacant,95254.0
+Illinois,2005,Vacant,453603.0
+Illinois,2006,Vacant,475491.0
+Illinois,2007,Vacant,486537.0
+Illinois,2008,Vacant,509830.0
+Illinois,2009,Vacant,533426.0
+Illinois,2010,Vacant,544220.0
+Illinois,2011,Vacant,559001.0
+Illinois,2012,Vacant,519955.0
+Illinois,2013,Vacant,506232.0
+Illinois,2014,Vacant,535087.0
+Illinois,2015,Vacant,523095.0
+Illinois,2016,Vacant,505119.0
+Illinois,2017,Vacant,550744.0
+Illinois,2018,Vacant,511312.0
+Illinois,2019,Vacant,522204.0
+Indiana,2005,Vacant,281419.0
+Indiana,2006,Vacant,321309.0
+Indiana,2007,Vacant,315675.0
+Indiana,2008,Vacant,314493.0
+Indiana,2009,Vacant,331939.0
+Indiana,2010,Vacant,326267.0
+Indiana,2011,Vacant,333688.0
+Indiana,2012,Vacant,328353.0
+Indiana,2013,Vacant,311245.0
+Indiana,2014,Vacant,326891.0
+Indiana,2015,Vacant,326307.0
+Indiana,2016,Vacant,321325.0
+Indiana,2017,Vacant,328043.0
+Indiana,2018,Vacant,304407.0
+Indiana,2019,Vacant,323350.0
+Iowa,2005,Vacant,106110.0
+Iowa,2006,Vacant,111215.0
+Iowa,2007,Vacant,115035.0
+Iowa,2008,Vacant,113389.0
+Iowa,2009,Vacant,115248.0
+Iowa,2010,Vacant,114124.0
+Iowa,2011,Vacant,123823.0
+Iowa,2012,Vacant,118663.0
+Iowa,2013,Vacant,113398.0
+Iowa,2014,Vacant,120563.0
+Iowa,2015,Vacant,122130.0
+Iowa,2016,Vacant,132155.0
+Iowa,2017,Vacant,140234.0
+Iowa,2018,Vacant,141695.0
+Iowa,2019,Vacant,131379.0
+Kansas,2005,Vacant,124273.0
+Kansas,2006,Vacant,119103.0
+Kansas,2007,Vacant,130265.0
+Kansas,2008,Vacant,115600.0
+Kansas,2009,Vacant,127019.0
+Kansas,2010,Vacant,132379.0
+Kansas,2011,Vacant,136037.0
+Kansas,2012,Vacant,124792.0
+Kansas,2013,Vacant,126026.0
+Kansas,2014,Vacant,139581.0
+Kansas,2015,Vacant,142307.0
+Kansas,2016,Vacant,149463.0
+Kansas,2017,Vacant,144793.0
+Kansas,2018,Vacant,147145.0
+Kansas,2019,Vacant,150101.0
+Kentucky,2005,Vacant,211618.0
+Kentucky,2006,Vacant,236425.0
+Kentucky,2007,Vacant,250431.0
+Kentucky,2008,Vacant,234256.0
+Kentucky,2009,Vacant,240798.0
+Kentucky,2010,Vacant,244269.0
+Kentucky,2011,Vacant,260597.0
+Kentucky,2012,Vacant,230317.0
+Kentucky,2013,Vacant,231011.0
+Kentucky,2014,Vacant,238410.0
+Kentucky,2015,Vacant,240965.0
+Kentucky,2016,Vacant,247871.0
+Kentucky,2017,Vacant,259201.0
+Kentucky,2018,Vacant,262474.0
+Kentucky,2019,Vacant,257603.0
+Louisiana,2005,Vacant,263800.0
+Louisiana,2006,Vacant,264955.0
+Louisiana,2007,Vacant,261475.0
+Louisiana,2008,Vacant,257981.0
+Louisiana,2009,Vacant,275310.0
+Louisiana,2010,Vacant,278125.0
+Louisiana,2011,Vacant,276944.0
+Louisiana,2012,Vacant,267586.0
+Louisiana,2013,Vacant,262818.0
+Louisiana,2014,Vacant,292843.0
+Louisiana,2015,Vacant,286829.0
+Louisiana,2016,Vacant,316266.0
+Louisiana,2017,Vacant,324459.0
+Louisiana,2018,Vacant,338916.0
+Louisiana,2019,Vacant,348748.0
+Maine,2005,Vacant,141641.0
+Maine,2006,Vacant,142917.0
+Maine,2007,Vacant,152729.0
+Maine,2008,Vacant,158187.0
+Maine,2009,Vacant,159719.0
+Maine,2010,Vacant,176800.0
+Maine,2011,Vacant,173599.0
+Maine,2012,Vacant,169644.0
+Maine,2013,Vacant,175454.0
+Maine,2014,Vacant,177852.0
+Maine,2015,Vacant,184166.0
+Maine,2016,Vacant,199126.0
+Maine,2017,Vacant,201685.0
+Maine,2018,Vacant,176285.0
+Maine,2019,Vacant,177346.0
+Maryland,2005,Vacant,188146.0
+Maryland,2006,Vacant,211718.0
+Maryland,2007,Vacant,235972.0
+Maryland,2008,Vacant,240558.0
+Maryland,2009,Vacant,246210.0
+Maryland,2010,Vacant,253166.0
+Maryland,2011,Vacant,256991.0
+Maryland,2012,Vacant,237918.0
+Maryland,2013,Vacant,242497.0
+Maryland,2014,Vacant,256879.0
+Maryland,2015,Vacant,256531.0
+Maryland,2016,Vacant,252554.0
+Maryland,2017,Vacant,241780.0
+Maryland,2018,Vacant,242844.0
+Maryland,2019,Vacant,243540.0
+Massachusetts,2005,Vacant,239982.0
+Massachusetts,2006,Vacant,262723.0
+Massachusetts,2007,Vacant,273190.0
+Massachusetts,2008,Vacant,268322.0
+Massachusetts,2009,Vacant,272983.0
+Massachusetts,2010,Vacant,288308.0
+Massachusetts,2011,Vacant,286961.0
+Massachusetts,2012,Vacant,288000.0
+Massachusetts,2013,Vacant,277320.0
+Massachusetts,2014,Vacant,279256.0
+Massachusetts,2015,Vacant,285854.0
+Massachusetts,2016,Vacant,278689.0
+Massachusetts,2017,Vacant,289636.0
+Massachusetts,2018,Vacant,290749.0
+Massachusetts,2019,Vacant,278138.0
+Michigan,2005,Vacant,590513.0
+Michigan,2006,Vacant,644385.0
+Michigan,2007,Vacant,677907.0
+Michigan,2008,Vacant,724767.0
+Michigan,2009,Vacant,721734.0
+Michigan,2010,Vacant,724610.0
+Michigan,2011,Vacant,753221.0
+Michigan,2012,Vacant,706013.0
+Michigan,2013,Vacant,692800.0
+Michigan,2014,Vacant,705514.0
+Michigan,2015,Vacant,691792.0
+Michigan,2016,Vacant,676011.0
+Michigan,2017,Vacant,665257.0
+Michigan,2018,Vacant,657086.0
+Michigan,2019,Vacant,659725.0
+Minnesota,2005,Vacant,231878.0
+Minnesota,2006,Vacant,240540.0
+Minnesota,2007,Vacant,241792.0
+Minnesota,2008,Vacant,241754.0
+Minnesota,2009,Vacant,245476.0
+Minnesota,2010,Vacant,256694.0
+Minnesota,2011,Vacant,257598.0
+Minnesota,2012,Vacant,249131.0
+Minnesota,2013,Vacant,248800.0
+Minnesota,2014,Vacant,256066.0
+Minnesota,2015,Vacant,249819.0
+Minnesota,2016,Vacant,260976.0
+Minnesota,2017,Vacant,275515.0
+Minnesota,2018,Vacant,261185.0
+Minnesota,2019,Vacant,254947.0
+Mississippi,2005,Vacant,151462.0
+Mississippi,2006,Vacant,165918.0
+Mississippi,2007,Vacant,174897.0
+Mississippi,2008,Vacant,172983.0
+Mississippi,2009,Vacant,186989.0
+Mississippi,2010,Vacant,196442.0
+Mississippi,2011,Vacant,200769.0
+Mississippi,2012,Vacant,193376.0
+Mississippi,2013,Vacant,192190.0
+Mississippi,2014,Vacant,198915.0
+Mississippi,2015,Vacant,196561.0
+Mississippi,2016,Vacant,216247.0
+Mississippi,2017,Vacant,231774.0
+Mississippi,2018,Vacant,224001.0
+Mississippi,2019,Vacant,238818.0
+Missouri,2005,Vacant,307529.0
+Missouri,2006,Vacant,317968.0
+Missouri,2007,Vacant,337753.0
+Missouri,2008,Vacant,334022.0
+Missouri,2009,Vacant,342331.0
+Missouri,2010,Vacant,363389.0
+Missouri,2011,Vacant,382375.0
+Missouri,2012,Vacant,360952.0
+Missouri,2013,Vacant,356256.0
+Missouri,2014,Vacant,380994.0
+Missouri,2015,Vacant,372464.0
+Missouri,2016,Vacant,388036.0
+Missouri,2017,Vacant,407310.0
+Missouri,2018,Vacant,371490.0
+Missouri,2019,Vacant,360997.0
+Montana,2005,Vacant,60089.0
+Montana,2006,Vacant,59890.0
+Montana,2007,Vacant,63632.0
+Montana,2008,Vacant,62739.0
+Montana,2009,Vacant,66031.0
+Montana,2010,Vacant,80259.0
+Montana,2011,Vacant,84933.0
+Montana,2012,Vacant,77223.0
+Montana,2013,Vacant,79479.0
+Montana,2014,Vacant,80553.0
+Montana,2015,Vacant,79418.0
+Montana,2016,Vacant,81624.0
+Montana,2017,Vacant,87317.0
+Montana,2018,Vacant,83740.0
+Montana,2019,Vacant,82287.0
+Nebraska,2005,Vacant,71359.0
+Nebraska,2006,Vacant,73683.0
+Nebraska,2007,Vacant,80864.0
+Nebraska,2008,Vacant,81698.0
+Nebraska,2009,Vacant,78174.0
+Nebraska,2010,Vacant,78373.0
+Nebraska,2011,Vacant,77382.0
+Nebraska,2012,Vacant,70704.0
+Nebraska,2013,Vacant,76309.0
+Nebraska,2014,Vacant,74192.0
+Nebraska,2015,Vacant,76766.0
+Nebraska,2016,Vacant,79629.0
+Nebraska,2017,Vacant,83050.0
+Nebraska,2018,Vacant,79521.0
+Nebraska,2019,Vacant,79723.0
+Nevada,2005,Vacant,112708.0
+Nevada,2006,Vacant,128439.0
+Nevada,2007,Vacant,148342.0
+Nevada,2008,Vacant,174244.0
+Nevada,2009,Vacant,172330.0
+Nevada,2010,Vacant,185259.0
+Nevada,2011,Vacant,201565.0
+Nevada,2012,Vacant,176237.0
+Nevada,2013,Vacant,184365.0
+Nevada,2014,Vacant,177450.0
+Nevada,2015,Vacant,167799.0
+Nevada,2016,Vacant,166601.0
+Nevada,2017,Vacant,155120.0
+Nevada,2018,Vacant,138907.0
+Nevada,2019,Vacant,142124.0
+New Hampshire,2005,Vacant,86270.0
+New Hampshire,2006,Vacant,85337.0
+New Hampshire,2007,Vacant,92621.0
+New Hampshire,2008,Vacant,91802.0
+New Hampshire,2009,Vacant,93745.0
+New Hampshire,2010,Vacant,99565.0
+New Hampshire,2011,Vacant,101248.0
+New Hampshire,2012,Vacant,97868.0
+New Hampshire,2013,Vacant,97250.0
+New Hampshire,2014,Vacant,100109.0
+New Hampshire,2015,Vacant,104989.0
+New Hampshire,2016,Vacant,104694.0
+New Hampshire,2017,Vacant,105989.0
+New Hampshire,2018,Vacant,106900.0
+New Hampshire,2019,Vacant,100902.0
+New Jersey,2005,Vacant,302025.0
+New Jersey,2006,Vacant,337292.0
+New Jersey,2007,Vacant,348876.0
+New Jersey,2008,Vacant,361911.0
+New Jersey,2009,Vacant,370028.0
+New Jersey,2010,Vacant,382488.0
+New Jersey,2011,Vacant,395091.0
+New Jersey,2012,Vacant,375964.0
+New Jersey,2013,Vacant,402121.0
+New Jersey,2014,Vacant,397003.0
+New Jersey,2015,Vacant,405759.0
+New Jersey,2016,Vacant,410169.0
+New Jersey,2017,Vacant,397093.0
+New Jersey,2018,Vacant,378631.0
+New Jersey,2019,Vacant,355590.0
+New Mexico,2005,Vacant,110848.0
+New Mexico,2006,Vacant,124120.0
+New Mexico,2007,Vacant,127248.0
+New Mexico,2008,Vacant,130322.0
+New Mexico,2009,Vacant,135962.0
+New Mexico,2010,Vacant,137059.0
+New Mexico,2011,Vacant,140883.0
+New Mexico,2012,Vacant,141842.0
+New Mexico,2013,Vacant,151627.0
+New Mexico,2014,Vacant,151994.0
+New Mexico,2015,Vacant,153182.0
+New Mexico,2016,Vacant,159277.0
+New Mexico,2017,Vacant,170271.0
+New Mexico,2018,Vacant,149139.0
+New Mexico,2019,Vacant,155050.0
+New York,2005,Vacant,738589.0
+New York,2006,Vacant,819138.0
+New York,2007,Vacant,840132.0
+New York,2008,Vacant,839901.0
+New York,2009,Vacant,830423.0
+New York,2010,Vacant,911784.0
+New York,2011,Vacant,931866.0
+New York,2012,Vacant,884663.0
+New York,2013,Vacant,907043.0
+New York,2014,Vacant,909130.0
+New York,2015,Vacant,973467.0
+New York,2016,Vacant,1022985.0
+New York,2017,Vacant,1023289.0
+New York,2018,Vacant,996832.0
+New York,2019,Vacant,957393.0
+North Carolina,2005,Vacant,530714.0
+North Carolina,2006,Vacant,572490.0
+North Carolina,2007,Vacant,583191.0
+North Carolina,2008,Vacant,605272.0
+North Carolina,2009,Vacant,612478.0
+North Carolina,2010,Vacant,662620.0
+North Carolina,2011,Vacant,679592.0
+North Carolina,2012,Vacant,644075.0
+North Carolina,2013,Vacant,637035.0
+North Carolina,2014,Vacant,661844.0
+North Carolina,2015,Vacant,647345.0
+North Carolina,2016,Vacant,658274.0
+North Carolina,2017,Vacant,667587.0
+North Carolina,2018,Vacant,673500.0
+North Carolina,2019,Vacant,701800.0
+North Dakota,2005,Vacant,34021.0
+North Dakota,2006,Vacant,34630.0
+North Dakota,2007,Vacant,38714.0
+North Dakota,2008,Vacant,38275.0
+North Dakota,2009,Vacant,36611.0
+North Dakota,2010,Vacant,37687.0
+North Dakota,2011,Vacant,37448.0
+North Dakota,2012,Vacant,38305.0
+North Dakota,2013,Vacant,40995.0
+North Dakota,2014,Vacant,45103.0
+North Dakota,2015,Vacant,49414.0
+North Dakota,2016,Vacant,53411.0
+North Dakota,2017,Vacant,58285.0
+North Dakota,2018,Vacant,58306.0
+North Dakota,2019,Vacant,56455.0
+Ohio,2005,Vacant,499270.0
+Ohio,2006,Vacant,545850.0
+Ohio,2007,Vacant,559259.0
+Ohio,2008,Vacant,571371.0
+Ohio,2009,Vacant,567910.0
+Ohio,2010,Vacant,603047.0
+Ohio,2011,Vacant,594973.0
+Ohio,2012,Vacant,574174.0
+Ohio,2013,Vacant,559381.0
+Ohio,2014,Vacant,554110.0
+Ohio,2015,Vacant,549891.0
+Ohio,2016,Vacant,539731.0
+Ohio,2017,Vacant,534509.0
+Ohio,2018,Vacant,532170.0
+Ohio,2019,Vacant,502603.0
+Oklahoma,2005,Vacant,208154.0
+Oklahoma,2006,Vacant,222116.0
+Oklahoma,2007,Vacant,223168.0
+Oklahoma,2008,Vacant,229280.0
+Oklahoma,2009,Vacant,220165.0
+Oklahoma,2010,Vacant,233246.0
+Oklahoma,2011,Vacant,231993.0
+Oklahoma,2012,Vacant,230979.0
+Oklahoma,2013,Vacant,235081.0
+Oklahoma,2014,Vacant,239797.0
+Oklahoma,2015,Vacant,245564.0
+Oklahoma,2016,Vacant,251730.0
+Oklahoma,2017,Vacant,263710.0
+Oklahoma,2018,Vacant,257763.0
+Oklahoma,2019,Vacant,254369.0
+Oregon,2005,Vacant,133081.0
+Oregon,2006,Vacant,136938.0
+Oregon,2007,Vacant,137799.0
+Oregon,2008,Vacant,154147.0
+Oregon,2009,Vacant,153620.0
+Oregon,2010,Vacant,169339.0
+Oregon,2011,Vacant,167265.0
+Oregon,2012,Vacant,165574.0
+Oregon,2013,Vacant,160308.0
+Oregon,2014,Vacant,165100.0
+Oregon,2015,Vacant,165304.0
+Oregon,2016,Vacant,161209.0
+Oregon,2017,Vacant,164947.0
+Oregon,2018,Vacant,148773.0
+Oregon,2019,Vacant,159130.0
+Pennsylvania,2005,Vacant,562222.0
+Pennsylvania,2006,Vacant,608044.0
+Pennsylvania,2007,Vacant,604676.0
+Pennsylvania,2008,Vacant,591955.0
+Pennsylvania,2009,Vacant,601710.0
+Pennsylvania,2010,Vacant,632790.0
+Pennsylvania,2011,Vacant,642061.0
+Pennsylvania,2012,Vacant,614516.0
+Pennsylvania,2013,Vacant,626460.0
+Pennsylvania,2014,Vacant,644740.0
+Pennsylvania,2015,Vacant,647014.0
+Pennsylvania,2016,Vacant,674224.0
+Pennsylvania,2017,Vacant,685651.0
+Pennsylvania,2018,Vacant,642205.0
+Pennsylvania,2019,Vacant,613331.0
+Puerto Rico,2005,Vacant,186365.0
+Puerto Rico,2006,Vacant,197141.0
+Puerto Rico,2007,Vacant,230037.0
+Puerto Rico,2008,Vacant,245706.0
+Puerto Rico,2009,Vacant,247515.0
+Puerto Rico,2010,Vacant,317768.0
+Puerto Rico,2011,Vacant,311808.0
+Puerto Rico,2012,Vacant,319743.0
+Puerto Rico,2013,Vacant,319159.0
+Puerto Rico,2014,Vacant,337785.0
+Puerto Rico,2015,Vacant,351681.0
+Puerto Rico,2016,Vacant,347442.0
+Puerto Rico,2017,Vacant,370497.0
+Puerto Rico,2018,Vacant,373424.0
+Puerto Rico,2019,Vacant,388523.0
+Rhode Island,2005,Vacant,41721.0
+Rhode Island,2006,Vacant,43947.0
+Rhode Island,2007,Vacant,48339.0
+Rhode Island,2008,Vacant,52663.0
+Rhode Island,2009,Vacant,45837.0
+Rhode Island,2010,Vacant,61121.0
+Rhode Island,2011,Vacant,52482.0
+Rhode Island,2012,Vacant,49535.0
+Rhode Island,2013,Vacant,55292.0
+Rhode Island,2014,Vacant,52976.0
+Rhode Island,2015,Vacant,55071.0
+Rhode Island,2016,Vacant,54359.0
+Rhode Island,2017,Vacant,59518.0
+Rhode Island,2018,Vacant,62580.0
+Rhode Island,2019,Vacant,63003.0
+South Carolina,2005,Vacant,291957.0
+South Carolina,2006,Vacant,318838.0
+South Carolina,2007,Vacant,319469.0
+South Carolina,2008,Vacant,353879.0
+South Carolina,2009,Vacant,354129.0
+South Carolina,2010,Vacant,378944.0
+South Carolina,2011,Vacant,388229.0
+South Carolina,2012,Vacant,369428.0
+South Carolina,2013,Vacant,363795.0
+South Carolina,2014,Vacant,361344.0
+South Carolina,2015,Vacant,352382.0
+South Carolina,2016,Vacant,358375.0
+South Carolina,2017,Vacant,379720.0
+South Carolina,2018,Vacant,390300.0
+South Carolina,2019,Vacant,375449.0
+South Dakota,2005,Vacant,37600.0
+South Dakota,2006,Vacant,39812.0
+South Dakota,2007,Vacant,43352.0
+South Dakota,2008,Vacant,41529.0
+South Dakota,2009,Vacant,48053.0
+South Dakota,2010,Vacant,45076.0
+South Dakota,2011,Vacant,43306.0
+South Dakota,2012,Vacant,44482.0
+South Dakota,2013,Vacant,38801.0
+South Dakota,2014,Vacant,41872.0
+South Dakota,2015,Vacant,40870.0
+South Dakota,2016,Vacant,49824.0
+South Dakota,2017,Vacant,48390.0
+South Dakota,2018,Vacant,52057.0
+South Dakota,2019,Vacant,47950.0
+Tennessee,2005,Vacant,271311.0
+Tennessee,2006,Vacant,306197.0
+Tennessee,2007,Vacant,317164.0
+Tennessee,2008,Vacant,323578.0
+Tennessee,2009,Vacant,333722.0
+Tennessee,2010,Vacant,374424.0
+Tennessee,2011,Vacant,361697.0
+Tennessee,2012,Vacant,354718.0
+Tennessee,2013,Vacant,350749.0
+Tennessee,2014,Vacant,359754.0
+Tennessee,2015,Vacant,362147.0
+Tennessee,2016,Vacant,363366.0
+Tennessee,2017,Vacant,370144.0
+Tennessee,2018,Vacant,389272.0
+Tennessee,2019,Vacant,373700.0
+Texas,2005,Vacant,1047916.0
+Texas,2006,Vacant,1115532.0
+Texas,2007,Vacant,1189097.0
+Texas,2008,Vacant,1176824.0
+Texas,2009,Vacant,1196320.0
+Texas,2010,Vacant,1257545.0
+Texas,2011,Vacant,1248872.0
+Texas,2012,Vacant,1183876.0
+Texas,2013,Vacant,1145350.0
+Texas,2014,Vacant,1149563.0
+Texas,2015,Vacant,1166824.0
+Texas,2016,Vacant,1218656.0
+Texas,2017,Vacant,1309501.0
+Texas,2018,Vacant,1325415.0
+Texas,2019,Vacant,1298766.0
+Utah,2005,Vacant,81168.0
+Utah,2006,Vacant,87294.0
+Utah,2007,Vacant,89975.0
+Utah,2008,Vacant,90231.0
+Utah,2009,Vacant,89738.0
+Utah,2010,Vacant,101796.0
+Utah,2011,Vacant,108872.0
+Utah,2012,Vacant,101086.0
+Utah,2013,Vacant,106689.0
+Utah,2014,Vacant,104223.0
+Utah,2015,Vacant,107085.0
+Utah,2016,Vacant,111095.0
+Utah,2017,Vacant,109237.0
+Utah,2018,Vacant,109848.0
+Utah,2019,Vacant,109688.0
+Vermont,2005,Vacant,58520.0
+Vermont,2006,Vacant,55758.0
+Vermont,2007,Vacant,58840.0
+Vermont,2008,Vacant,62632.0
+Vermont,2009,Vacant,62523.0
+Vermont,2010,Vacant,65776.0
+Vermont,2011,Vacant,67027.0
+Vermont,2012,Vacant,65532.0
+Vermont,2013,Vacant,70702.0
+Vermont,2014,Vacant,68545.0
+Vermont,2015,Vacant,72009.0
+Vermont,2016,Vacant,74688.0
+Vermont,2017,Vacant,78619.0
+Vermont,2018,Vacant,75760.0
+Vermont,2019,Vacant,76645.0
+Virginia,2005,Vacant,285020.0
+Virginia,2006,Vacant,325750.0
+Virginia,2007,Vacant,340972.0
+Virginia,2008,Vacant,345390.0
+Virginia,2009,Vacant,358992.0
+Virginia,2010,Vacant,375942.0
+Virginia,2011,Vacant,397151.0
+Virginia,2012,Vacant,359422.0
+Virginia,2013,Vacant,356714.0
+Virginia,2014,Vacant,362765.0
+Virginia,2015,Vacant,362057.0
+Virginia,2016,Vacant,370493.0
+Virginia,2017,Vacant,392037.0
+Virginia,2018,Vacant,363461.0
+Virginia,2019,Vacant,370411.0
+Washington,2005,Vacant,201171.0
+Washington,2006,Vacant,227746.0
+Washington,2007,Vacant,242815.0
+Washington,2008,Vacant,244102.0
+Washington,2009,Vacant,255009.0
+Washington,2010,Vacant,281731.0
+Washington,2011,Vacant,274984.0
+Washington,2012,Vacant,277958.0
+Washington,2013,Vacant,283743.0
+Washington,2014,Vacant,283692.0
+Washington,2015,Vacant,263011.0
+Washington,2016,Vacant,257726.0
+Washington,2017,Vacant,262886.0
+Washington,2018,Vacant,252509.0
+Washington,2019,Vacant,262621.0
+West Virginia,2005,Vacant,131501.0
+West Virginia,2006,Vacant,134523.0
+West Virginia,2007,Vacant,148782.0
+West Virginia,2008,Vacant,136833.0
+West Virginia,2009,Vacant,145249.0
+West Virginia,2010,Vacant,140273.0
+West Virginia,2011,Vacant,146413.0
+West Virginia,2012,Vacant,141256.0
+West Virginia,2013,Vacant,140771.0
+West Virginia,2014,Vacant,149199.0
+West Virginia,2015,Vacant,151003.0
+West Virginia,2016,Vacant,164585.0
+West Virginia,2017,Vacant,176932.0
+West Virginia,2018,Vacant,159039.0
+West Virginia,2019,Vacant,166808.0
+Wisconsin,2005,Vacant,278929.0
+Wisconsin,2006,Vacant,302898.0
+Wisconsin,2007,Vacant,316681.0
+Wisconsin,2008,Vacant,319122.0
+Wisconsin,2009,Vacant,312068.0
+Wisconsin,2010,Vacant,345945.0
+Wisconsin,2011,Vacant,359454.0
+Wisconsin,2012,Vacant,344263.0
+Wisconsin,2013,Vacant,343996.0
+Wisconsin,2014,Vacant,340657.0
+Wisconsin,2015,Vacant,337131.0
+Wisconsin,2016,Vacant,341445.0
+Wisconsin,2017,Vacant,345010.0
+Wisconsin,2018,Vacant,338758.0
+Wisconsin,2019,Vacant,338530.0
+Wyoming,2005,Vacant,30786.0
+Wyoming,2006,Vacant,31786.0
+Wyoming,2007,Vacant,36208.0
+Wyoming,2008,Vacant,37805.0
+Wyoming,2009,Vacant,35833.0
+Wyoming,2010,Vacant,39483.0
+Wyoming,2011,Vacant,43015.0
+Wyoming,2012,Vacant,41694.0
+Wyoming,2013,Vacant,41468.0
+Wyoming,2014,Vacant,35611.0
+Wyoming,2015,Vacant,40532.0
+Wyoming,2016,Vacant,47006.0
+Wyoming,2017,Vacant,50937.0
+Wyoming,2018,Vacant,48363.0
+Wyoming,2019,Vacant,47153.0
